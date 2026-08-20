@@ -1,0 +1,41 @@
+body {
+    background-color: #F0EBE4;
+    margin: 0;
+    padding-top: 0;
+}
+
+h1 {
+    text-align:center;
+    font-family: "Cinzel", "Times New Roman", serif;
+    background-image: url("../image/minuscule_caroline.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color: #F0EBE4;
+    text-align: center;
+    text-shadow: 4px 3px 5px black;
+}
+
+h2 {
+    text-align: -moz-left;
+    background-color: #D17F71;
+    height: 35px;
+    line-height: 35px;
+    margin-right: 40px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #333;
+    font-family: Garamond, serif;
+    line-height: 1.4;
+}
+
+
+
+
+
+
+
+
+

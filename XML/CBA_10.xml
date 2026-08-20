@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Reichenau">Monasterium Augiense</settlement>
+                    </msIdentifier>
+                    <msContents>
+                        <p> Isti libri in insula Awa monasterio sancta Maria scripti sunt, qui
+                            subtus notantur sub RUADHELMO ex quo eidem coenobio abba praeficiebatur.
+                        </p>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0840" notAfter="0842"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body>
+            <p>Incipit brevis librorum quos ego Reginbertus indignus monachus atque scriba in insula
+                coenobii vocabulo Sindleozes Auua sub dominatu WALDONIS, HEITONIS, ERELEBALDI, et
+                RUADHELMI abbatum, eorum permissu de meo gradu scripsi aut scribere feci, vel
+                donatione amicorum suscepi.</p>
+            <div>
+            <p n="1">Inprimis <term type="liber">liber</term> I prograndis, in quo continentur 
+                <bibl type="exegesis" corresp="#in_oration_dom">super orationem dominicam nonnullorum catholicorum explanationes</bibl>. Deinde 
+                <bibl type="exegesis" corresp="#in_symbol_apost">super symbolum apostolorum quam plurimorum orthodoxorum tractationes cum caeteris de fide
+                tractantibus diverso modo explanatio</bibl>. et 
+                <bibl corresp="#in_missa">expositio de missa</bibl> et 
+                <bibl corresp="#ord_missa">de ordine ecclesiastico missa</bibl>, et 
+                <bibl corresp="#ord_eccl">de ordinibus ecclesiasticis</bibl>, et 
+                <bibl corresp="#rat_bapt">de ratione sacramenti baptismatis</bibl>. Deinde 
+                <bibl type="canones" corresp="#canon">diversi canones, id est Graecia, Africa, Gallia, Hispaniaque</bibl>.
+                Postea <bibl type="epistola" corresp="#epist_decretales">decretales epistola antistitum Romanorum</bibl> ac deinceps 
+                <bibl corresp="#canon_testamento">canones ex veteri et novo testamento composita</bibl>, postmodum 
+                <bibl corresp="#paenitentium">diversi libri paenitentiarum</bibl>.</p>
+            <p n="2"> In secundo libro continentur 
+                <bibl type="comput" corresp="#comput_romanorum">computationes regum Romanorum Cæsarum consulumque</bibl>.
+                Deinde <bibl corresp="#gramm_Don"><term type="liber">libri</term> grammaticae artis <author
+                        corresp="#DONATUS">Donati</author></bibl>, et 
+                <bibl corresp="#dam_Beda">de  metrica arte <author corresp="#BEDA">Beda presbyteri</author></bibl>, et
+                <bibl corresp="#gramm_Servius"><term type="libellus">libellus</term> de centum metris</bibl>. Et 
+                <bibl corresp="#Symph"><term type="liber">liber</term> de enigmatibus <author corresp="#SYMPHOSIUS">Symphosis</author></bibl>. Et
+                <bibl type="fabula" corresp="#fab_Anian"><term type="liber">liber</term> fabularum <author corresp="#ANIANUS">Aniani poetae</author></bibl>. Et 
+                <bibl type="musica" corresp="#mus_Boeth" ana="fragmentum"><term type="liber">libri</term> duo <author corresp="#BOETHIUS">Boetii</author> de musica arte [et
+                    libri quinque Boetii de musica arte addit Ziegelb.]</bibl>. Et 
+                <bibl corresp="#astrol_Aratus"><term type="liber">liber</term> astrologia <author corresp="#ARATUS">Arati</author></bibl>. Et 
+                <bibl corresp="#geom_Boeth">libri <author corresp="#BOETHIUS">Boetii</author> geometricorum</bibl>. Et 
+                <bibl corresp="#rhet_dial_Alcuinus"><term type="liber">libri</term> duo <author corresp="#ALCUINUS">Alcuini</author> de retorica et dialectica arte</bibl>. Et 
+                <bibl corresp="#mens_orbis_Caes"><term type="liber">liber</term> <author corresp="#IULIUS_CAESAR">Julii Caesaris</author> de mensione universi orbis</bibl>. Et 
+                <bibl corresp="#cosmogr"><term type="liber">liber</term> ethicae [Aethici Ziegelb.] <author corresp="#HIERONYMUS">Hieronymi</author> de cosmographia</bibl>, et 
+                <bibl type="architectura" corresp="#archit_Cet_Fav">libri duo de architectura <author corresp="#FAVENTINUS">Faventini</author></bibl> et 
+                <bibl corresp="#herbarius"><term type="liber">liber</term> unus hebraicus [herbarius Ziegelbauer] Apulei</bibl>.</p>
+            <p n="3"> In tertio <term type="liber">libro</term> habentur 
+                <bibl type="chronica" corresp="#chron_Euseb_Hier">chronica 
+                    <author corresp="#EUSEBIUS_CAESARIENSIS">Eusebii Caesariensis episcopi</author> et 
+                    <author ana="traducteur" corresp="#HIERONYMUS">Hieronymi presbyteri</author> et 
+                    <author corresp="#PROSPER">Prosperi</author>.</bibl> Et 
+                <bibl type="chronica" corresp="#chron_Cassiod">chronica <author corresp="#CASSIODORUS">Cassiodori Senatoris</author></bibl>, et 
+                <bibl type="chronica" corresp="#Get_Iord">chronica <author corresp="#IORDANES">Iordanis episcopi</author></bibl> et
+                <bibl type="chronica" corresp="#chron_Mellitus">chronica <author corresp="#MELLITUS">Melliti</author></bibl>. Et 
+                <bibl type="chronica" corresp="#chron_Beda">chronica <author corresp="#BEDA">Beda presb</author>.</bibl> et 
+                <bibl type="chronica" corresp="#chron_Isid">chronica excerpta <author corresp="#ISIDORUS">Isidori episcopi</author></bibl>  et 
+                <bibl type="chronica" corresp="#chron_Isid">chronica brevis</bibl>. Deinde 
+                <bibl corresp="#not_Plin_Sec">notarum <author corresp="#PLINIUS_SECUNDUS">Plinii Secundi</author> <term type="liber">lib</term>. I</bibl> et 
+                <bibl corresp="#nat_Isid">notarum <author corresp="#ISIDORUS">Isidori ep.</author> <term type="liber">lib</term>. I</bibl> et 
+                <bibl corresp="#de_nat_rerum_Beda">notarum de naturis rerum <author corresp="#BEDA">Beda presb.</author>
+                    <term type="liber">liber</term> excerptus ex diversis <term type="liber">lib</term>. I</bibl> et 
+                <bibl type="epistola" corresp="#epist_Victor">epistola <author corresp="#VICTOR">Victoris</author></bibl> et 
+                <bibl corresp="#cycl_p_Dionys_Exig"><author corresp="#DIONYSIUS_EXIGUUS">Dionysii</author> de ratione cycli paschalis</bibl>. Et 
+                <bibl corresp="#de_cyclis">de cyclis decennovalibus [decennalibus Zieg.] cycli XXVIII</bibl>. Et 
+                <bibl type="versus" corresp="#de_diebus_mens">versus diversi de septem diebus et mensibus</bibl> et 
+                <bibl corresp="#de_signis">XII signis vocabulis</bibl>. Et 
+                <bibl type="liturgia" corresp="#martyrologium">martyrologium per anni circulum</bibl>. Et 
+                <bibl corresp="#de_num_fig">in autea [mantea Ziegelb. ] de diversis numeris et figuris</bibl>. </p>
+            <p n="4"> In quarto <term type="liber">libro</term> sunt 
+                <bibl corresp="#gramm_Don"><term type="liber">libri</term> grammatica artis <author corresp="#DONATUS">Donati</author> maiores et minores partes orationis</bibl>. Et 
+                <bibl corresp="#dam_Beda">de arte medica [metrica Ziegelb.] <term type="liber">libri</term> <author corresp="#BEDA">Beda presb</author>.</bibl> et 
+                <bibl corresp="#gramm_Alcuinus">de arte grammatica <author corresp="#ALCUINUS">Alchuini</author> <term type="liber">libri</term> et declinationes</bibl>. Et 
+                <bibl type="metrum" corresp="#Iuvenc">metrum <author corresp="#IUVENCUS">Iuvenci</author></bibl> et 
+                <bibl corresp="#Sedul"><author corresp="#SEDULIUS">Sedulii</author> super <term type="liber">libros</term> IV evangeliorum</bibl>. 
+                <gloss>Ipsumque librum Wano frater meus mihi dedit, et ego illum praestavi nepoti meo Ratherio. 
+                    Volo [voto Ziegelb.] ut veniat ad alios libros nostros</gloss>.</p>
+            <p n="5"> In quinto <term type="liber">libro</term> continentur 
+                <bibl corresp="#prognost"><term type="liber">libri</term> prognosticorum [progn. Ziegelb.] III</bibl> et 
+                <bibl corresp="#dial">IV <term type="liber">liber</term> dialogorum</bibl>, et 
+                <bibl type="visio" corresp="#visio_Fursei"><term type="liber">liber</term> Fursei de visione eius</bibl>, et
+                <bibl type="gesta" corresp="#gesta_Angl_Beda">nonnullae visiones excerpta de <term type="liber">libris</term> gestorum Anglorum <author corresp="#BEDA">Bedae</author></bibl> et 
+                <bibl type="visio" corresp="#visio_Barontii">de visione Barontii [Barontis Ziegelb.] monachi</bibl>. Et 
+                <bibl type="visio" corresp="#visio_Wettini"><term type="liber">liber</term> visionis Wettini fratris nostri, 
+                    quam <author corresp="#HEITO">Heito episcopus</author> descripsit</bibl>, et 
+                <bibl type="metrum" corresp="#Wal_Strabo"><author corresp="#WALAFRID_STRABO">Walafrid</author> [Wehlafrid Zieg.] frater noster metricis versibus
+                    <gloss>subsequens illam [illum Zieg.] decoravit</gloss></bibl>.</p>
+            <p n="6"> In sexto <term type="liber">libro</term> comprehenduntur 
+                <bibl type="liturgia" corresp="#hymn_sanct">diversi versus et nonnullorum hymni sanctorum</bibl>. et 
+                <bibl type="epitaphia" corresp="#epitaph_sanct">aliquorum [aliorum Zieg.] epitaphia sanctorum</bibl> et 
+                <bibl><bibl type="liturgia" corresp="#martyrologium">martyrologium</bibl> cum 
+                    <bibl type="comput" corresp="#comput">computo et cyclo</bibl></bibl>, et 
+                <bibl corresp="#de_diebus_mens">versus de diebus et mensibus et XII signis</bibl>, et 
+                <bibl type="glossae" corresp="#glossae_test">diversae glossae super istoriam veteris ac novi testamenti</bibl> et 
+                <bibl type="glossae" corresp="#glossae">super alios quam plurimos <term type="liber">libros</term></bibl> et 
+                <bibl corresp="#not_Caes">notæ <author corresp="#IULIUS_CAESAR">Julii Caesaris</author></bibl> et 
+                <bibl corresp="#monogr">monogrammae diversae</bibl> et 
+                <bibl corresp="#nat_Plin"><term type="liber">liber</term> <author corresp="#PLINIUS_SECUNDUS">Plinii Secundi</author> de natura [naturis Zieg.] rerum</bibl>.</p>
+            <p n="7"> In septimo <term type="liber">libro</term> constat esse 
+                <bibl corresp="#de_haer"><term type="liber">liber</term> de haeresibus</bibl> et
+                <bibl corresp="#de_praedest_Ps_Aug"><term type="liber">liber</term> fictus sub nomine <author corresp="#AUGUSTINUS">S. Augustini</author> scriptus de praedestinatione</bibl>. Et 
+                <bibl corresp="#c_haer">tertius <term type="liber">liber</term> sanctorum patrum contra eundem librum hæreticorum defendendo catholice</bibl>, et 
+                <bibl corresp="#rat_anim"><term type="libellus">libellus</term> de ratione animae</bibl> et
+                <bibl corresp="#dogm_Gennad">dogma <author corresp="#GENNADIUS">sancti Gennadii</author> ecclesiastica</bibl>.</p>
+            <p n="8">
+                <bibl>In octavo <term type="liber">libro</term> sunt 
+                    <bibl corresp="#cons_Boeth"><term type="liber">libri</term> V de philosophia consolationis <author corresp="#BOETHIUS">Boetii</author></bibl> et
+                    <bibl corresp="#ad_mon_Basil">admonitiones <author corresp="#BASILIUS">S. Basilii</author> <term type="liber">liber</term> necessarius</bibl>. Et 
+                    <bibl corresp="#de_declin">in capite <term type="liber">libri</term> pauca de declinationibus</bibl>.</bibl></p>
+            <p n="9"> In nono <term type="liber">libro</term> continentur 
+                <bibl type="vita">passiones et vitæ sanctorum id est 
+                    <bibl type="vita" corresp="#vita_Haimani">Haimani</bibl>, 
+                    <bibl type="vita" corresp="#passio_Lantberti">Lantberti [Luntberti Zieg.]</bibl>, 
+                    <bibl type="vita" corresp="#passio_Afra">Afra</bibl>, 
+                    <bibl type="vita" corresp="#passio_Magret">Magret</bibl>, 
+                    <bibl type="vita" corresp="#passio_Gregorii">Gregorii</bibl>, 
+                    <bibl type="vita" corresp="#passio_Georgii">Georgii</bibl>, 
+                    <bibl type="vita" corresp="#passio_Malchi">Malchi</bibl>, 
+                    <bibl type="vita" corresp="#passio_Eusebii">Eusebii</bibl>, 
+                    <bibl type="vita" corresp="#passio_Fileberti">Fileberti</bibl>, 
+                    <bibl type="vita" corresp="#passio_Hilarii">Hilarii</bibl>, 
+                    <bibl type="vita" corresp="#passio_Potiti">Potiti</bibl>, 
+                    <bibl type="vita" corresp="#passio_Columbani">Columbani</bibl>, 
+                    <bibl type="vita" corresp="#passio_Galli">Galli</bibl>, 
+                    <bibl type="vita" corresp="#passio_Germani">Germani</bibl>, 
+                    <bibl type="vita" corresp="#passio_Ambrosii">Ambrosii</bibl>, 
+                    <bibl type="vita" corresp="#passio_Servatii">Servatii</bibl></bibl> et 
+                    <bibl type="epistola" corresp="#epist_Hier">VIII epistolæ <author corresp="#HIERONYMUS">Hieronymi</author></bibl> et 
+                    <bibl corresp="#Cassiod"><term type="liber">liber</term> <author corresp="#CASSIODORUS">Cassiodori Senatoris</author></bibl>.</p>
+            <p n="10"> In decimo <term type="liber">libro</term> habentur 
+                <bibl type="vita" corresp="#vita_Hieronymi">vita et passiones sanctorum Hieronymi</bibl>, 
+                <bibl type="vita" corresp="#vita_Ambrosii">Ambrosii</bibl>, 
+                <bibl type="vita" corresp="#vita_Sixti">Sixti</bibl>, 
+                <bibl type="vita" corresp="#vita_Laurentii">Laurentii</bibl>, 
+                <bibl type="vita" corresp="#vita_Alexandri">Alexandri</bibl>,
+                <bibl type="vita" corresp="#vita_Benigni">Benigni</bibl>. 
+                <bibl corresp="#obitu_Bedae">De obitu Bedae presbyt.</bibl> et 
+                <bibl type="epitaphia" corresp="#epitaph_Beda">eius epitaphium</bibl>, 
+                <bibl corresp="#obitu_Bonifacii">Bonifacii</bibl>,
+                <bibl corresp="#obitu_Vincentiae">Vincentiae</bibl>.</p>
+            <p n="11"> In undecimo <term type="liber">libro</term> constat inesse 
+                <bibl type="vita" corresp="#vita_Bonifacii">vitas et passiones sanctorum Bonifacii</bibl>, 
+                <bibl type="vita" corresp="#vita_Marcialis">Marcialis</bibl>, 
+                <bibl type="vita" corresp="#vita_Medardi">Medardi</bibl>, 
+                <bibl type="vita" corresp="#vita_Sergii">Sergii</bibl>, 
+                <bibl type="vita" corresp="#vita_Bacchi">Bacchi</bibl>, 
+                <bibl type="vita" corresp="#vita_Goaris">Goaris presb.</bibl> 
+                <bibl type="vita" corresp="#vita_Quintini">Quintini martyris</bibl>.</p>
+            <p n="12"> in duodecimo <term type="libellus">libello</term> sunt 
+                <bibl type="vita" corresp="#vita_Felicis">vitae et passiones sanctorum Felicis</bibl>, 
+                <bibl type="vita" corresp="#vita_Fortunati">Fortunati</bibl>, 
+                <bibl type="vita" corresp="#vita_Remedii">Remedii episcopi</bibl>, 
+                <bibl type="vita" corresp="#vita_Genesi">Genesi</bibl>, 
+                <bibl type="vita" corresp="#vita_Sopasci">Sopasci</bibl>, 
+                <bibl type="vita" corresp="#vita_Niepori">Niepori</bibl>, 
+                <bibl type="vita" corresp="#vita_Andronici">Andronici</bibl>, 
+                <bibl type="vita" corresp="#vita_Chrysanti">Chrysanti</bibl>, 
+                <bibl type="vita" corresp="#vita_Dariae">Dariæ</bibl>, 
+                <bibl type="vita" corresp="#vita_Mani">Mani</bibl>,
+                <bibl type="vita" corresp="#vita_Agnetis">Agnetis</bibl>, 
+                <bibl type="vita" corresp="#vita_Eugeniae">Eugeniae</bibl>, 
+                <bibl type="vita" corresp="#vita_Caeciliae">Caeciliae</bibl>, 
+                <bibl type="vita" corresp="#vita_Theodosiae">Theodosiae [Theodorae Zieg.] cum tribus filiis
+                suis, Perpetua et Felicitatis, Christiana [Christinae Ziegelb.] virgini</bibl>s.</p>
+            <p n="13"> In tertio decimo <term type="libellus">libello</term> continentur 
+                <bibl type="vita" corresp="#vita_Christophi">vita et passiones sanctorum Christophori</bibl>, 
+                <bibl type="vita" corresp="#vita_Clementis">Clementis</bibl>, 
+                <bibl type="vita" corresp="#vita_Cyriaci">Cyriaci</bibl>, 
+                <bibl type="vita" corresp="#vita_Largi">Largi</bibl>, 
+                <bibl type="vita" corresp="#vita_Smaragdi">Smaragdi</bibl>, 
+                <bibl type="vita" corresp="#vita_Crescentiani">Crescentiani</bibl>,
+                <bibl type="vita" corresp="#vita_Juliana">Juliana</bibl>, 
+                <bibl corresp="#miracl_Genesii">de miraculis Genesii</bibl>,
+                <bibl corresp="#miracl_Modesti">Modesti</bibl>, 
+                <bibl corresp="#miracl_Viti">Viti</bibl>, 
+                <bibl corresp="#miracl_Crescentiae">Crescentiae</bibl>,
+                <bibl type="conversio" corresp="#convers_Fustinae">conversio Fustinae [Iustinae Zieg.]</bibl>, 
+                <bibl corresp="#convers_Leodarii">Leodearii</bibl>,
+                <bibl corresp="#invent_Steph">inventio corporis S. Stephani</bibl>. </p>
+            <p n="14"> In quarto decimo <term type="libellus">libello</term> habentur 
+                <bibl type="vita" corresp="#vita_Faustini_Iovitae">vitae et passiones Faustini et Iovitae</bibl>, 
+                <bibl type="vita" corresp="#vita_Theonistae">Theonistae [Theoctistae Zieg.]</bibl>, 
+                <bibl type="vita" corresp="#vita_Tabrae_Tabrachum">Tabrae [Tubrae Zieg.] et Tabrachum</bibl>, 
+                <bibl type="vita" corresp="#vita_Marciani">Marciani [Mariani Zieg.] secundi</bibl>, 
+                <bibl type="vita" corresp="#vita_Innocentis">Innocentis [-tii Zieg.]</bibl>,
+                <bibl type="vita" corresp="#vita_Gertrudis">Gertrudis virg.</bibl> et 
+                <bibl type="vita" corresp="#vita_Pelagiarum">Pelagiarum duarum</bibl>.</p>
+            <p n="15"> In quinto decimo <term type="libellus">libello</term> sunt 
+                <bibl type="vita" corresp="#vita_Galli"><term type="liber">libri</term> duo de vita et virtutibus S. Galli confessoris</bibl> et 
+                <bibl type="vita" corresp="#vita_Longelli">vita S. Longelli sacerdotis</bibl>, et 
+                <bibl type="vita" corresp="#vita_Agnafledae">Agnafledae [-tae Zieg.] virginis</bibl>.</p>
+            <p n="16"> In sexto decimo <term type="libellus">libello</term> est 
+                <bibl type="exegesis" corresp="#in_epist_canon">exegesis brevis super VII epistolas canonicas</bibl>,
+                et <bibl type="vita" corresp="#passio_Dion_Rust_Eleut">passio sanctorum Dyonisii, Rustici et Eleutherii martyrum</bibl> et homelia pertinens ad
+                solemnitatem eorum.</p>
+            <p n="17"> In septimo decimo <term type="liber">libro</term> continentur leges diversae, id est 
+                <bibl type="lex" corresp="#lex_Alamannica">lex Alemannorum</bibl>, 
+                <bibl type="lex" corresp="#lex_Ripuaria">lex Ripuaria</bibl>, 
+                <bibl type="lex" corresp="#lex_Salica">lex Salica</bibl>, 
+                <bibl type="lex" corresp="#lex_Theodosiana">lex Theodosiana</bibl> et 
+                <bibl type="collectio">
+                    <bibl type="capitulares" corresp="#capit_Pippini">diversi capitular. <author corresp="#PEPIN">Pippini</author></bibl>, 
+                    <bibl type="capitulares" corresp="#capit_Karoli"><author corresp="#KAROLUS">Karoli</author></bibl> et 
+                    <bibl type="capitulares" corresp="#capit_Hludovici"><author corresp="#LOUIS_LE_PIEUX">Hludovici regum</author></bibl></bibl>. Et
+                <bibl type="liturgia" corresp="#ordo_ecclesiast">ordo ecclesiasticus Romanae ecclesiæ</bibl> et 
+                <bibl type="liturgia" corresp="#missa_celebr">qualiter missa celebretur</bibl>, et 
+                <bibl type="liturgia" corresp="#off_pasch">de officiis divinis in noctibus a caena Domini usque in pascha</bibl> et 
+                <bibl corresp="#in_reliq">qualiter in sancta Romana ecclesiae reliquiae conduntur</bibl>, et 
+                <bibl corresp="#in_ordinat">quomodo in sancta Romana ecclesia ordinationes fiant.</bibl> Et 
+                <bibl type="capitulares" corresp="#capit_in_laborandi">capitula in omnibus laborandi cura</bibl>.</p>
+            <p n="18"> In octavo decimo <term type="libellus">libello</term> continentur 
+                <bibl type="lex" corresp="#lex_Ripuaria">lex Ripuaria</bibl> et 
+                <bibl type="lex" corresp="#lex_Alamannica">lex Alemannorum</bibl> et 
+                <bibl type="capitulares" corresp="#capit_Karoli">capitularia Karoli regis addenda legibus,</bibl> et 
+                <bibl corresp="#de_aetat_mundi">de sex aetatibus mundi</bibl>. Et 
+                <bibl corresp="#invent_Cruc">de inventionibus sanctae crucis</bibl>, 
+                <gloss>quem Engilram mihi dedit</gloss>, et 
+                <bibl type="capitulares" corresp="#capit_Hludovici">capitular, tres in quibus continentur capitularia <author corresp="#LOUIS_LE_PIEUX">Hludovici imperatoris</author></bibl>.</p>
+            <p n="19"> In nono decimo <term type="libellus">libello</term> habetur 
+                <bibl type="collectio">
+                    <bibl type="lex" corresp="#lex_Longobardorum">lex Longobardorum</bibl> et 
+                    <bibl type="vita" corresp="#passio_Servuli">passio Servuli</bibl></bibl>, 
+                <gloss>quem emi [emi om Zieg.] VIII denariis</gloss>.</p>
+            <p n="20"> in vigesimo <term type="libellus">libello</term> est 
+                <bibl>
+                    <bibl type="regula" corresp="#reg_Bened">regula <author corresp="#BENEDICTUS">S. Benedicti abbatis</author></bibl>. Et 
+                    <bibl type="liturgia" corresp="#hymn_Ambros">hymni Ambrosiani</bibl>, et 
+                    <bibl type="epistola" corresp="#epist_ad_Karolum">epistola ad regem Karolum de monasterio S. Benedicti directa et capitulares
+                        ... de statu regulae</bibl>. Et 
+                    <bibl type="liturgia" corresp="#martyrologium">martyrologium per anni circulum</bibl></bibl>, 
+                <gloss>quem Tatto et Crimolt mihi condonaverunt</gloss>.</p>
+            <p n="21"> In XX primo <term type="libellus">libello</term> continentur 
+                <bibl corresp="#carm_Theod">XII carmina Theodisca linguae formata</bibl>.</p>
+            <p n="22"> In XX secundo <term type="libellus">libello</term> habentur 
+                <bibl type="liturgia" corresp="#paenitent">diversi paenitentiarum <term type="liber">libri</term> a diversis doctoribus editi</bibl> et
+                <bibl corresp="#carm_Theod">carmina diversa ad docendum Theodiscam linguam</bibl>, et 
+                <bibl corresp="#invent_Benedicti">de inventione corporis S. Benedicti</bibl> et
+                caetera.</p>
+            <p n="23"> In XX tertio <term type="libellus">libello</term> est 
+                <bibl type="liturgia" corresp="#antiphonarium">antiphonarius gradualis [Ceradalis Zieg.]</bibl>, 
+                <bibl type="liturgia" corresp="#antiphon">antiphonae de litanis vel de quacumque tribulatione</bibl>, et 
+                <bibl corresp="#instit_station">de institutione stationum</bibl>. Et 
+                <bibl corresp="#observ_off">de observatione divini officii erga psalmos</bibl>, et 
+                <bibl corresp="#ord_lib">de ordine <term type="liber">librorum</term> quomodo per anni circulum poni possint</bibl>, 
+                <gloss>quem Tatto et Crimolt mihi dederunt</gloss>.</p>
+            <p n="24"> In XXIV <term type="libellus">libello</term> continetur <bibl type="liturgia" corresp="#gradual_nocturnal">cantus gradualis et nocturnalis</bibl>.</p>
+            <p n="25"> In XXV <term type="libellus">libello</term> habentur <bibl ana="lacune">duo <term type="liber">libri</term> ........</bibl></p>
+            <p n="26"> In XX sexto <term type="libellus">libello</term> continetur <bibl ana="lacune">............ . . . . . . . . . . diversos per
+                anni circulum</bibl>.</p>
+            <p>27. In XX septimo <term type="libellus">libello</term> habetur <bibl ana="lacune">. . . . . . . .. . . . . . . . . . . . . . . . . . .
+                . .. . . . .. . . . . . . . . . tam dominicis ...... et hymni ad divers. . . .. . .
+                . . quam privatis diebus</bibl> et <bibl type="liturgia" corresp="#hymn">hymni festis diebus per circulum anni</bibl>, et 
+                <bibl type="liturgia" corresp="#lection">lectiones memoriter recitanda</bibl>.</p>
+            <p n="28"> In XX octavo <term type="libellus">libello</term> continentur 
+                <bibl type="liturgia" corresp="#oration_ad_sepulcr">orationes sufficientes ad sepulturam fratrum</bibl>
+                et <bibl corresp="#oration_officin">orationes per singulas officinas monasterii</bibl> et 
+                <bibl type="liturgia" corresp="#lection_vigil_defunct">lectiones vel tractatus ad vigilias defunctorum recitandas</bibl>.</p>
+            <p n="29"> [In 29. <term type="libellus">libello</term>..... addit. Zieg. om. Neugart in fine paginae].</p>
+            <p n="30"> In XXX <term type="libellus">libello</term> habentur 
+                <bibl corresp="#incognitus"><term type="liber">libri</term> tres <gloss>quos Artulphus episcopus Adamramo
+                [Adamanno Zieg.] excipiente de locis sanctis ultramarinis designavit conscribend. et
+                quartus <term type="liber">liber</term> de eadem notatione est adiunctus, quis ante
+                fecerit [autem fuerit Zieg.] ignoramus</gloss>, 
+                <gloss>quem mihi Walfrid frater noster me supplicante donavit</gloss></bibl>.</p>
+            <p n="31"> In XXX primo <term type="libellus">libello</term> 
+                <bibl type="medicina" corresp="#de_arte_medic">de arte medicinae</bibl>, 
+                <bibl type="metrum" corresp="#metrum_Iacobus">metris, versibus <author corresp="#IACOBUS">Iacobus</author> nomine ad Karolum regem scribebat comprehendens capitul. LXII</bibl> 
+                <gloss>quem mihi frater Colduinus detulit et donavit</gloss>.</p>
+            <p n="32"> In XXXII <term type="libellus">libello</term> 
+                <bibl corresp="#eccl_off_Isid"><term type="liber">libri</term> duo <author corresp="#ISIDORUS">Isidori</author> de officiis divinis</bibl> et 
+                <bibl corresp="#ord_cler">diversis clericorum ordinibus</bibl> et 
+                <bibl corresp="#rat_bapt">de ratione baptismi diverso modo</bibl> cum 
+                <bibl type="epistola" corresp="#epist_Karoli">epistola <author corresp="#KAROLUS">Karoli</author> imperatoris ad Odilbertum archiepiscopum.</bibl></p>
+            <p n="33"> In XXX tertio <term type="libellus">libello</term> habentur 
+                <bibl type="epistola" corresp="#epist_Hier">epistola <author corresp="#HIERONYMUS">Hieronymi</author> ad Ctesiphontem</bibl> et 
+                <bibl corresp="#c_Cretob_Hier">tres <term type="liber">libri</term> eiusdem contra dogma Cretoboli Pelagiani</bibl>. Et 
+                <bibl corresp="#c_mendac_Aug"><term type="liber">liber</term> <author corresp="#AUGUSTINUS">S. Augustini</author> ad Consentium contra mendacium</bibl> et 
+                <bibl type="epistola" corresp="#epist_Aug">epistola eiusdem ad Bonifacium</bibl>. Et 
+                <bibl corresp="#vit_christ_Aug">eiusdem de vita christiana ad quamdam viduam</bibl> et 
+                <bibl corresp="#alt_eccl_synag">altercatio ecclesiae et synagogae duarum matronarum</bibl>. Et 
+                <bibl corresp="#Alcuinus">duo <term type="libellus">libelli</term> <author corresp="#AUGUSTINUS">Alchuini</author> ad Uttonem</bibl>, et 
+                <bibl type="epistola" corresp="#epist_Alcuinus">eiusdem nonnulla epistolae</bibl>.</p>
+            <p n="34"> In XXXIV <term type="liber">libro</term> in quo continentur
+                <bibl type="historia" corresp="#hist" ana="lacune"><term type="liber">libri</term> quinque historiarum gentis.. uuinilorum
+                qui et........</bibl> et 
+                <bibl corresp="#Dares"><term type="liber">liber</term> in quo habetur excidium Troiae civitatis</bibl>.</p>
+            <p n="35"> In XXXV <term type="libellus">libello</term> habentur 
+                <bibl type="vita" corresp="#passio_Dion_Rust_Eleut">passiones sanctorum martyrum Dionysii, Rustici et Eleutherii</bibl>, 
+                postmodum <bibl type="sermo" corresp="#hom_in_martyr">homeliae festis martyrum congruentes</bibl>. Deinde 
+                <bibl type="gesta" corresp="#gesta_martyr">eorum gesta</bibl> etc.
+                Et deinceps <bibl corresp="#miracul_martyr"><term type="liber">libri</term> IV de miraculis post transitum</bibl>.</p>
+            <p n="36"> In XXXVI <term type="liber">libro</term> continentur 
+                <bibl corresp="#de_aetat_mundi">sex a mundi principio aetatates usque hactenus,
+                postea Karoli maioris domus Francorum, Pippini senioris ac filii eius Karoli, et
+                Pippini et Karle filiorum Karoli, deinde postquam Pippinus ad regem elevatus est
+                postea Karoli regis, deinceps gesta Hludovici regis ac imp. ad extremum quaedam
+                decreta adversantia</bibl>.</p>
+            <p n="37"> In XXXVII <term type="liber">libro</term> habentur 
+                <bibl type="liturgia" corresp="#psalm" ana="fragmentum">excerptiones de corpore psalmorum factae cum 
+                    <bibl type="liturgia" corresp="#hymn">hymnis</bibl> et 
+                    <bibl type="liturgia" corresp="#lection">lectionibus</bibl>, 
+                    <bibl type="liturgia" corresp="#responsor">responsoriis</bibl>, versibus per anni circulum, 
+                    <bibl type="liturgia" corresp="#letania">letania</bibl> ac
+                    <bibl type="liturgia" corresp="#oration">diversis orationibus</bibl></bibl>. </p>
+            <p n="38"> In XXXVIII <term type="liber">libro</term> continentur 
+                <bibl corresp="#psalm"><term type="liber">liber</term> psalmorum cum circumquaque expositionibus [in eo continentibus add. Zieg.], <gloss>quem
+                    Vadalrichus [Udalricus Zieg.] quondam episcopus post finem vita sua mihi habendum concessit</gloss>.</bibl></p>
+            <p n="39"> In XXXIX <term type="liber">libro</term> habetur
+                <bibl type="biblia" corresp="#psalm"><term type="liber">liber</term> psalmorum cum diversis praefationibus ac capitulis</bibl>. 
+                <bibl corresp="#hymn">Et in fine eiusdem hymni diversi per diversas festivitates ac privatis diebus, et nonnulla carmina.</bibl></p>
+            <p n="40"> In XL <term type="libellus">libello</term> continentur 
+                <bibl type="regula" corresp="#reg_Pachomi">regula S. Pachomii abbatis quam dictante angelo...... quamque <author corresp="#HIERONYMUS">Hieronymus</author> in latinum vertit eloquium</bibl> et
+                <bibl type="regula" corresp="#reg_Isid">regulas [regula S. Zieg.] <author corresp="#ISIDORUS">Isidori episcopi</author></bibl> 
+                <bibl type="regula" corresp="#reg">caeterorumque sanctorum patrum</bibl>.</p>
+            <p n="41"> In XLI <term type="libellus">libello</term> habentur 
+                <bibl type="exegesis" corresp="#in_missa">expositiones diversae super missam</bibl> ac 
+                <bibl corresp="#ordo_roman">ordo Romanus qualiter missa celebratur</bibl> ac 
+                <bibl corresp="#ordo_eccl_Walafrid_Strabo"><author corresp="#WALAFRID_STRABO">Walfridi</author> <term type="libellus">libellus</term> qualiter ordo ecclesiasticus</bibl> 
+                <bibl ana="lacune">...... et quomodo per temporum augmentationes sit multiplicatus in diversis</bibl>.</p>
+            <p n="42"> In XLII continentur <bibl corresp="#de_nat_rerum_Beda">de natura rerum
+                        <author corresp="#BEDA">Bedae presbyteri</author> etc.</bibl></p></div>
+            <note><bibl type="source">Neugart episcopatus Constantiensis Alemannicus partis I tom. I, 547-52.</bibl>
+                <bibl type="source">Ziegelbauer, Histor. rei lit. ord. Benedict. I, 569-72.</bibl> of. <bibl type="source">E. G. Vogel in Serapei
+                III, 7</bibl>.</note>
+        </body>
+    </text>
+</TEI>

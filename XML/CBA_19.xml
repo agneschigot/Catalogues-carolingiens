@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Freising">Frisinga</settlement>
+                    </msIdentifier>
+                    <msContents><!-- obligatoirement quelque chose? --></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0799" notAfter="0899"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body>
+            
+            <div><head>Nomina librorum: </head>
+                <p n="1"><bibl corresp="#Prisc"> <author corresp="#PRISCIANUS">Priscianus</author>.</bibl></p>
+                <p n="2"><bibl corresp="#Pomp"> <author corresp="#POMPEIUS">Pompeius</author>.</bibl></p>
+                <p n="3"><bibl corresp="#Euticius"> <author corresp="#EUTICIUS">Euticius</author>.</bibl></p>
+                <p n="4"><bibl corresp="#Albinus"> <author corresp="#ALBINUS">Albinus</author>.</bibl></p>
+                <p n="5"><bibl corresp="#Erchanpertus"> <author corresp="#ERCHANPERTUS">Erchanpertus</author> maior &amp; minor. </bibl></p>
+                <p n="6" sameAs="5"><bibl corresp="#Erchanpertus"> <author corresp="#ERCHANPERTUS">Erchanpertus</author> maior &amp; minor. </bibl></p>
+                <p n="7"><bibl corresp="#Prisc_minor"> <author corresp="#PRISCIANUS">Priscianus minor</author>.</bibl></p>
+                <p n="8"><bibl ana="1" corresp="#gramm_Don"> <author corresp="#DONATUS">Donatus</author> 
+                    <bibl corresp="#gramm_mai_Don">maior</bibl> et <bibl corresp="#gramm_min_Don">minor</bibl>.</bibl></p>
+                <p n="9" sameAs="8"><bibl ana="2" corresp="#gramm_Don"> <author corresp="#DONATUS">Donatus</author> 
+                    <bibl corresp="#gramm_mai_Don">maior</bibl> et <bibl corresp="#gramm_min_Don">minor</bibl>.</bibl></p></div>
+            <div><head>Item metrici:</head> 
+                <p n="10"><bibl corresp="#Verg"> <author corresp="#VERGILIUS">Virgilius</author>. </bibl></p>
+                <p n="11"><bibl corresp="#Prud"> <author corresp="#PRUDENTIUS">Prudentius</author>. </bibl></p>
+                <p n="12"><bibl corresp="#Poetius"> <author corresp="#POETIUS">Poetius</author>. </bibl></p>
+                <p n="13"><bibl corresp="#Homerus"> <author corresp="#HOMERUS">Omerus</author>.</bibl></p>
+                <p n="14"><bibl corresp="#Sedul"> <author corresp="#SEDULIUS">Sedulius</author>.</bibl></p>
+                <p n="15"><bibl corresp="#Prosp"> <author corresp="#IUVENCUS">Iuvencus</author>.</bibl></p>
+                <p n="16"><bibl corresp="#Prosp"> <author corresp="#PROSPER">Prosper</author>.</bibl></p>
+                <p n="17"><bibl corresp="#Arator"> <author corresp="#ARATOR">Arator</author>.</bibl></p>
+                <p n="18"><bibl corresp="#Cato"> <author corresp="#CATO">Cato</author> </bibl></p>
+                <p n="19"><bibl corresp="#lib_metrica"> et <term type="liber">liber</term> metricae artis, <gloss>quos omnes habemus et colimus</gloss>.</bibl></p></div>
+            <div><head>Istos vero non habemus :</head> 
+                <p n="20"><bibl corresp="#Freholfus"> <author corresp="#FREHOLFUS">Freholfum</author>.</bibl></p>
+                <p n="21"><bibl corresp="#Iosephus"> <author corresp="#IOSEPHUS">Iosiephum</author></bibl></p>
+                <p n="22"><bibl ana="lacune"> .... quinum.</bibl></p>
+                <p n="23"><bibl corresp="#Marcianus"> <author corresp="#MARCIANUS">Marcianum</author>.</bibl></p>
+                <p n="24"><bibl corresp="#Ter"> <author corresp="#TERENTIUS">Terentium</author>. XIIII kl. iun. migravit <author corresp="#ALBINUS">Albinus</author> levita christi.</bibl></p></div>
+            <note> <bibl type="source">Schmeller</bibl> in <bibl type="source">Serapei II 248-9</bibl>. e <bibl type="source">cod Fris. 199 [Mon. 6399] fol. 32</bibl> </note>
+             
+        </body>
+    </text>
+</TEI>

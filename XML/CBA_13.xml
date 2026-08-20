@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Fulda">Fulda</settlement>
+                    </msIdentifier>
+                    <msContents></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0799" notAfter="0899"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body>
+            <div>
+                <p n="1"><bibl>.............................................................................................. 
+                        <bibl type="regula" corresp="#reg_Tarnatensis">XII regula monasterii Tarnatensis.</bibl> 
+                        <bibl type="regula" corresp="#reg_orient">XIII regula orientalis.</bibl> 
+                        <bibl type="regula" corresp="#reg">XIV regula cuiusdam patris</bibl>. 
+                        <bibl type="regula" corresp="#reg">XV regula magistri</bibl>.</bibl></p>
+                <p n="2"><bibl>. Item diversorum sanctorum regulae numero X in uno <term type="codex">codice</term>. 
+                    <bibl type="regula" corresp="#reg_Augustini">I regula beati Augustini. </bibl>
+                    <bibl type="regula" corresp="#reg_Athanasii"> II regula S. Athanasii,</bibl> 
+                    <bibl type="regula" corresp="#reg_Fructuosi">III regula S. Fructuosi.</bibl> 
+                    <bibl type="regula" corresp="#reg_Isidori">IV regula S. Isidori </bibl>
+                    <bibl type="regula" corresp="#reg_Caesari"> V. regula S. Caesarei episcopi ad virgines.</bibl> 
+                    <bibl type="regula" corresp="#reg_Aureliani">VI regula Aureliani episcopi. </bibl>
+                    <bibl type="regula" corresp="#reg_a_Don"> VII regula a Donato collecta. </bibl>
+                    <bibl type="regula" corresp="#reg_ad_virgines">VIII regula cuiusdam ad virgines.</bibl>
+                    <bibl type="regula" corresp="#reg_Columbani">IX regula S. Columbani,</bibl>
+                    <bibl type="regula" corresp="#reg_Columbani">X regula eiusdem.</bibl></bibl></p>
+                <p n="3"> Item <bibl type="regula" corresp="#reg_Benedicti" ana="1">regula S. P. Benedicti in III <term type="codex">cod.</term></bibl></p>
+                <p n="4" sameAs="3"> Item <bibl type="regula" corresp="#reg_Benedicti" ana="2">regula S. P. Benedicti in III <term type="codex">cod.</term></bibl></p>
+                <p n="5" sameAs="3"> Item <bibl type="regula" corresp="#reg_Benedicti" ana="3">regula S. P. Benedicti in III <term type="codex">cod.</term></bibl></p>
+                <p n="6"><bibl type="regula" corresp="#reg_virginum"> regula virginum in I <term type="codex">cod.</term></bibl></p>
+                <p n="7"><bibl type="vita" corresp="#vita_patrum" ana="1"> <term type="liber">liber</term> de vita patrum in II <term type="codex">cod.</term></bibl></p>
+                <p n="8" sameAs="7"><bibl type="vita" corresp="#vita_patrum" ana="2"> <term type="liber">liber</term> de vita patrum in II <term type="codex">cod.</term></bibl></p>
+                <p n="9"><bibl type="regula" corresp="#reg_Eucher"> regula monachorum Aegypti, quam scripsit <author corresp="#EUCHERIUS">Eucherius</author>.</bibl></p>
+                <p n="10"><bibl type="regula" corresp="#reg_Columbi"> regula abbatis Columbi cellae.</bibl></p>
+                <p n="11"><bibl type="regula" corresp="#reg_Congelli"> regula abbatis Congelli.</bibl></p>
+                <p n="12"><bibl type="canones" corresp="#canon_patrum" ana="fragmentum"> excerptio Theodori de canonibus SS. patrum.</bibl></p>
+                <p n="13"><bibl type="vita" corresp="#vita_germani_abbatis"> de vita sanctorum Germani abbatis.</bibl></p>
+                <p n="14"><bibl corresp="#pecatt_Chrysost"> <author corresp="#IOHANNES_CHRYSOSTOMUS">Johannis Metropol.</author> De peccatis proximorum abscondendis.</bibl></p>
+            </div>
+            
+            <div>
+                <head><bibl>Opuscula <author corresp="#ALCUINUS">Alcuini</author>.</bibl></head>
+                <p n="15"><bibl type="exegesis" corresp="#in_Ioh_Alcuinus"> expositionis in evangelium secundum Ioannem <term type="liber">libri</term> VII in I <term type="codex">cod.</term> — </bibl></p>
+                <p n="16"><bibl type="collectio"><bibl type="exegesis" corresp="#in_prophet_Alc"> eiusdem in prophetas XII.</bibl> 
+                    <bibl type="exegesis" corresp="#in_Eph_Alcuinus">eiusdem in epist. Pauli ad Ephesis,</bibl> 
+                    <bibl type="exegesis" corresp="#in_Sal_Alcuinus">eiusdem in proverbia Salomonis.</bibl> 
+                    <bibl type="exegesis" corresp="#in_eccl_Alcuinus">eiusdem in ecclesiasten in I <term type="codex">cod.</term></bibl></bibl></p>
+                <p n="17"><bibl type="sermo" corresp="#hom_Alcuinus"> item eiusdem omeliae in I <term type="codex">cod.</term></bibl></p>
+                <p n="18"><bibl type="exegesis" corresp="#in_Is"> expositio Ioseph in Isaiam in I <term type="codex">cod.</term></bibl></p>
+                <p n="19"><bibl corresp="#trin_Alcuinus"> de sancta trinitate ad Carolum imperatorem <term type="liber">libri</term> III in <term type="codex">cod.</term></bibl></p>
+                <p n="20"><bibl> <bibl corresp="#dial_Alcuinus">eiusdem <author corresp="#ALCUINUS">Alcuini</author> dialectica ad Carol. Imp.</bibl> et 
+                        <bibl corresp="#c_arrian_Vigil_Thaps">altercatio <author corresp="#ATHANASIUS">Athanasii</author> cum Arrio Probo iudice</bibl>, 
+                        <bibl corresp="#rhet_Alcuinus">eiusdem de rhetorica <term type="liber">lib.</term> I.</bibl> 
+                        <bibl corresp="#mus_Alcuinus">eiusdem de musica <term type="liber">lib.</term> I.</bibl> 
+                        <bibl type="metrum" corresp="#in_cant_Alcuinus">metrum eiusdem in cantica canticorum</bibl> et 
+                        <bibl type="metrum" corresp="#versus">versus illios ad diversos</bibl> in <term type="codex">cod.</term> I. </bibl></p>
+                <p n="21"><bibl><bibl corresp="#quaest_in_gen_Alcuinus">eiusdem quaestiones in genesim.</bibl> 
+                        <bibl corresp="#arithm_Alcuinus">eiusdem de formulis arithmeticae artis</bibl> 
+                        <bibl corresp="#gramm_Alcuinus">eiusdem de grammatica in I. <term type="volumen">vol</term>.</bibl></bibl></p>
+            </div>
+            
+            <div>
+                <head><bibl corresp="#Raban">Opuscula Magnentii <author corresp="#RABANUS_MAURUS">Hrabani Mauri</author></bibl>.</head>
+                <p n="22"><bibl type="exegesis" corresp="#in_Matth_Raban"> expositio in evang. secundum Matthaeum <term type="liber">lib.</term> VIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="23"><bibl type="exegesis" corresp="#in_gen_Raban"> eiusdem in genesim <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="24"><bibl type="exegesis" corresp="#in_exod_Raban"> in exodum <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="25"><bibl type="exegesis" corresp="#in_lev_Raban"> in leviticum <term type="liber">lib.</term> VII in I <term type="codex">cod.</term></bibl></p>
+                <p n="26"><bibl type="exegesis" corresp="#in_num_Raban"> in numerum <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="27"><bibl type="exegesis" corresp="#in_deut_Raban"> in deuteronom. <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="28"><bibl type="collectio"> 
+                        <bibl type="exegesis" corresp="#in_Ios_Raban">in Jesu Nave</bibl>, 
+                        <bibl type="exegesis" corresp="#in_Iudic_Raban">iudicum</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Ruth">Ruth</bibl> <term type="liber">lib.</term> VI in I. <term type="codex">cod.</term></bibl></p>
+                <p n="29"><bibl type="exegesis" corresp="#in_reg_Raban"> in regum <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term> </bibl></p>
+                <p n="30"><bibl corresp="#instit_cler_Raban"> eiusdem de institutione clericorum <term type="liber">lib.</term> IIII in I <term type="codex">cod.</term></bibl></p>
+                <p n="31"><bibl corresp="#laude_sanct_cruc_Raban"> de laude sanctae crucis <term type="liber">lib.</term> II in I <term type="codex">cod.</term></bibl></p>
+                <p n="32"><bibl corresp="#comput_Raban"> de computo <term type="liber">lib.</term> I. eiusdem meliae LXX in uno <term type="codex">cod.</term></bibl></p>
+                <p n="33"><bibl corresp="#natal_Raban"> ante natale Domini II de ieiunio decimi mensis, de natali Domini II in octabis Domini...................................</bibl></p>
+            </div>
+            <note><bibl type="source">Schannat historia Fuldensis (Francof. 1729). 64. 65</bibl>. 
+                <bibl type="source">Ziegelbauer hist. rei lit. ord. S. Benedicti I 485-86</bibl>. 
+                <bibl type="source">Secundum Wiss in Verh. der 6. Philologen versammlung zu Cassel 1843 p. 69. hoc fragmentum perit</bibl>.</note>
+               
+            
+        </body>
+    </text>
+</TEI>

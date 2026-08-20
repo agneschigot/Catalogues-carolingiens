@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Reichenau">Monasterium Augiense</settlement>
+                    </msIdentifier>
+                    <msContents><p> Isti libri in insula Awa monasterio sancta Maria scripti sunt, 
+                        qui subtus notantur sub RUADHELMO ex quo eidem coenobio abba praeficiebatur. </p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0838" notAfter="0842"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body>  
+            <p> Isti libri in insula Awa monasterio sancta Maria scripti sunt, 
+                qui subtus notantur sub RUADHELMO ex quo eidem coenobio abba praeficiebatur.</p>
+            <div><p n="1"><bibl type="collectio">
+                        <bibl type="vita" corresp="#vita_martyr"><term type="liber">liber</term> unus prograndis in quo continentur passiones 
+                            et vita martyrum confessorumque nonnullorum</bibl>, in quo inprimis ponitur 
+                        <bibl type="vita" corresp="#passio_Processi_Martiani">passio SS. martyrum Processi et Martiniani</bibl>.</bibl></p>
+            <p n="2"> item <bibl type="exegesis" corresp="#in_psalm"><term type="liber">liber</term> unus super psalmos quem 
+                    <author corresp="#HIERONYMUS">D. Hieronymus</author> de <author corresp="#ORIGENIS">Origine</author>, ut ipse ait, excerpsit.</bibl></p> 
+            <p n="3"> item <bibl type="epistola" corresp="#epist_Hier"><term type="liber">liber</term> epistolarum 
+                <author corresp="#HIERONYMUS">Hieronymi presbyteri</author>, 
+                in quo inprimis ponitur epistola Hieronymi ad Pamachium cum caeteris epistolis num. XXXIV.</bibl></p> 
+            <p n="4"> item <bibl><term type="liber">liber</term> in quo continentur 
+                    <bibl type="epistola" corresp="#epist_Marcian_Leonis">epistolae imperatorum <author corresp="#MARCIANUS">Marciani</author> et 
+                        <author corresp="#LEO_MAGNUS">Leonis</author> ad episcopos pene totius orbis de synodo Chalcedonensi</bibl>, et 
+                    <bibl corresp="#c_Nest_Eutych"><term type="liber">liber</term> contra Nestorianorum et Eutychianorum hæreticos</bibl>, et 
+                    <bibl corresp="#c_Cassian_Prosp"><term type="liber">liber</term> <author corresp="#PROSPER">Prosperi</author> contra <term type="liber">librum</term> Cassiani presb.</bibl> et caetera. 
+                item <bibl type="architectura" corresp="#architect_Vitruvius"><term type="liber">liber</term> <author corresp="#VITRUVIUS">Vitruvii magistri</author> de architectura comprehensa X <term type="liber">libris</term></bibl></bibl></p>
+            <p n="6"> item <bibl corresp="#inst_Cassiod"><term type="liber">liber</term> in quo continentur institutionum divinarum et saecularium literarum <author corresp="#CASSIODORUS">Casiodori Senatoris</author> <term type="liber">libri</term> duo</bibl></p>
+            <p n="7">item <bibl>
+                <bibl type="geometria" corresp="#geom"><term type="liber">liber</term> geometriae artis de compluribus auctoribus confectus</bibl>, et 
+                <bibl corresp="#astrol_Hyginus"><term type="liber">liber</term> astrologia <author corresp="#HYGINUS">Hygini</author> mirifice commendatus ad Fabium suum dilectum</bibl>.</bibl></p>
+            <p n="8"> item <bibl type="collectio">
+                    <bibl corresp="#in_Hest_Raban"><term type="liber">liber</term> expositionis in Hester 
+                        <author corresp="#RABANUS_MAURUS">Hrabani Mauri abbatis</author></bibl> et 
+                    <bibl type="exegesis" corresp="#in_Iudith_Raban">alius <term type="liber">liber</term> eiusdem <author corresp="#RABANUS_MAURUS">Hrabani</author> in Judith</bibl>, 
+                    <bibl type="exegesis" corresp="#in_Iudith">uterque ad Judith Augustam editus</bibl>.</bibl></p> 
+            <p n="9"> item <bibl><term type="liber">liber</term> <author corresp="#AUGUSTINUS">sancti Augustini episcopi</author> in quo continentur <term type="liber">libri</term> . . . id sunt 
+                <bibl corresp="#bon_coniug_Aug">de bono coniugali</bibl>, 
+                <bibl corresp="#bon_viduit_Aug">de viduitate</bibl>, 
+                <bibl corresp="#virg_Aug">de virginitate</bibl>, 
+                <bibl corresp="#de_orand_Deo_Aug">de orando Deo</bibl> et 
+                    <bibl corresp="#op_monach_Aug">de opere monachorum</bibl>.</bibl></p>
+            </div>
+            <note><bibl type="source">Neugart. Episcopatus Constantiensis Alemannicus. I. 1., 547</bibl> cf. 
+                <bibl type="source">E. G. Vogel in Serapei III, 7</bibl>. </note>
+        </body>
+    </text>
+</TEI>

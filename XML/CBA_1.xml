@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Saint-Wandrille"> Coenobium Fontanellense</settlement>
+                    </msIdentifier>
+                    <msContents><p>Gesta Wandonis abbatis coenobii Fontanellensis</p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0742" notAfter="0747"/>
+                        </origin>
+                     </history>
+                  </msDesc>
+                </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+  <text xml:lang="latin">
+       <body>
+               <p><seg>Gesta Wandonis abbatis coenobii Fontanellensis.</seg> 
+                <seg>*** <term type="codex">Codicum</term> etiam copiam non minimam, quod dinumerari oneri esse
+                videtur. Sed aliquos ob memoriam illius inserere placuit, id est</seg></p> 
+           <div><p n="1"> <bibl type="exegesis"><term type="codex">codicem</term> unum Romana litera scriptum, in quo continetur 
+                   expositio brevis trium evangelistarum, id est Ioannis, Mathaei et Lucae.</bibl></p>
+                <p n="2"><bibl type="sermo" corresp="#hom_Arnob"><author corresp="#ARNOBIUS">Arnobii episcopi et rhetoris</author> 
+                    sermo de Adam qui perierat.</bibl></p>
+                <p n="3"><bibl type="historia" corresp="#hist_Rufin">
+                    <author corresp="#RUFINUS">Ruffini</author> ex historia ecclesiastica de Spiridione episcopo</bibl>; 
+                    <bibl type="historia" corresp="#hist_Rufin">eiusdem de muliere captiva ex eadem chronica ab eodem translatum, 
+                        quae Hiberorum gentem ad Christi fidem convertit.</bibl></p>
+               <p n="4"><bibl type="canones" corresp="#canon_Nicani">fides Nicaeni concilii.</bibl></p>
+                <p n="5"><bibl type="epistola" corresp="#epist_Macar">exhortatio 
+                    <author corresp="#MACARIUS">sancti Macharii</author> ad monachos.</bibl></p>
+                <p n="6">item <bibl type="sermo" corresp="#Basil_hom_9_Rufin">
+                    <author corresp="#RUFINUS">Rufini</author> sermo de ieiunio et oratione.</bibl></p>
+                <p n="7"><bibl type="vita" corresp="#vita_Felicis">vita et passio sancti Felicis, Nolanae urbis episcopi.</bibl></p>
+                <p n="8"><bibl type="epistola" corresp="#epist_Leo_M">epistola 
+                    <author corresp="#LEO_MAGNUS">sancti Leonis episcopi Nolensis</author> ad Marcellum presbyterum eiusdem ecclesiae.</bibl></p> 
+                <p n="9"><bibl type="regula">regula sanctorum patrum Serapionis et Macharii et 
+                    alterius Macharii et Pafnutii.</bibl></p>
+                <p n="10"><bibl type="regula" corresp="#reg_Aug">regula <author corresp="#AUGUSTINUS">sancti Augustini</author> episcopi.</bibl></p>
+                <p n="11"><bibl type="epistola" corresp="#epist_Aug">epistola 
+                    <author corresp="#AUGUSTINUS">beati Augustini</author> ad Felicem et Hilarium.</bibl> — </p>
+                <p n="12"><bibl type="epistola" corresp="#epist_Hier">epistola 
+                    <author corresp="#HIERONYMUS">sancti Hieronymi</author> ad Nepotianum. </bibl>— </p>
+                <p n="14">item <bibl type="epistola" corresp="#epist_Hier">epistola eiusdem ad Evangelium presbyterum de Melchisedech.</bibl></p>
+                <p n="15"> item <bibl type="epistola" corresp="#epist_Hier">eiusdem ad Rusticum presbyterum.</bibl></p>
+                <p n="16"><bibl type="epistola" corresp="#epist_Clem">epistola <author corresp="#CLEMENS">sancti Clementis papae</author> 
+                    ad beatum Iacobum apostolum fratrem Domini.</bibl></p>
+           <p n="17">item <bibl><term type="codex">codicem</term> <author corresp="#AUGUSTINUS">beati Augustini</author> in quo continetur de poenitentia.</bibl>
+                    item <bibl corresp="#Hist_Apoll">historiam Apollonii regis Tyri in <term type="codex">codice</term> uno.</bibl></p>
+                <p n="18"><bibl type="historia" corresp="#Get_Iord">historiam 
+                    <author corresp="#IORDANES">Iordani episcopi Ravennatis</author> ecclesiae de origine Getarum.</bibl> </p>
+                <p n="19">item <bibl type="collectio"><term type="codex">codicem</term>, in quo continetur 
+                    <bibl type="regula" corresp="#reg_Benedicti">regula sancti Benedicti</bibl> et 
+                    <bibl type="regula" corresp="#reg_Columbani">sancti Columbani</bibl> et 
+                    <bibl type="liturgia" corresp="#martyrologium">martyrologium</bibl>.</bibl></p>
+                <p n="20">item <bibl type="exegesis"><term type="codex">codicem</term>, in quo continentur capitula nonaginta novem de evangeliis Mathaei et Lucae 
+                    exposita ab <author corresp="#AUGUSTINUS">Aurelio Augustino</author></bibl>.</p> 
+                <p n="22"> item <bibl type="sermo" corresp="#hom_Aug">sermo eiusdem de incarnatione Domini</bibl>.
+                    item in eodem libro 
+                    <bibl corresp="#diff_Isid">differentiarum spiritualium et carnalium 
+                        <author corresp="#ISIDORUS">Isidori iunioris Hispalensis episcopi,</author>, in quo sunt capitula quadraginta duo</bibl>. 
+                    item <bibl corresp="#dogm_Gennad">in eodem definitio dogmatum ecclesiasticorum 
+                        <author corresp="#GENNADIUS">Gennadii presbyteris Massiliensis</author> .</bibl> 
+                    item <bibl corresp="#fid_Hier">in eodem expositio fidei catholicae <author corresp="#HIERONYMUS">sancti Hieronymi presbyteri</author>.</bibl></p>
+                <p n="33"> item <bibl corresp="#symbol_Athan"><author corresp="#ATHANASIUS">sancti Athanasii Alexandrinae urbis episcopi</author> de eadem re.</bibl> 
+                    item <bibl type="epistola" corresp="#epist_Sedul">in eodem libri quattuor evangeliorum expositionem continentes editam 
+                        a <author corresp="#SEDULIUS">Sedulio</author> viro scholasticissimo ad Macedonium presbyterum. </bibl>
+                    item <bibl corresp="#sent_Isid">in eodem capitula tredecim ex libro sententiarum 
+                        <author corresp="#ISIDORUS">Isidori episcopi</author>.</bibl>
+                    item <bibl type="sermo" corresp="#in_Ezech_Greg_M">in ipso homiliae tres 
+                        <author corresp="#GREGORIUS_MAGNUS">beati papae Gregorii</author> super Ezechielem prophetam.</bibl>
+                    item <bibl type="epistola" corresp="#epist_Leo_M">in eodem epistola <author corresp="#LEO_MAGNUS">sancti Leonis papae</author> 
+                        ad Flavianum Constantinopolitanae urbis episcopum adversus haeresim Eutychetis presbyteri.</bibl></p> </div>
+               <note><bibl type="source">Gesta abbatum Fontanellensium</bibl> in <bibl type="source">Monum. hist. German. script. tom. II</bibl> p. 287, 15-41.</note>
+      </body>
+    </text>
+</TEI>

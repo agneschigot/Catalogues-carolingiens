@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Saint-Wandrille">Fontanellense coenobium.</settlement>
+                    </msIdentifier>
+                    <msContents><p>Gesta Ansgisi abbatis Fontanellensis coenobii.</p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0823" notAfter="0833"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body> 
+            <p><seg>Gesta Ansgisi abbatis Fontanellensis coenobii.</seg> 
+                <seg>De libris autem hanc dedit copiam:</seg></p> 
+            <div><p n="1">bibliothecam optimam continentem 
+                <bibl type="biblia" corresp="#biblia">vetus et novum testamentum 
+                    <gloss>cum praefationibus ac initiis <term type="liber">librorum</term> aureis literis decoratis</gloss></bibl> </p>
+            <p n="2"><bibl type="exegesis" corresp="#gen_ad_litt_Aug"><term type="liber">libros</term> expositionum 
+                <author corresp="#AUGUSTINUS">divi Augustini</author> in genesim ad literam <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="3">item <bibl corresp="#enchir_Aug">enchiridion eiusdem <term type="volumen">volumen</term> unum</bibl></p> 
+            <p n="4"><bibl type="exegesis" corresp="#in_psalm_Aug" ana="1">eiusdem expositionum in omnes psalmos <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="5" sameAs="4"><bibl type="exegesis" corresp="#in_psalm_Aug" ana="2">eiusdem expositionum in omnes psalmos <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="6" sameAs="4"><bibl type="exegesis" corresp="#in_psalm_Aug" ana="3">eiusdem expositionum in omnes psalmos <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="7"><bibl corresp="#c_Iulian_Aug">eiusdem contra Julianum haereticum <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="8">item <bibl type="epistola" corresp="#epist_Aug"><term type="liber">librum</term> epistolarum eiusdem ad diversos <term type="volumen">volumen</term> unum</bibl></p> 
+            <p n="9">item <bibl corresp="#pac_orig_Aug">eiusdem <term type="liber">librum</term> qui dicitur unde malum <term type="volumen">volumen</term> unum.</bibl></p>
+            <p n="10">item <bibl corresp="#doctr_christ_Aug"><term type="liber">librum</term> eiusdem qui praetitulatur de doctrina christiania <term type="volumen">volumen</term> unum </bibl></p>
+            <p n="11"><bibl type="collectio">
+                <bibl type="sermo" corresp="#hom_IX_Aug"><term type="liber">librum</term> decem chordarum eiusdem</bibl>; 
+                <bibl type="exegesis" corresp="#in_epist_Ioh_Aug">eiusdem super epistolam Ioannis</bibl> <term type="volumen">volumen</term> I.</bibl></p> 
+            <p n="12">item <bibl type="epistola" corresp="#c_epist_fund_Aug">adversus epistolam fundamenti <term type="volumen">volumen</term> unum.</bibl></p>
+            <p n="13"><bibl type="sermo" corresp="#hom_Aug">homiliare eiusdem <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="14"><bibl type="exegesis" corresp="#in_Lucam_Aug">expositionem 
+                <author corresp="#AMBROSIUS">beati Ambrosii</author> in Lucae evangelium <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="15"><bibl type="epistola" corresp="#epist_Ambr">epistolarum eiusdem ad diversos <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="16">item <bibl corresp="#bon_mort_Ambr">eiusdem <term type="liber">librum</term> qui dicitur de bono mortis <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="17">item <bibl corresp="#Ioseph_Ambr">eiusdem de Joseph ac duodecim patriarchis <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="18"><bibl type="epistola" corresp="#epist_Hier">epistolarum 
+                <author corresp="#HIERONYMUS">beati Hieronymi</author> <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="19"><bibl type="epistola" corresp="#epist_Six">epistolarum 
+                <author corresp="#SIXTUS">sancti Sixti episcopi</author> <term type="volumen">volumen</term> unum.</bibl></p>
+            <p n="20"><bibl type="historia" corresp="#hist_Iosephi">historiam Iosephi <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="21"><bibl type="sententia" corresp="#lib_sent_Tagius"><author corresp="#TAGIUS">Tagii</author> sententiarum <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="22"><bibl type="excerptio" corresp="#ex_Greg_Paterius">excerptionum <author corresp="#PATERIUS">Paterii</author> de veteri ac novo testamento ex opusculis beati Gregorii papae <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="24"><bibl corresp="#ex_Aug_Evipus"><author corresp="#EVIPUS">Evipi</author> ex opusculis beati Augustini similiter <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="24"><bibl corresp="#moral_Greg_M"><author corresp="#GREGORIUS_MAGNUS">Gregorii</author> in parte media Iob <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="25"><bibl corresp="#Fulg">librum <author corresp="#FULGENTIUS">Fulgentii episcopi Carthaginensis</author> <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="26"><bibl type="exegesis" corresp="#in_gen_Beda"><author corresp="#BEDA">Bedae</author> in genesim expositio <term type="volumen">volumen</term> unum</bibl></p>
+           <p n="27"> <bibl type="comput" corresp="#comput_Beda" ana="temp_Beda">eiusdem de computo ac ratione temporum <term type="volumen">volumen</term> unum </bibl></p>
+           <p n="28"><bibl type="comput" corresp="#coll_Paulus_diac" ana="1">collectaneos duos super anni circulo <author corresp="#PAULUS_DIACONUS">Pauli diaconi</author> <term type="volumen">volumina</term> duo</bibl></p> 
+           <p n="29" sameAs="28"><bibl type="comput" corresp="#coll_Paulus_diac" ana="2">collectaneos duos super anni circulo <author corresp="#PAULUS_DIACONUS">Pauli diaconi</author> <term type="volumen">volumina</term> duo</bibl></p>
+           <p n="30"> <bibl type="glossae" corresp="#glossae" ana="1"><term type="liber">libros</term> glossarum duos <term type="volumen">volumina</term> duo</bibl></p>
+           <p n="31" sameAs="30"> <bibl type="glossae" corresp="#glossae" ana="2"><term type="liber">libros</term> glossarum duos <term type="volumen">volumina</term> duo</bibl></p>
+           <p n="32"> <bibl type="canones" corresp="#canon_concilia">librum canonum diversorum conciliorum <term type="volumen">volumen</term> unum</bibl>.</p>
+            <p>*************** In Flaviacensi quoque coenobio quae obtulerit dona, hoc in loco declarandum censuimus. 
+            Nomina autem librorum, quos ipsi contulit loco, haec sunt: </p>
+            <p n="33"><bibl>
+                <bibl subtype="translatio" corresp="#pand_Hier">pandectem a <author corresp="#HIERONYMUS">beato Hieronymo</author> ex Hebraeo vel Graeco eloquio translatum</bibl>;
+                <bibl type="exegesis" corresp="#in_proph_min_Hier">eiusdem expositionem in duodecim prophetas et sunt tomi viginti in <term type="volumen">volumine</term> uno</bibl></bibl> </p>
+            <p n="34"><bibl type="epistola" corresp="#epist_Hier" n="1">eiusdem librum epistolarum <term type="volumen">volumina</term> duo</bibl></p>
+            <p n="35" sameAs="34"><bibl type="epistola" corresp="#epist_Hier" n="2">eiusdem librum epistolarum <term type="volumen">volumina</term> duo</bibl></p>
+            <p n="36"><bibl type="exegesis" corresp="#in_prov_Salom_Hier">in proverbis Salomonis eiusdem <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="37"><bibl>
+                <bibl type="exegesis" corresp="#in_Dan_Hier">in Danielem prophetam eiusdem</bibl>; 
+                <bibl type="exegesis" corresp="#in_Matth_Hier">in evangeli Mathaei eiusdem</bibl>, 
+                <bibl corresp="#decret_Gelas">continens in eodem decreta 
+                    <author corresp="#GELASIUS">Gelasii papae</author> de libris recipiendis et non recipiendis</bibl> et 
+                <bibl corresp="#hex_Ambr">excerptio aliqua de <term type="liber">libris</term> exameron 
+                    <author corresp="#AMBROSIUS">sancti Ambrosii episcopi</author></bibl> <term type="codex">codex</term> unus</bibl></p>
+            <p n="38"><bibl corresp="#civ_Aug" ana="20">libros 
+                <author corresp="#AUGUSTINUS">sancti Augustini</author> qui praetitulantur de civitate Dei numero viginti duo in <term type="codex">codice</term> uno</bibl></p>
+            <p n="39"><bibl type="exegesis" corresp="#in_Ioh_Aug">eiusdem expositionem in evangelio sancti Ioannis <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="40"><bibl type="sermo" corresp="#hom_Aug">homiliare eiusdem continens sermones 147 <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="41"><bibl corresp="#trin_Aug" ana="15">libros eiusdem 15 de sancta trinitate <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="42"><bibl corresp="#cons_evang_Aug">concordiam evangeliorum eiusdem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="43"><bibl corresp="#doctr_christ_Aug"> eiusdem de doctrina christiana <term type="codex">codicem</term> unum</bibl></p>
+            <p n="44"><bibl type="exegesis" corresp="#symb_Aug">expositionem symboli eiusdem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="45"><bibl corresp="#quaest_Dulc_Aug">quaestiones eiusdem octoginta <term type="codex">codicem</term> unum</bibl></p>
+            <p n="46"><bibl type="collectio">
+                <bibl corresp="#bapt_Aug">de baptisma parvolorum eiusdem ad Marcellum <term type="liber">libros</term> tres</bibl>, 
+                <bibl corresp="#de_serm_dom_Aug">de sermone Domini in monte <term type="liber">libros</term> duos</bibl>, 
+                <bibl type="sermo" corresp="#hom_Aug">de providentia Dei sermonem unum</bibl>, 
+                <bibl type="sermo" corresp="#hom_Aug">de natali proprio sermonem unum</bibl>, 
+                <bibl type="sermo" corresp="#hom_Aug">de cruce sermonem unum</bibl>,
+                <bibl type="epistola" corresp="#epist_ad_Flact_Aug">ad Flactianum epistolam unam <term type="volumen">volumen</term> unum</bibl>
+            </bibl></p>
+            <p n="47"><bibl>
+                <bibl corresp="#c_acad_Aug">eiusdem academicorum <term type="liber">libros</term> tres</bibl>, 
+                <bibl corresp="#soliloq_Aug">soliloquiorum <term type="liber">libros</term> duos</bibl>, 
+                <bibl corresp="#immort_Aug">de immortalitate <term type="liber">librum</term> unum</bibl>, 
+                <bibl corresp="#quant_anim_Aug">de quantitate animae <term type="liber">librum</term> unum</bibl>, 
+                <bibl corresp="#mag_Aug">de magistro <term type="liber">librum</term> unum</bibl>, 
+                <bibl corresp="#ord_Aug">de ordine <term type="liber">libros</term> duos</bibl>, 
+                <bibl corresp="#epist_147_Aug">de videndo Deo <term type="liber">librum</term> unum <term type="volumen">volumen</term> unum</bibl>
+            </bibl></p>
+            <p n="48"><bibl corresp="#conf_Aug">libros confessionis eiusdem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="49"><bibl corresp="#enchir_Aug">librum <gloss>qui dicitur</gloss> enchiridion <term type="codex">codicem</term> unum</bibl> </p>
+            <p n="50"><bibl type="exegesis" corresp="#in_psalm_Aug">in psalmis expositionem eiusdem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="51"><bibl type="exegesis" corresp="#ambrosiast_Ambros">expositionem 
+                <author corresp="#AMBROSIUS">sancti Ambrosii</author> in epistolas Pauli <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="52"><bibl type="exegesis" corresp="#in_lev_Hesych"><author corresp="#HESYCHIUS">Hisychi presbyteris</author> 
+                in leviticum libros septem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="53"><bibl type="collectio">
+                    <bibl type="exegesis" corresp="#in_Matth_Chrysost">expositionem <author corresp="#IOHANNES_CHRYSOSTOMUS">sancti Ioannis Constantinopolitani episcopi</author> in Mathem</bibl>, 
+                    <bibl type="biblia" corresp="#apoc">apocalypsim sancti Ioannis</bibl> continentem etiam 
+                    <bibl corresp="#diff_Isid">librum <author corresp="#ISIDORUS">sancti Isidori</author> differentiarum</bibl> <term type="codex">codicem</term> unum</bibl></p>
+            <p n="54"><bibl corresp="#c_haer_Hilar"><author corresp="#HILARIUS">sancti Hilarii episcopi</author> contra haereticos <term type="codex">codicem</term> unum</bibl></p>
+            <p n="55"><bibl type="sermo" corresp="#in_Ezech_Greg_M">homiliarum 
+                <author corresp="#GREGORIUS_MAGNUS">beati Gregorii papae</author> in novissima parte Ezechielis prophetae in <term type="codex">codice</term> uno</bibl></p>
+            <p n="56"><bibl type="epistola" corresp="#epist_Greg_M">epistolarum eiusdem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="57"><bibl type="exegesis" corresp="#in_act_Beda">expositionem 
+                <author corresp="#BEDA">Bedae presbyteri</author> in actibus apostolorum <term type="codex">codicem</term> unum</bibl></p>
+            <p n="58"><bibl type="collectio">
+                    <bibl type="exegesis" corresp="#in_epist_canon">in septem epistolas canonicas</bibl> et 
+                    <bibl type="exegesis" corresp="#in_apoc">apocalypsim Ioannis</bibl> <term type="codex">codicem</term> unum</bibl></p>
+            <p n="59"><bibl type="exegesis" corresp="#in_Marc_Beda">eiusdem in Marci evangelium <term type="codex">codicem</term> unum</bibl></p>
+            <p n="60"><bibl type="exegesis" corresp="#in_Luc_Beda">eiusdem in Lucam evangelistam <term type="codex">codicem</term> unum</bibl></p>
+            <p n="61"><bibl corresp="#Isid">librum testimoniorum <author corresp="#ISIDORUS">Isidori</author> de Christo et ecclesia <term type="codex">codicem</term> unum</bibl> </p>
+            <p n="62"><bibl corresp="#orig_Isid">eiusdem etymologiarum <term type="codex">codicem</term> unum</bibl></p>
+            <p n="63"><bibl corresp="#orig_Isid">eiusdem rotarum ad Sisebutum regem <term type="codex">codicem</term> unum</bibl></p>
+            <p n="64"><bibl corresp="#vit_contempl_Prosp"><author corresp="#PROSPER">Prosperi</author> de vita activa et contemplativa in <term type="codex">codice</term> uno</bibl></p>
+            <p n="65"><bibl corresp="#prognost">prognosticon futuri saeculi <term type="codex">codicem</term> unum</bibl></p>
+                <p n="66"><bibl corresp="#c_arrian_Vigil_Thaps">disputationem fidei inter Arium haereticum ac Athanasium catholicum in <term type="codex">codice</term> uno</bibl></p>
+            <p n="67"><bibl type="epistola" corresp="#epist_Cypr">epistolarum 
+                <author corresp="#CYPRIANUS">sancti Cypriani martyris</author> <term type="codex">codicem</term> unum</bibl></p>
+            <p n="68"><bibl corresp="#trin_Alcuinus"><author corresp="#ALCUINUS">Alcuini</author> de trinitate librum in <term type="codex">codice</term> uno</bibl></p>
+            <p n="69"><bibl><bibl type="regula" corresp="#reg_Basil">regulam 
+                <author corresp="#BASILIUS">beati Basilii</author> episcopi</bibl>, 
+                <bibl type="regula" corresp="#reg_Bened">regulam <author corresp="#BENEDICTUS">beati Benedicti</author> in <term type="codex">codice</term> uno</bibl></bibl></p> 
+            <p n="70"><bibl type="historia" corresp="#hist_eccles_Euseb_Caes">historiam ecclesiasticam 
+                <author corresp="#EUSEBIUS_CAESARIENSIS">Eusebii Caesariensis episcopi</author> in <term type="codex">codice</term> uno</bibl></p>
+            <p n="71"><bibl type="chronica" corresp="#chron_Euseb_Caes">chronicam eiusdem in <term type="codex">codice</term> uno</bibl></p>
+            <p n="72"><bibl type="historia" corresp="#hist_Cassiod">historiam item ecclesiasticam trium virorum, id est Zozomeni, Theodoriti et Socratis in <term type="codex">codice</term> uno</bibl></p>
+            <p n="73"><bibl type="canones" corresp="#canon_patrum">canones diversorum patrum in <term type="codex">codice</term> uno</bibl></p>
+            <p n="74"><bibl type="liturgia" corresp="#sacramentarium" ana="1">sacramentoria <term type="volumen">volumina</term> duo</bibl></p>
+            <p n="75" sameAs="74"><bibl type="liturgia" corresp="#sacramentarium" ana="2">sacramentoria <term type="volumen">volumina</term> duo</bibl></p>
+            <p n="76"><bibl type="matematica" corresp="#arithm_Cassiod">
+                <author corresp="#CASSIODORUS">Cassiodori</author> de arithmetica <term type="volumen">volumen</term> unum</bibl> </p>
+            <p n="77"><bibl type="exegesis" corresp="#in_psalm_Cassiod">eiusdem in psalmos expositionem <term type="volumen">volumen</term> unum</bibl></p>
+                <p n="78"><bibl type="sermo" corresp="#hom_Orig" ana="1">homiliarum <author corresp="#ORIGENIS">Origenis</author> in veteri testamento <term type="volumen">volumina</term> duo</bibl></p>
+                <p n="79" sameAs="78"><bibl type="sermo" corresp="#hom_Orig" ana="2">homiliarum <author corresp="#ORIGENIS">Origenis</author> in veteri testamento <term type="volumen">volumina</term> duo</bibl></p>
+                <p n="80"><bibl type="exegesis" corresp="#in_psalm_Orig" ana="1">eiusdem in psalmos expositionem <term type="volumen">volumina</term> duo</bibl></p>
+                <p n="81" sameAs="80"><bibl type="exegesis" corresp="#in_psalm_Orig" ana="2">eiusdem in psalmos expositionem <term type="volumen">volumina</term> duo</bibl></p>
+            <p n="82"><bibl type="collectio">
+                <bibl type="vita" corresp="#vita_Hieronymi">vitas beatorum confessorum Hieronymi</bibl>, 
+                <bibl type="vita" corresp="#vita_Augustini">Augustini</bibl>, 
+                <bibl type="vita" corresp="#vita_Gregorii">Gregorii</bibl>, item 
+                <bibl type="vita" corresp="#passio_Columbae">passionem beatae Columbae virginis</bibl> in <term type="codex">codice</term> uno</bibl></p>
+            <p n="83"><bibl type="vita" corresp="#vita_canon">institutio ac collectio cuiusdam de vita canonica <term type="volumen">volumen</term> unum.</bibl></p>
+            <p n="84"><bibl type="gesta" corresp="#gesta_Francorum">gesta Francorum in <term type="codex">codice</term> uno et <gloss>alios plurimos, 
+                quorum nunc nomina non occurrunt memoriae</gloss>.</bibl></p></div>
+            <note><bibl type="source">Gesta abbatum Fontanellensium</bibl> in <bibl type="source">Monument. hist Germaniae script. tom. II</bibl> 295,47-297,53.</note>
+
+        </body>
+    </text>
+</TEI>    

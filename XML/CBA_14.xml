@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Fulda">Fulda</settlement>
+                    </msIdentifier>
+                    <msContents><p>fragmentum catalogi.</p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0799" notAfter="0999"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body> 
+            <p>fragmentum catalogi. Tercius ordo superioris numeri.</p>
+            <div>
+            <p n="1"><bibl type="liturgia" corresp="#officium"><term type="liber">lib.</term> officiorum.</bibl></p>
+            <p n="2"><bibl type="collectio"> 
+                <bibl type="epistola" corresp="#epist_ad_Aug_Hier">epistole <author corresp="#HIERONYMUS">Ieronimi</author> ad Augus.</bibl> 
+                <bibl type="epistola" corresp="#epist_ad_Hier_Aug">Et rescriptum Aug. ad Ieronimum.</bibl></bibl></p>
+            <p n="3"><bibl type="comput" corresp="#comput"> <term type="liber">lib.</term> compoti.</bibl></p>
+            <p n="4"><bibl type="exegesis" corresp="#in_reg_Raban"> expositio <author corresp="#RABANUS_MAURUS">Rabana</author> in lib. regum.</bibl></p>
+            <p n="5"><bibl type="epistola" corresp="#epist_Pauli"> epist. Pauli.</bibl></p>
+            <p n="6"><bibl type="historia" corresp="#hist_eccles"> eclesiastica istoria.</bibl></p>
+            <p n="7"><bibl type="regula" corresp="#reg_Basilii"> regula sci Basilii.</bibl></p>
+            <p n="8"><bibl type="exegesis" corresp="#in_cant_canticorum"> expositio in cantica canticorum.</bibl></p>
+            <p n="9"><bibl type="vita" corresp="#vita_Augustini"> vita beati Augustini.</bibl></p>
+            <p n="10"><bibl corresp="#nat_animal_Esopus"> lib. <author corresp="#ESOPUS">Esopi</author> de natura animalium.</bibl></p>
+            <p n="11"><bibl type="exegesis" corresp="#in_apoc_Beda"> expositio <author corresp="#BEDA">Bede</author> in apocalipsin.</bibl></p>
+                <p n="12"><bibl type="vita" corresp="#vita_confessorum"> <term type="liber">lib.</term> de vita confessorum.</bibl></p></div>
+               <note> <bibl type="source">Dronke, Traditiones et antiquitates Fuldenses (1844) 184</bibl>. 
+                   <bibl type="source">Anzeiger f. Bibliographie 1855, 225</bibl>. 
+                   <bibl type="source">Verhandl. der 6. Philologen-Versammlung in Cassel 1843, 69</bibl>. 
+                   <bibl type="source">Schannat historia Fuldensis (1729) 63</bibl>. 
+                   <bibl type="source">Ziegelbauer hist. rei lit. ordinis S. Benedicti. I</bibl>.</note>
+                
+            
+        </body>
+    </text>
+</TEI>

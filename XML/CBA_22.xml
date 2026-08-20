@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Saint-Gall">Coenobium S. Galli = S. Gallen</settlement>
+                    </msIdentifier>
+                    <msContents><p></p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0799" notAfter="0899"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body>
+            <p> *Asterisco ii libri notati sunt, qui in bibliotheca Sangallensi hodie extant. 
+                Similiter in proximis paragraphis ea nota utar, ut <term type="codex">codices</term> adhuc in bibliotheois servatos significem.</p>
+            <div>
+                <head>LIBRI SCOTTICE SCRIPTI. </head>
+                <p n="1"><bibl type="metrum" corresp="#Iuvenc"> Metrum <author corresp="#IUVENCUS">iuvenci</author> In <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="2"><bibl type="biblia" corresp="#epist_Paul"> Eple pauli in <term type="volumen">vol</term> I.</bibl></p>
+                <p n="3"><bibl type="biblia" corresp="#act"> Act' aplor in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="4"><bibl type="epistola" corresp="#canon_epist"> Eple canonice VII in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="5"><bibl type="exegesis" corresp="#in_Salom_Beda"> Tractat' <author corresp="#BEDA">bede</author> in pverbia salom. in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="6"><bibl type="biblia" corresp="#Ezech"> Ezechel pp. in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="7"><bibl type="biblia" corresp="#evang_Ioh">* Evang. scdm ioh in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="8"><bibl corresp="#enchir_Aug"> Euchiridion <author corresp="#AUGUSTINUS">aug.</author> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="9"><bibl type="metrum" corresp="#Iuvenc"> Ite <author corresp="#IUVENCUS">iuvenci</author> metru In <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="10"><bibl type="biblia" corresp="#apoc"> Apocalypsis in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="11"><bibl type="biblia" corresp="#apoc"> Ite apocalypsis in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="12"><bibl type="metrum" corresp="#Sedul"> Metru <author corresp="#SEDULIUS">sedulii</author> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="13"><bibl corresp="#grad_eccl"> De gradib; eclesiasticis. in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="14"><bibl corresp="#arithm_Boeth"> Arithmetica <author corresp="#BOETHIUS">Boetii</author> <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="15"><bibl type="liturgia" corresp="#missale"> Missalis in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="16"><bibl type="vita" corresp="#vita_Hilarii"> Vita Sci hilarii in <term type="codicillus">codicillo</term> I.</bibl></p>
+                <p n="17"><bibl type="vita" corresp="#passio_Marcellini_Petri"> Passio s. martyru Marcellini et petri.</bibl></p>
+                <p n="18"><bibl type="metrum" corresp="#Verg"> Metru <author corresp="#VERGILIUS">virg.</author> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="19"><bibl type="glossae" corresp="#gloss_in_Virg"> Eius glosa in altero.</bibl></p>
+                <p n="20"><bibl type="quaestiones" subtype="inventio" corresp="#invent_Steph"> Qetnio I de inventione corporis sci stephani.</bibl></p>
+                <p n="21"><bibl corresp="#rel_transl_Galli"> <term type="quaternio">Quat.</term> I. De relatione translationis sci Galli in nova eclam.</bibl></p>
+                <p n="22"><bibl corresp="#dam_Beda"> <author corresp="#BEDA">Bede</author> de arte met. in <term type="quaternio">qat.</term></bibl></p>
+                <p n="23"><bibl corresp="#instruct_ord_eccl"> Instructio ecclesiastici ordinis. In <term type="codicillus">codicillo</term> I.</bibl></p>
+                <p n="24"><bibl type="biblia" corresp="#gen" ana="fragmentum"> <term type="liber">Lb.</term> I. genesis in <term type="quaternio">qatnionib;</term></bibl></p>
+                <p n="25"><bibl type="collectio"> <bibl type="biblia" corresp="#act">Act' aplor</bibl> et <bibl type="biblia" corresp="#apoc">apocalypsis</bibl> in <gloss><term type="volumen">vol.</term> I veteri</gloss>.</bibl></p>
+                <p n="26"><bibl corresp="#in_nat_innocent"> <term type="quaternio">Quatnio</term> I in natl. iunocentu legend</bibl></p>
+                <p n="27"><bibl type="collectio"> <bibl type="liturgia" corresp="#orat">Orationes</bibl> et <bibl corresp="#sent">sententie</bibl> varie in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="28"><bibl type="liturgia" corresp="#orat"> Orationes in <term type="quaternio">qato</term> non.</bibl></p>
+                <p n="29"><bibl type="exegesis" corresp="#in_cant"> Expositio in cantica cant. in <term type="quaternio">qatern.</term> II.</bibl></p>
+                <p n="30"><bibl type="exegesis" corresp="#in_reg"> Ite in regu <term type="quaternio">qat</term> I.</bibl></p></div>
+            
+            <div><head>BREVIARIV LIBRORVM. DE COENOBIO SCI GALLI CONF. XPI DE LIBRIS VETERIS TESTAMENTI.</head> 
+                <p n="31"><bibl type="biblia" corresp="#biblia">* Bibliotheca una.</bibl></p>
+                <p n="32"><bibl type="collectio" ana="1"> <bibl type="biblia" corresp="#eptat">Eptalici IIII</bibl>. uno ex his <bibl type="biblia" corresp="#Iob">Iob</bibl> et <bibl type="biblia" corresp="#Tob">tobias</bibl> <gloss>[pertinent ad proximum versum]</gloss></bibl></p>
+                <p n="33" sameAs="32"><bibl type="collectio" ana="2"> <bibl type="biblia" corresp="#eptat">Eptalici IIII</bibl>. uno ex his <bibl type="biblia" corresp="#Iob">Iob</bibl> et <bibl type="biblia" corresp="#Tob">tobias</bibl> <gloss>[pertinent ad proximum versum]</gloss></bibl></p>
+                <p n="34" sameAs="32"><bibl type="collectio" ana="3"> <bibl type="biblia" corresp="#eptat">Eptalici IIII</bibl>. uno ex his <bibl type="biblia" corresp="#Iob">Iob</bibl> et <bibl type="biblia" corresp="#Tob">tobias</bibl> <gloss>[pertinent ad proximum versum]</gloss></bibl></p>
+                <p n="35" sameAs="32"><bibl type="collectio" ana="4"> <bibl type="biblia" corresp="#eptat">Eptalici IIII</bibl>. uno ex his <bibl type="biblia" corresp="#Iob">Iob</bibl> et <bibl type="biblia" corresp="#Tob">tobias</bibl> <gloss>[pertinent ad proximum versum]</gloss></bibl></p>
+                <p n="36"><bibl type="biblia" corresp="#reg" ana="1"> Regum <term type="volumen">volumina</term> V. </bibl></p>
+                <p n="37" sameAs="36"><bibl type="biblia" corresp="#reg" ana="2"> Regum <term type="volumen">volumina</term> V. </bibl></p>
+                <p n="38" sameAs="36"><bibl type="biblia" corresp="#reg" ana="3"> Regum <term type="volumen">volumina</term> V. </bibl></p>
+                <p n="39" sameAs="36"><bibl type="biblia" corresp="#reg" ana="4"> Regum <term type="volumen">volumina</term> V. </bibl></p>
+                <p n="40" sameAs="36"><bibl type="biblia" corresp="#reg" ana="5"> Regum <term type="volumen">volumina</term> V. </bibl></p>
+                <p n="41"><bibl type="collectio" ana="1">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="42" sameAs="41"><bibl type="collectio" ana="2">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="43" sameAs="41"><bibl type="collectio" ana="3">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="44" sameAs="41"><bibl type="collectio" ana="4">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="45" sameAs="41"><bibl type="collectio" ana="5">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="46" sameAs="41"><bibl type="collectio" ana="6">* 
+                        <bibl type="biblia" corresp="#Salom">Salomonis <term type="volumen">volum.</term> VI</bibl> et in et in alio 
+                        <bibl type="biblia" corresp="#Esdr">esdras</bibl> et <bibl corresp="#nenum">nenu</bibl>. </bibl></p>
+                <p n="47"><bibl type="biblia" corresp="prophetae" ana="1"> Libri omniu pphetarum in duobus <term type="volumen">voluminib;</term> </bibl></p>
+                <p n="48" sameAs="47"><bibl type="biblia" corresp="prophetae" ana="2"> Libri omniu pphetarum in duobus <term type="volumen">voluminib;</term> </bibl></p>
+                <p n="49"><bibl type="collectio">* Item 
+                        <bibl type="biblia" corresp="#Is">esaie</bibl> et 
+                        <bibl type="biblia" corresp="#Ier">hieremiae</bibl> in uno <term type="volumen">volumine</term>. </bibl></p>
+                <p n="50"><bibl type="collectio">* 
+                        <bibl type="biblia" corresp="#Ezech">Ezechihelis</bibl> et 
+                        <bibl type="biblia" corresp="#Dan">Danihelis</bibl> et 
+                        <bibl type="biblia" corresp="#proph">XII pphetar</bibl>. In uno <term type="volumen">vol.</term> </bibl></p>
+                <p n="51"><bibl> 
+                        <bibl type="biblia" corresp="#Par">Paralippom</bibl>. 
+                        <bibl type="biblia" corresp="#Iudith">Iudiht</bibl> [sic] 
+                        <bibl type="biblia" corresp="#Esth">Hester</bibl>. 
+                        <bibl type="biblia" corresp="#Esdr">esdrae</bibl>. 
+                        <bibl type="biblia" corresp="#Macc">Machabeorum.</bibl> In uno <term type="volumen">volumine</term> <gloss>[in marg ad scola]</gloss>. </bibl></p>
+                <p n="52"><bibl> Ite 
+                        <bibl type="biblia" corresp="#Par">paralippom</bibl>. 
+                        <bibl type="biblia" corresp="#Tob">Tobias</bibl>.
+                        <bibl type="biblia" corresp="#Iudith">Iudith</bibl> 
+                        <bibl type="biblia" corresp="#Esth">hester</bibl> In <gloss><term type="volumen">vol.</term> I. veteri. I.</gloss> </bibl></p>
+                <p n="53"><bibl type="biblia" corresp="#Macc" ana="1">* Item machabeoru <term type="volumen">volumina</term> duo. </bibl></p>
+                <p n="54" sameAs="53"><bibl type="biblia" corresp="#Macc" ana="2">* Item machabeoru <term type="volumen">volumina</term> duo. </bibl></p>
+                <p n="55"><bibl> Ite 
+                        <bibl type="biblia" corresp="#Iob">iob</bibl>. 
+                        <bibl type="biblia" corresp="#Tob">tobias</bibl>. 
+                        <bibl type="biblia" corresp="#Iudith">iudith</bibl>. 
+                        <bibl type="biblia" corresp="#Esth">hester</bibl>. 
+                        <bibl type="biblia" corresp="#Esdr">ezras neemias</bibl> In <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="56"><bibl> Ite <bibl type="biblia" corresp="#Iob">iob</bibl>. 
+                        <bibl type="biblia" corresp="#Tob">tobias</bibl>. 
+                        <bibl type="biblia" corresp="#Esth">hester</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="57"><bibl> Ite <bibl type="biblia" corresp="#Iob">iob</bibl>. 
+                        <bibl type="biblia" corresp="#Tob">tobias</bibl>. 
+                        <bibl type="biblia" corresp="#Iudith">iud</bibl>. 
+                        <bibl type="biblia" corresp="#Esth">hester</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="58"><bibl type="biblia" corresp="#Iob"> Ite iob. in <term type="volumen">vol.</term> I. <gloss>[in marg. ad rorbach.]</gloss> </bibl></p>
+                <p n="59"><bibl> 
+                        <bibl type="biblia" corresp="#Tob">Tobias</bibl> 
+                        <bibl type="biblia" corresp="#Iudith">iudith</bibl>. 
+                        <bibl type="biblia" corresp="#Esth">hester</bibl> in <term type="codex">codice</term> I. </bibl>
+                <gloss>55-59 additamenta sunt iunioris manus eiusdem saeculi.</gloss></p></div>
+            
+            <div><head>ITEM DE LIBRIS NOVI TESTAMENTI.</head> 
+                <p n="60"><bibl type="biblia" corresp="#evang" ana="1"> Evangeliorum volumina IIII <gloss>ex his duo non inveni. s; I</gloss> [tantum secundum Iohannem verba erasa addit Weidmann.] <gloss>et tria vetera</gloss>.</bibl></p>
+                <p n="61" sameAs="60"><bibl type="biblia" corresp="#evang" ana="2"> Evangeliorum volumina IIII <gloss>ex his duo non inveni. s; I</gloss> [tantum secundum Iohannem verba erasa addit Weidmann.] <gloss>et tria vetera</gloss>. </bibl></p>
+                <p n="62" sameAs="60"><bibl type="biblia" corresp="#evang" ana="3"> Evangeliorum volumina IIII <gloss>ex his duo non inveni. s; I</gloss> [tantum secundum Iohannem verba erasa addit Weidmann.] <gloss>et tria vetera</gloss>. </bibl></p>
+                <p n="63" sameAs="60"><bibl type="biblia" corresp="#evang" ana="4"> Evangeliorum volumina IIII <gloss>ex his duo non inveni. s; I</gloss> [tantum secundum Iohannem verba erasa addit Weidmann.] <gloss>et tria vetera</gloss>. </bibl></p>
+                <p n="64"><bibl type="collectio" ana="1">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="65" sameAs="64"><bibl type="collectio" ana="2">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="66" sameAs="64"><bibl type="collectio" ana="3">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="67" sameAs="64"><bibl type="collectio" ana="4">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="68" sameAs="64"><bibl type="collectio" ana="5">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="69" sameAs="64"><bibl type="collectio" ana="6">* 
+                        <bibl type="biblia" corresp="#epist_Paul">Epistolae pauli</bibl> et 
+                        <bibl type="epistola" corresp="#canon_epist">VII epistolae canonicae</bibl> et 
+                        <bibl type="biblia" corresp="#act">act' <gloss>[in marg. It act' aplor. et apocal. in vol. I.]</gloss> apostoloru</bibl> atq. 
+                        <bibl type="biblia" corresp="#apoc">apocalipsis ioh. apost.</bibl> <term type="volumen">Vol.</term> V. </bibl></p>
+                <p n="70"><bibl type="biblia" corresp="#evang_Ioh" ana="1"> Item evangelia II. scdm ioh. <gloss>scottice scripta</gloss>.</bibl></p>
+                <p n="71" sameAs="70"><bibl type="biblia" corresp="#evang_Ioh" ana="2"> Item evangelia II. scdm ioh. <gloss>scottice scripta</gloss>.</bibl></p>
+            </div>
+            
+            <div><head><bibl corresp="#Greg_M">DE LIBRIS <author corresp="#GREGORIUS_MAGNUS">BEATI GREGORII PAPAE</author>.</bibl></head>
+                <p n="72"><bibl type="sermo" corresp="#in_evang_Greg_M" ana="1">*In lectiones evangelicas. homeliar. XL <term type="volumen">vol.</term> IIII <gloss>[in marg. Unu ex his datu e domno karolo regi.]</gloss></bibl></p>
+                <p n="73" sameAs="72"><bibl type="sermo" corresp="#in_evang_Greg_M" ana="2">*In lectiones evangelicas. homeliar. XL <term type="volumen">vol.</term> IIII <gloss>[in marg. Unu ex his datu e domno karolo regi.]</gloss></bibl></p>
+                <p n="74" sameAs="72"><bibl type="sermo" corresp="#in_evang_Greg_M" ana="3">*In lectiones evangelicas. homeliar. XL <term type="volumen">vol.</term> IIII <gloss>[in marg. Unu ex his datu e domno karolo regi.]</gloss></bibl></p>
+                <p n="75" sameAs="72"><bibl type="sermo" corresp="#in_evang_Greg_M" ana="4">*In lectiones evangelicas. homeliar. XL <term type="volumen">vol.</term> IIII <gloss>[in marg. Unu ex his datu e domno karolo regi.]</gloss></bibl></p>
+                <p n="76"><bibl corresp="#past_Greg_M" ana="1"> Item eiusde <term type="liber">lib.</term> pastoral. <term type="volumen">volumina</term> II [sic cod. 267. III Weidmann e cod. 728] et 
+                        <bibl corresp="#epist_Hier">in uno eorum eple <author corresp="#HIERONYMUS">hieronimi</author></bibl>.</bibl></p>
+                <p n="77" sameAs="76"><bibl corresp="#past_Greg_M" ana="2"> Item eiusde <term type="liber">lib.</term> pastoral. <term type="volumen">volumina</term> II [sic cod. 267. III Weidmann e cod. 728] et 
+                        <bibl corresp="#epist_Hier">in uno eorum eple <author corresp="#HIERONYMUS">hieronimi</author></bibl>.</bibl></p>
+                <p n="78" sameAs="76"><bibl corresp="#past_Greg_M" ana="3"> Item eiusde <term type="liber">lib.</term> pastoral. <term type="volumen">volumina</term> II [sic cod. 267. III Weidmann e cod. 728] et 
+                        <bibl corresp="#epist_Hier">in uno eorum eple <author corresp="#HIERONYMUS">hieronimi</author></bibl>.</bibl></p>
+                <p n="79"><bibl type="collectio" ana="1"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="80" sameAs="79"><bibl type="collectio" ana="2"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="81" sameAs="79"><bibl type="collectio" ana="3"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis  
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="82" sameAs="79"><bibl type="collectio" ana="4"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="83" sameAs="79"><bibl type="collectio" ana="5"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="84" sameAs="79"><bibl type="collectio" ana="6"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="85" sameAs="79"><bibl type="collectio" ana="7"><bibl corresp="#moral_Greg_M">* Moraliar in iob. <term type="liber">libri</term> XXXV</bibl> in <term type="volumen">voluminib;</term> VII et in uno exeis 
+                        <bibl type="vita" corresp="#vita_Pauli">vita pauli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Antonii">Antonii</bibl> </bibl></p>
+                <p n="86"><bibl corresp="#dial_Greg_M" ana="1"> Dialogorum <term type="volumen">volumina</term> II. </bibl></p>
+                <p n="87" sameAs="86"><bibl corresp="#dial_Greg_M" ana="2"> Dialogorum <term type="volumen">volumina</term> II. </bibl></p>
+                <p n="88"><bibl corresp="#dial_Greg_M">* Ite unus [vetus Weidmann.] I <gloss>[in marg. ad rorbach.]</gloss> </bibl></p>
+                <p n="89"><bibl type="sermo" corresp="#in_Ezech_Greg_M" ana="fragmentum"> In ezechihel prima partem homil. XII in <term type="volumen">volum.</term> I. <gloss>[in marg. habet domna rickart.]</gloss> </bibl></p>
+                <p n="90"><bibl type="sermo" corresp="#in_proph_Greg_M">* In ultima parte ei’de pph. homil. X. in <term type="volumen">volum.</term> I </bibl></p>
+                <p n="91"><bibl type="sermo" corresp="#hom_Greg_M">* Eedem homilie XXII. In <term type="volumen">volumine</term> uno <gloss>[in marg. Reddite S. ad augia et patrate S. nove.]</gloss> </bibl></p>
+                <p n="92"><bibl corresp="#moral_Greg_M" ana="fragmentum">* Item <term type="liber">libri</term> XXXV excerptio ab eisde moraliar. <term type="liber">libris</term> in <term type="codex">codice</term> uno. </bibl></p>
+                <p n="93"><bibl type="epistola" corresp="#epist_Greg_M"> Epistolarum <author corresp="#GREGORIUS_MAGNUS">gregorii</author> <gloss><term type="volumen">vol.</term> I. pusillum.</gloss> </bibl></p>
+                <p n="94"><bibl type="regula" corresp="#past_Greg_M" ana="1"> Regulae pastoralis <author corresp="#GREGORIUS_MAGNUS">Gregorii</author> <term type="volumen">vol.</term> III. [hunc versum in autographo deletum om. cod. 267 et Haenel] </bibl></p>
+                <p n="95" sameAs="94"><bibl type="regula" corresp="#past_Greg_M" ana="2"> Regulae pastoralis <author corresp="#GREGORIUS_MAGNUS">Gregorii</author> <term type="volumen">vol.</term> III. [hunc versum in autographo deletum om. cod. 267 et Haenel] </bibl></p>
+                <p n="96" sameAs="94"><bibl type="regula" corresp="#past_Greg_M" ana="3"> Regulae pastoralis <author corresp="#GREGORIUS_MAGNUS">Gregorii</author> <term type="volumen">vol.</term> III. [hunc versum in autographo deletum om. cod. 267 et Haenel] </bibl></p>
+                <p n="97"><bibl corresp="#moral_Greg_M" ana="1"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+                <p n="98" sameAs="97"><bibl corresp="#moral_Greg_M" ana="2"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+                <p n="99" sameAs="97"><bibl corresp="#moral_Greg_M" ana="3"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+                <p n="100" sameAs="97"><bibl corresp="#moral_Greg_M" ana="4"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+                <p n="101" sameAs="97"><bibl corresp="#moral_Greg_M" ana="5"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+                <p n="102" sameAs="97"><bibl corresp="#moral_Greg_M" ana="6"> VI. partes in iob singula in singulis <gloss><term type="volumen">voluminibus</term> optimis</gloss> <gloss>[97-102. additamentum.]</gloss> </bibl></p>
+              </div>
+            
+            <div><head><bibl corresp="#Hier">DE LIBRIS <author corresp="#HIERONYMUS">HIERONIMI PRBI</author></bibl>.</head> 
+                <p n="103"><bibl type="collectio">* 
+                        <bibl type="quaestiones" corresp="#quaest_hebr_in_gen_Hier"><term type="liber">liber</term> quaestionu hebraicaru in genesim</bibl> et 
+                        <bibl type="exegesis" corresp="#in_prov_Salom">expositio nescio cui’ in pverbia Solomonis</bibl> et [e Weidmann.] 
+                        <bibl corresp="#trib_imposs_Hier"><author corresp="#HIERONYMUS">hieronimi</author> de trib; impossibilib;</bibl> et 
+                        <bibl corresp="#incogn">quarto incognito</bibl> atq; 
+                        <bibl corresp="#instruct_Iunil">instructionu <author corresp="#IUNILIUS">iunilii</author> <term type="liber">libri</term> II</bibl> et 
+                        <bibl corresp="#sit_et_nom_Hier"><term type="liber">lib.</term> locor.</bibl> hoc totu in <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="104"><bibl type="collectio">* 
+                        <bibl type="exegesis" corresp="#in_cant_Iust"><author corresp="#IUSTUS">Iusti epi</author> in cantica canticoru</bibl> et 
+                        <bibl type="exegesis" corresp="#in_eccles_Hier"><author corresp="#HIERONYMUS">hieronimi</author> in eclesiasten</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="105"><bibl type="exegesis" corresp="#in_Is_Hier" ana="1">* Ite <author corresp="#HIERONYMUS">hieronimi</author> in esaia <term type="liber">libri</term> XVIII in <term type="volumen">voluminib;</term> trib.</bibl></p>
+                <p n="106" sameAs="105"><bibl type="exegesis" corresp="#in_Is_Hier" ana="2">* Ite <author corresp="#HIERONYMUS">hieronimi</author> in esaia <term type="liber">libri</term> XVIII in <term type="volumen">voluminib;</term> trib.</bibl></p>
+                <p n="107" sameAs="105"><bibl type="exegesis" corresp="#in_Is_Hier" ana="3">* Ite <author corresp="#HIERONYMUS">hieronimi</author> in esaia <term type="liber">libri</term> XVIII in <term type="volumen">voluminib;</term> trib.</bibl></p>
+                <p n="108"><bibl type="exegesis" corresp="#in_Ier_Hier">* Ite eiusde in hieremia a capite <term type="liber">libri</term> V. in <term type="volumen">vol.</term> I. <gloss>[in marg.: et rabanus usq. in fine.]</gloss> </bibl></p>
+                <p n="109"><bibl type="exegesis" corresp="#in_Ezech_Hier" ana="1">* In ezechiel ppheta <term type="liber">libri</term> duodeci in <term type="volumen">voluminib;</term> duob; </bibl></p>
+                <p n="110" sameAs="109"><bibl type="exegesis" corresp="#in_Ezech_Hier" ana="2">* In ezechiel ppheta <term type="liber">libri</term> duodeci in <term type="volumen">voluminib;</term> duob; </bibl></p>
+                <p n="111"><bibl type="exegesis" corresp="#in_Dan_Hier">* Eiusde sup totu danihele commtarioru <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="112"><bibl type="exegesis" corresp="#in_Os_Hier">* In osee ppheta <term type="liber">libri</term> III in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="113"><bibl type="collectio">* 
+                        <bibl type="exegesis" corresp="#in_Abd_Hier">In abdia <term type="liber">liber</term> I.</bibl> 
+                        <bibl type="exegesis" corresp="#in_Zach_Hier">in zachariä <term type="liber">libri</term> III.</bibl> 
+                        <bibl type="exegesis" corresp="#in_Mal_Hier">in malachia <term type="liber">liber</term> I.</bibl> 
+                        <bibl type="exegesis" corresp="#in_Hab_Hier">in abacuc <term type="liber">libri</term> II</bibl> hoc totu in <term type="volumen">vol</term> I.</bibl></p>
+                <p n="114"><bibl type="exegesis" corresp="#in_Am_Hier" ana="incomplete">* In amos <term type="liber">libri</term> III in <term type="volumen">volum.</term> I.</bibl></p>
+                <p n="115"><bibl type="collectio">* Ite 
+                        <bibl type="exegesis" corresp="#in_Ioel_Hier">in iohel</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Mich_Hier">michea <term type="liber">libri</term> III</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="116"><bibl>* 
+                        <bibl type="exegesis" corresp="#in_Ion_Hier">In iona</bibl>. 
+                        <bibl type="exegesis" corresp="#in_Ios_Hier">Nav.</bibl> 
+                        <bibl type="exegesis" corresp="#in_Soph_Hier">Sophonia</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Agg_Hier">aggeu <term type="liber">libri</term> IIII</bibl> in <term type="volumen">vol.</term> I. <gloss>[in marg.: habet rickart.]</gloss></bibl></p>
+                <p n="117"><bibl type="exegesis" corresp="#in_psalm_Hier" ana="1">* Eiusde expositio in omes psalmos <gloss><term type="volumen">vol.</term> magna</gloss> II. <gloss>[in marg.: non sunt ei' sed inutiles.]</gloss></bibl></p>
+                <p n="118" sameAs="117"><bibl type="exegesis" corresp="#in_psalm_Hier" ana="2">* Eiusde expositio in omes psalmos <gloss><term type="volumen">vol.</term> magna</gloss> II. <gloss>[in marg.: non sunt ei' sed inutiles.]</gloss></bibl></p>
+                <p n="119"><bibl type="exegesis" corresp="#in_psalm_Hier" ana="1"> Ite expositio sup psalmos <term type="volumen">vol.</term> II <gloss>[in marg.: inutilia.]</gloss> </bibl></p>
+                <p n="120" sameAs="119"><bibl type="exegesis" corresp="#in_psalm_Hier" ana="2"> Ite expositio sup psalmos <term type="volumen">vol.</term> II <gloss>[in marg.: inutilia.]</gloss> </bibl></p>
+                <p n="121"><bibl type="collectio">* Eiusde 
+                        <bibl type="exegesis" corresp="#in_Matth_Hier">commentariu in math. <term type="liber">libri</term> IIII</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Marc_Hier" ana="fragmentum">in marcu <term type="liber">lib.</term> excerptus</bibl> <term type="volumen">volu</term> I. <gloss>[in marg.: mendaciu]</gloss> </bibl></p>
+                <p n="122"><bibl type="exegesis" corresp="#in_Matth_Hier" ana="1"> Ite excerptioo in mattheu de commtariis <author corresp="#HIERONYMUS">hieron</author> <term type="volumen">volumina</term> tria <gloss>[in marg.: ad nihil utilia.]</gloss> </bibl></p>
+                <p n="123" sameAs="122"><bibl type="exegesis" corresp="#in_Matth_Hier" ana="2"> Ite excerptioo in mattheu de commtariis <author corresp="#HIERONYMUS">hieron</author> <term type="volumen">volumina</term> tria <gloss>[in marg.: ad nihil utilia.]</gloss> </bibl></p>
+                <p n="124" sameAs="122"><bibl type="exegesis" corresp="#in_Matth_Hier" ana="3"> Ite excerptioo in mattheu de commtariis <author corresp="#HIERONYMUS">hieron</author> <term type="volumen">volumina</term> tria <gloss>[in marg.: ad nihil utilia.]</gloss> </bibl></p>
+                <p n="125"><bibl type="collectio">*
+                        <bibl corresp="#sit_et_nom_Hier"><term type="liber">liber</term> locorum</bibl> et 
+                        <bibl corresp="#nom_hebr_Hier"><term type="liber">liber</term> hebraicoru nominu</bibl> et 
+                        <bibl corresp="#cosmogr">chosmographiae</bibl> <gloss>[in marg.: pittaciolu inutile.]</gloss> </bibl></p>
+                <p n="126"><bibl type="collectio">* 
+                        <bibl corresp="#Aethicus"><term type="liber">liber</term> primus <author corresp="#AETHICUS">aethici philosophi</author></bibl> et 
+                        <bibl corresp="#perf_antonii">perfectio antonini martiris.</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="127"><bibl type="epistola" corresp="#epist_Hier" ana="1">* Epistolaru <author corresp="#HIERONYMUS">hieronimi</author> ad diversos. <term type="volumen">volum</term> IIII <gloss>[in marg.: duo liutuuardus habet.]</gloss> </bibl></p>
+                <p n="128" sameAs="127"><bibl type="epistola" corresp="#epist_Hier" ana="2">* Epistolaru <author corresp="#HIERONYMUS">hieronimi</author> ad diversos. <term type="volumen">volum</term> IIII <gloss>[in marg.: duo liutuuardus habet.]</gloss> </bibl></p>
+                <p n="129" sameAs="127"><bibl type="epistola" corresp="#epist_Hier" ana="3">* Epistolaru <author corresp="#HIERONYMUS">hieronimi</author> ad diversos. <term type="volumen">volum</term> IIII <gloss>[in marg.: duo liutuuardus habet.]</gloss> </bibl></p>
+                <p n="130" sameAs="127"><bibl type="epistola" corresp="#epist_Hier" ana="4">* Epistolaru <author corresp="#HIERONYMUS">hieronimi</author> ad diversos. <term type="volumen">volum</term> IIII <gloss>[in marg.: duo liutuuardus habet.]</gloss> </bibl></p>
+                <p n="131"><bibl corresp="#vir_ill_Hier_Gennad">* <term type="liber">liber</term> inlustriu viroru <author corresp="#HIERONYMUS">hieronimi</author> et <author corresp="#GENNADIUS">gennadii</author>. <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="132"><bibl>* In epistolas Pauli id 
+                        <bibl type="exegesis" corresp="#in_Eph_Hier"> ad ephesios.</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Tit_Hier">ad Titu</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Philemon_Hier">philimonem</bibl> <term type="liber">libri</term> V in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="133"><bibl type="exegesis" corresp="#in_Gal_Hier">* Ite in epistola ad galatas <term type="thomus">thomi</term> tres in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="134"><bibl corresp="#adv_Iovin_Hier">* Contra iovinianu hereticu <term type="liber">libri</term>. II in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="135"><bibl corresp="#dial_cum_Cretobulo_Hier" ana="1">* Ite dialogus <author corresp="#HIERONYMUS">heron.</author> [Iheron. Weidmann.] cum crettobolo <term type="volumen">volum.</term> 4 
+                    [sic Haenel, 2 Weidmann <gloss>[in marg.:</gloss> et in uno eoru 
+                        <bibl type="vita" corresp="#vita_Chrispiari"><author corresp="#AUGUSTINUS">S. aug.</author> de vita xpiar</bibl> et
+                        <bibl corresp="#alt_eccl_synag">altercatio synagogae et ecle</bibl>.] </bibl></p>
+                <p n="136" sameAs="135"><bibl corresp="#dial_cum_Cretobulo_Hier" ana="2">* Ite dialogus <author corresp="#HIERONYMUS">heron.</author> [Iheron. Weidmann.] cum crettobolo <term type="volumen">volum.</term> 4 
+                        [sic Haenel, 2 Weidmann <gloss>[in marg.:</gloss> et in uno eoru 
+                        <bibl type="vita" corresp="#vita_Chrispiari"><author corresp="#AUGUSTINUS">S. aug.</author> de vita xpiar</bibl> et
+                        <bibl corresp="#alt_eccl_synag">altercatio synagogae et ecle</bibl>.] </bibl></p>
+                <p n="137" sameAs="135"><bibl corresp="#dial_cum_Cretobulo_Hier" ana="3">* Ite dialogus <author corresp="#HIERONYMUS">heron.</author> [Iheron. Weidmann.] cum crettobolo <term type="volumen">volum.</term> 4 
+                        [sic Haenel, 2 Weidmann <gloss>[in marg.:</gloss> et in uno eoru 
+                        <bibl type="vita" corresp="#vita_Chrispiari"><author corresp="#AUGUSTINUS">S. aug.</author> de vita xpiar</bibl> et
+                        <bibl corresp="#alt_eccl_synag">altercatio synagogae et ecle</bibl>.] </bibl></p>
+                <p n="138" sameAs="135"><bibl corresp="#dial_cum_Cretobulo_Hier" ana="4">* Ite dialogus <author corresp="#HIERONYMUS">heron.</author> [Iheron. Weidmann.] cum crettobolo <term type="volumen">volum.</term> 4 
+                        [sic Haenel, 2 Weidmann <gloss>[in marg.:</gloss> et in uno eoru 
+                        <bibl type="vita" corresp="#vita_Chrispiari"><author corresp="#AUGUSTINUS">S. aug.</author> de vita xpiar</bibl> et
+                        <bibl corresp="#alt_eccl_synag">altercatio synagogae et ecle</bibl>.] </bibl></p>
+                <p n="139"><bibl type="collectio">* 
+                        <bibl corresp="#c_arrian_Vigil_Thaps">Altercatio <author corresp="#ATHANASIUS">athnasii</author> cu arrio sabellio et fotino hereticis</bibl> et 
+                        <bibl corresp="#c_Lucif_Hier"><author corresp="#HIERONYMUS">Hieroni</author> cu luciferiano.</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="140"><bibl type="exegesis" corresp="#in_psalt"> Ite nescio cui' tractatoris eglogae in psalteriu in 
+                    <gloss>[super nescio scriptum est: nuqua vidi.]</gloss> <term type="quaternio">quaternionib;</term> </bibl></p>
+                <p n="141"><bibl corresp="#chron_Euseb_Hier">* Chronica <author corresp="#EUSEBIUS_CAESARIENSIS">eusebii</author> et 
+                    <author corresp="#HIERONYMUS" ana="traducteur">hieronimi</author> <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="142"><bibl type="epistola" corresp="#epist_Hier"> Epistola hieronimi ad eustochiu in <gloss><term type="quaternio">qaternionib.</term> veterrimis et falsatis</gloss>. 
+                    <gloss>[141.42 additamenta.]</gloss></bibl>
+                </p></div> 
+            
+            <div><head><bibl corresp="#Aug">DE LIBRIS <author corresp="#AUGUSTINUS">SCI AVGVSTINI EPI</author></bibl>.</head>
+                <p n="143"><bibl type="exegesis" corresp="#in_evang_Ioh_Aug" ana="1"> <author corresp="#AUGUSTINUS">Augustini</author> sup evangelm iohannis <term type="volumen">volumina</term> tria. </bibl></p>
+                <p n="144" sameAs="143"><bibl type="exegesis" corresp="#in_evang_Ioh_Aug" ana="3"> <author corresp="#AUGUSTINUS">Augustini</author> sup evangelm iohannis <term type="volumen">volumina</term> tria. </bibl></p>
+                <p n="145" sameAs="143"><bibl type="exegesis" corresp="#in_evang_Ioh_Aug" ana="3"> <author corresp="#AUGUSTINUS">Augustini</author> sup evangelm iohannis <term type="volumen">volumina</term> tria. </bibl></p>
+                <p n="146"><bibl type="collectio">* 
+                    <bibl corresp="#de_serm_dom_Aug">De sermone dni in monte habito <term type="liber">libri</term> duo</bibl> et 
+                    <bibl corresp="#quaest_evang_Aug">questionu in evanglm mathei et luce et iohan <term type="liber">libri</term> III</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="147"><bibl type="exegesis" corresp="#in_epist_Ioh_Aug">* Omelie X in eplam iohan. in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="148"><bibl corresp="#cons_evang_Aug">* De consensu evangelistaru <term type="liber">libri</term> IIII in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="149"><bibl corresp="#doctr_christ_Aug">* De doctrina xpiana <term type="liber">libri</term> IIII in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="150"><bibl corresp="#trin_Aug">* De sca trinitate <term type="liber">libri</term> XV. in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="151"><bibl corresp="#civ_Aug" ana="1">* De civitate di <term type="liber">libri</term> XXII in <term type="volumen">voluminib.</term> duob </bibl></p>
+                <p n="152" sameAs="151"><bibl corresp="#civ_Aug" ana="2">* De civitate di <term type="liber">libri</term> XXII in <term type="volumen">voluminib.</term> duob </bibl></p>
+                <p n="153"><bibl corresp="#in_psalm_Aug" ana="1">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="154" sameAs="153"><bibl corresp="#in_psalm_Aug" ana="2">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="155" sameAs="153"><bibl corresp="#in_psalm_Aug" ana="3">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="156" sameAs="153"><bibl corresp="#in_psalm_Aug" ana="4">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="157" sameAs="153"><bibl corresp="#in_psalm_Aug" ana="5">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="158" sameAs="153"><bibl corresp="#in_psalm_Aug" ana="6">* Decades <author corresp="#AUGUSTINUS">sci augustini</author> sup omes psalmos in <term type="volumen">voluminibus</term> sex </bibl></p>
+                <p n="159"><bibl type="collectio">
+                        <bibl corresp="#dogm_Gennad">* De difinitionib; ecclesiasticor dogmatu</bibl> et 
+                        <bibl corresp="#fid_Fulg_Rusp">ad petru. diaconu de fide</bibl> <term type="volumen">volum.</term> I.</bibl></p>
+                <p n="160"><bibl type="sermo" corresp="#hom_in_apoc_Aug">* In apolipsim [sic] omeliae XVIIII in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="161"><bibl corresp="#gen_c_Manich_Aug">* Contra manicheos in genesim <term type="liber">libri</term> II in <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="162"><bibl corresp="#soliloq_Aug">* Soliloquioru <term type="liber">libri</term> II in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="163"><bibl>* 
+                        <bibl corresp="#c_haer_Ambr"><author corresp="#AMBROSIUS">Ambrosii</author> contra hereticos</bibl> et 
+                        <bibl corresp="#c_Arian_Aug"><author corresp="#AUGUSTINUS">augustini</author> contra arrianos</bibl> et 
+                        <bibl type="epistola" corresp="#epist_Ambr">eple due <author corresp="#AMBROSIUS">ambrosii</author> ad valentinum imprem.</bibl> In <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="164"><bibl type="quaestiones" corresp="#quaest_Aug">* Quaestiones diverse <author corresp="#AUGUSTINUS">sci augustini epi.</author> numero LXXXII. </bibl></p>
+                <p n="165"><bibl corresp="#decad_Aug" ana="1"> Ite excerpta de decad. <author corresp="#AUGUSTINUS">s. aug.</author> in II <term type="volumen">vol.</term></bibl></p>
+                <p n="166" sameAs="165"><bibl corresp="#decad_Aug" ana="2"> Ite excerpta de decad. <author corresp="#AUGUSTINUS">s. aug.</author> in II <term type="volumen">vol.</term></bibl></p>
+                <p n="167"><bibl corresp="#Eugipp">* Ite <term type="liber">libri</term> <author corresp="#EUGIPPIUS">eugippii</author> <gloss><term type="volumen">volum.</term> I magnu</gloss>. </bibl></p>
+                <p n="168"><bibl corresp="#retract_Aug">* Lib. retractationu <author corresp="#AUGUSTINUS">sci augustini epi.</author> </bibl></p>
+                <p n="169"><bibl corresp="#gen_ad_litt_Aug">* <author corresp="#AUGUSTINUS">Augustini</author> in genesim ad litteram XII <term type="liber">lib</term>.</bibl></p>
+                <p n="170"><bibl corresp="#quaest_hept_Aug">* Questionu in heptatbeucu <term type="liber">libri</term> VII. </bibl></p>
+                <p n="171"><bibl corresp="#conf_Aug">* Item <term type="liber">lib.</term> confessionum <author corresp="#AUGUSTINUS">sci. augustini</author>. </bibl></p>
+                <p n="172"><bibl corresp="#c_Faust_Aug">* <author corresp="#AUGUSTINUS">Augustini</author> contra faustum manicheum. </bibl></p>
+                <p n="173"><bibl corresp="#bapt_Aug">* Item <term type="liber">lib.</term> de baptismo <author corresp="#AUGUSTINUS">sci augustini epi</author>. </bibl></p>
+                <p n="174"><bibl type="collectio">* It 
+                        <bibl corresp="#credul_bon_Aug"><author corresp="#AUGUSTINUS">aug.</author> de bono credulitatis</bibl> et 
+                        <bibl corresp="#nat_bon_Aug">bono natura [sic]</bibl> et 
+                        <bibl corresp="#Cyrill">sc olia <author corresp="#CYRILLUS">cyrilli</author></bibl> in <term type="volumen">vol.</term> I. <gloss>[164-74 additamenta.]</gloss></bibl></p></div> 
+            
+            <div><head><bibl corresp="#Ambr">DE LIBRIS <author corresp="#AMBROSIUS">SCI AMBROSII EPI</author></bibl>.</head>
+                <p n="175"><bibl corresp="#in_Luc_Ambr">* <author corresp="#AMBROSIUS">Ambrosii</author> in evangeliu luce <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="176"><bibl corresp="#Ambrosiast_Ambr">* Ite tractatus <author corresp="#AMBROSIUS">sci ambrosii</author> in eplas pauli <term type="volumen">volum.</term> IIII. </bibl></p>
+                <p n="180"><bibl corresp="#hex_Ambr">* Exameron <author corresp="#AMBROSIUS">Sci ambrosii</author>. </bibl></p>
+                <p n="181"><bibl corresp="#c_haer_Ambr_Aug">* (<author corresp="#AMBROSIUS">Ambrosii</author> et <author corresp="#AUGUSTINUS">Augustini</author> contra hereticos <term type="liber">libri</term> II in <term type="volumen">vol.</term> I
+                        <gloss>in marg: R.</gloss> Weidmann, <gloss>in autographo deletum</gloss>, om. cod. 268 et Haenel). </bibl></p>
+                <p n="183"><bibl corresp="#off_Ambr" ana="incomplete">* Ite <author corresp="#AMBROSIUS">s. ambrosii</author> <term type="liber">lib.</term> III de officiis. In <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="184"><bibl corresp="#fid_Ambr">* <author corresp="#AMBROSIUS">Amb.</author> de fide <term type="liber">lib.</term> III. </bibl></p>
+                <p n="185"><bibl type="collectio">* item
+                        <bibl corresp="#spir_Ambr">de spu sco</bibl> et 
+                        <bibl corresp="#incarn_Ambr">incarnat dni.</bibl> <gloss>in singul. <term type="volumen">vol.</term></gloss> <gloss>[183-85 additamenta]</gloss>.</bibl></p></div>
+            
+            <div><head><bibl corresp="#Prosp">DE LIBRIS <author corresp="#PROSPER">PROSPERI EPI</author></bibl>.</head> 
+                <p n="186"><bibl>* <term type="liber">liber</term> <author corresp="#PROSPER">psperi</author> pmissionu et predictoru di. <term type="volumen">vol.</term> I <gloss>[in marg.: vetus et falsat']</gloss> </bibl></p>   
+                <p n="187"><bibl>* Ite 
+                        <bibl corresp="#c_coll_Prosp">de gratia et libero arbitrio ad rufinu</bibl> et 
+                        <bibl corresp="#resp_Prosp">responsiones p LV capitula</bibl> et 
+                        <bibl type="quaestiones" corresp="#quaest_Dulc_Aug"><author corresp="#AUGUSTINUS">augustini</author> de octo questionib. ad dulcitiu</bibl> et 
+                        <bibl corresp="#hypomn_Ps_Aug">ypognosticon</bibl>
+                        <bibl corresp="#praed_Aug">eiusde de pdistinatione</bibl> atq: 
+                        <bibl corresp="#enchir_Aug">enchiridion</bibl> hoc totu in <term type="codex">codice</term> I. </bibl></p>
+                <p n="188">* Ite<bibl corresp="#vit_contempl_Prosp">de activa et ctemplativa vita <term type="liber">libri</term> III in <term type="codex">cod.</term> I. </bibl></p>
+                <p n="189"><bibl corresp="#epigr_Prosp" ana="1">* Item eiusdem epigramata in <term type="volumen">voluminib.</term> duob. <gloss>[in marg.: unum fuit scotticum pusillum. r.]</gloss>.</bibl></p>
+                <p n="190" sameAs="189"><bibl corresp="#epigr_Prosp" ana="2">* Item eiusdem epigramata in <term type="volumen">voluminib.</term> duob. <gloss>[in marg.: unum fuit scotticum pusillum. r.]</gloss>.</bibl></p></div>
+            
+            <div><head><bibl corresp="#Beda">DE LIBRIS <author corresp="#BEDA">BEDAE PRBI</author></bibl>.</head> 
+                <p n="191"><bibl type="exegesis" corresp="#in_Luc_Beda">* Expositiones in evangeliu luce <term type="liber">libri</term> VI in <term type="volumen">volum.</term> I.</bibl></p>
+               <p n="192"><bibl type="sermo" corresp="#hom_Beda">* Omeliae in lectiones evangelicas. L. <term type="codex">codice</term> I. </bibl></p>
+                <p n="193"><bibl type="exegesis" corresp="#in_Marc_Beda">* In marcu evangelista <term type="liber">libri</term> IIII in <term type="volumen">volu.</term> I. </bibl></p>
+                <p n="194"><bibl>* 
+                        <bibl type="exegesis" corresp="#in_act_Beda">In actus apostolorum <term type="liber">liber</term>. I</bibl> et 
+                        <bibl type="exegesis" corresp="#in_apoc_Beda">in apocalipsim Iohan. <term type="liber">libri</term> III</bibl> in <term type="codex">cod.</term> I. </bibl></p>
+                <p n="195"><bibl type="exegesis" corresp="#in_epist_canon_Beda">* In septe epistolas canonicas expos <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="196"><bibl type="comput" corresp="#comput_Beda">* De coputo et temporib' <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="197"><bibl>* 
+                        <bibl corresp="#hex_Beda">De exameron. <term type="liber">lib.</term> I.</bibl> 
+                        <bibl corresp="#ad_Florent_Isid">Ite <term type="liber">lib.</term> <author corresp="#ISIDORUS">ysidori</author> ad florentinu datus</bibl> et 
+                        <bibl corresp="#mans_Hier"><author corresp="#HIERONYMUS">hieronimi</author> de mansionib; filiorum isrl.</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="198"><bibl type="exegesis" corresp="#in_prov_Salom_Beda">* Ite in pverbia salomonis. <term type="liber">libri</term> III in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="199"><bibl type="exegesis" corresp="#de_templo_Salom_Beda">* Ite <term type="liber">liber</term> allegorice expos de teplo salomon. <term type="volumen">vol.</term> I</bibl></p>
+                <p n="200"><bibl type="collectio">* Ite 
+                        <bibl type="exegesis" corresp="#in_Tob_Beda">tractat’ in historia tobie</bibl>, 
+                        <bibl type="exegesis" corresp="#in_Esdr_Beda">esdre</bibl> et 
+                        <bibl type="exegesis" corresp="#in_Neem_Beda">neemie</bibl> <term type="liber">libri</term> IIII in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="201"><bibl type="liturgia" corresp="#martyrol_Beda">* Eiusde martyrologiu in <term type="volumen">vol.</term> I. <gloss>[in marg.: ad sacrariu.]</gloss> </bibl></p>
+                <p n="202"><bibl type="exegesis" corresp="#in_Abac_Beda">* In canticum abacuc. <term type="volumen">volum.</term> I. <gloss>[in marg.: pusillulu iuxta translatione antiqua]</gloss>. </bibl></p>
+                <p n="203"><bibl type="gesta" corresp="#gesta_Angl_Beda">* Gesta angloru. (<term type="volumen">volum.</term> I.) </bibl></p>
+                <p n="204"><bibl type="collectio">* Ite 
+                        <bibl corresp="#miracl_Gudpti_Beda">de miraculis Gudpti epi</bibl> et
+                        <bibl corresp="#laud_virg_Aldhelmus"><author corresp="#ALDHELMUS">althelmi</author> de laude virginu. <term type="liber">lib.</term> I</bibl> et 
+                        <bibl type="metrum" corresp="#not_iuris">note iuris iteq. versus alii</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="205"><bibl type="collectio">* 
+                        <bibl type="exegesis" corresp="#in_cant_Beda">In cantica canticoru <term type="liber">libri</term> V</bibl> et 
+                        <bibl corresp="#Greg_M">un’ <author corresp="#GREGORIUS_MAGNUS">gregorii</author>.</bibl> in <term type="volumen">volumine</term> uno. <gloss>[204 et 205 additamenta]</gloss>.</bibl></p></div>
+            
+            <div><head><bibl corresp="#Isid">DE LIBRIS <author corresp="#ISIDORUS">YSIDORI EPI</author></bibl>.</head> 
+                <p n="206"><bibl>* 
+                        <bibl corresp="#orig_Isid">Aethimologiarü <term type="liber">libri</term> XX</bibl> et 
+                        <bibl corresp="#rat_horlog">ratio horologii</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_grec_verb">glosa grecoru verbor.</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="207"><bibl corresp="#orig_Isid" ana="1">* Ite de <term type="liber">libris</term> <author corresp="#ISIDORUS">Ysidori</author> aetymologiaru <gloss><term type="volumen">vol.</term> II. corrupta</gloss>.</bibl></p>
+                <p n="208" sameAs="208"><bibl corresp="#orig_Isid" ana="2">* Ite de <term type="liber">libris</term> <author corresp="#ISIDORUS">Ysidori</author> aetymologiaru <gloss><term type="volumen">vol.</term> II. corrupta</gloss>.</bibl></p>
+                <p n="209"><bibl type="collectio">* Ite de <term type="liber">libris</term> [expositio Weidmann] <author corresp="#ISIDORUS">Ysidori</author> 
+                        <bibl type="exegesis" corresp="#in_hept_Isid">in eptaticu</bibl> et 
+                        <bibl type="exegesis" corresp="#in_reg_Isid">regu</bibl> <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="210"><bibl>* <bibl corresp="#orig_Isid">Eiusde de do <term type="liber">liber</term> I.</bibl> et 
+                        <bibl corresp="#eccl_off_Isid">de officiis <term type="liber">lib.</term> I</bibl> 
+                        <bibl corresp="#diff_Eucher">differentiaru <author corresp="#EUCHERIUS">eucherii</author></bibl> et 
+                        <bibl type="quaestiones" corresp="#quaest_Aug">de questiunculis <author corresp="#AUGUSTINUS">sci. august.</author></bibl> et 
+                        <bibl corresp="#patrum" ana="excerpta">de floratib diversis et alia multa de scoru patru opusculis excerpta</bibl> in <term type="volumen">vol.</term> I. <gloss>[in marg.: vetustissimo]</gloss>. [pag. 11]</bibl></p>
+                <p n="211"><bibl corresp="#diff_Isid">* Ite <term type="liber">liber</term> differentiaru ysidori et alia nonnulla. In <term type="volumen">vol.</term> I. <gloss>[super diff. ysid.: totum mendacium et inutile.]</gloss> </bibl></p>
+                <p n="212"><bibl corresp="#orig_Isid">* Ite de do <term type="liber">libri</term> III in <term type="volumen">vol.</term> I. <gloss>[in marg.: hoc auditu et n visu]</gloss>. </bibl></p>
+                <p n="213"><bibl corresp="#sent_Isid" ana="fragmentum">* Sententiar’ <term type="liber">libri</term> III in <term type="volumen">vol.</term> I. <gloss>[in marg.: et alt. defect' et disiect'.]</gloss> </bibl></p>
+                <p n="214"><bibl>
+                        <bibl corresp="#nat_Isid">* Rotarü lib.</bibl> et 
+                        <bibl type="glossae" corresp="#glossae">glosarum</bibl> in <term type="volumen">vol.</term> I. <gloss>[in marg.: et hoc inutile.]</gloss> </bibl></p>
+                <p n="215"><bibl>* Ite 
+                        <bibl corresp="#synon_Isid">synonima Ysid.</bibl> 
+                        <bibl corresp="#complanct_et_rat_hom">de coplanctu hominis et ratione ei</bibl> <gloss>[in marg.: hoc legi n potest.]</gloss> reddita <term type="libellus">libell.</term> I <term type="volumen">volu</term>. I. </bibl></p>
+                <p n="216"><bibl corresp="#Isid">* Item <author corresp="#ISIDORUS">isidori</author> <term type="volumen">volum.</term> I hinc inde collectu cuius prcipiu descriptionibus [de scriptoribus Weidmann] est ecclesiasticis <gloss>[in marg.: Vuolfkeri e]</gloss>, </bibl></p>
+                <p n="217"><bibl>* <bibl type="exegesis" corresp="#in_gen_Orig">TRACTAT’ <author corresp="#ORIGENIS">originis</author> in genesi.</bibl> 
+                        <bibl type="exegesis" corresp="#in_exod_Orig">exodu</bibl> et 
+                        <bibl type="exegesis" corresp="#in_lev_Orig">leviticu</bibl> in <term type="volumen">vl.</term> I. </bibl></p>
+                <p n="218"><bibl type="exegesis" corresp="#in_epist_Pauli_Pelag">* EXPOSITIO <author corresp="#PELAGIUS">pelagii</author> sup omes eplas pauli in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="219"><bibl type="exegesis" corresp="#in_Rom_Orig">* Item tractatus <author corresp="#ORIGENIS">orignis</author> sup eplam ad romanos. <gloss><term type="volumen">volum</term> optimu</gloss>. <gloss>[216-219 additamenta]</gloss>.</bibl></p></div>
+            
+            <div> <head><bibl corresp="#Cassiod">DE LIBRIS <author corresp="#CASSIODORUS">CASSIODORI</author></bibl>.</head> 
+                <p n="220"><bibl>* <author corresp="#CASSIODORUS">Cassiodori senatoris</author> <bibl corresp="#hist_Cassiod">ecclesiastice historie de trib; auctorib. sumpte. id est, sozomeni theodoriti atq. Socratis <term type="liber">libri</term> XII</bibl> in <term type="codex">codice</term> I. </bibl></p>
+                <p n="221"><bibl type="exegesis" corresp="#in_psalm_Cassiod" ana="1"> Ite eiusdem sup omnes psalmos. in <term type="volumen">voluminib.</term> trib.</bibl></p>
+                <p n="222" sameAs="221"><bibl type="exegesis" corresp="#in_psalm_Cassiod" ana="2"> Ite eiusdem sup omnes psalmos. in <term type="volumen">voluminib.</term> trib.</bibl></p>
+                <p n="223" sameAs="221"><bibl type="exegesis" corresp="#in_psalm_Cassiod" ana="3"> Ite eiusdem sup omnes psalmos. in <term type="volumen">voluminib.</term> trib.</bibl></p></div> 
+            
+            <div><head><bibl corresp="#Euseb">DE LIBRIS <author corresp="#EUSEBIUS_CAESARIENSIS">EVSEBII</author></bibl>.</head>
+                <p n="224"><bibl type="translatio" corresp="#hist_Rufin"> <author corresp="#EUSEBIUS_CAESARIENSIS">Eusebii</author> hystorie ecclesiastice <term type="liber">libri</term> VIIII et <author ana="traducteur" corresp="#RUFINUS">rufini</author> interpretis eiusdem <term type="liber">libri</term> II in <term type="volumen">volum.</term> I.</bibl></p>
+                <p n="225"><bibl corresp="#Lib_pontif"> Gesta pontifici romanorum, <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="226"><bibl corresp="#Heges" ana="fragmentum"> <author corresp="#HEGESIPPUS">Egesippi</author> <term type="liber">libri</term> V excerpta de istoria joseppi <term type="volumen">vol.</term> I. </bibl></p></div>
+            
+            <div><head>DE LIBRIS DIVERSORV AVCTORVM.</head> 
+                <p n="227"><bibl> <bibl corresp="#Andr_Greg_Tur"><author corresp="#GREGORIUS_TURONENSIS">Gregorii turonici</author> <term type="liber">liber</term> miraculorum I</bibl>. 
+                    <bibl corresp="#Iul_Greg_Tur">In gloria martyris iuliani, <term type="liber">lib.</term> I.</bibl> 
+                    <bibl corresp="#Mart_Greg_Tur">de virtutib sci martini epi. <term type="liber">libri</term> IIII.</bibl> 
+                    <bibl corresp="#vit_patr_Greg_Tur">de vita patrum <term type="liber">lib.</term> I. </bibl>
+                    <bibl corresp="#glor_conf_Greg_Tur">In gla confessorum <term type="liber">lib.</term> I.</bibl> hoc totum in <term type="volumen">volumine</term> uno. </bibl></p>
+                <p n="228"><bibl> 
+                        <bibl type="historia" corresp="#chron" ana="fragmentum">Chronice diversorum temporum <term type="liber">libri</term> V</bibl> et 
+                        <bibl type="gesta" corresp="#gesta_Francorum">gesta francorum</bibl>. 
+                        <bibl type="historia" corresp="#chron_Euseb_Hier">chronica <author corresp="#EUSEBIUS_CAESARIENSIS">eusebii</author> et 
+                        <author ana="traducteur" corresp="#HIERONYMUS">hieronimi</author> in <term type="volumen">vol.</term> I. <gloss>[in marg.: int. libros hieronimi descript. ee]</gloss></bibl></bibl></p>
+                <p n="229"><bibl type="exegesis" corresp="#in_psalm_Columb"> Expositio <author corresp="#COLUMBANUS">Sci colubani</author> sup oms psalmos <term type="volumen">vol.</term> I. <gloss>[in marg.: Ruodinum uidi R. habere qui dix. suu ee]</gloss></bibl></p>
+                <p n="230"><bibl type="sermo" corresp="#fid_Columb"> Ite eiusde instructio de fide et alia nnulla in <term type="volumen">vol.</term> I. <gloss>[in marg.: R. hoc n vidi.]</gloss></bibl> </p>
+                <p n="231"><bibl corresp="#div_caus_Ephr"> Libri <author corresp="#EPHRAEM_SYRUS">effrem diaconi</author> VI de diversis causis, <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="232"><bibl type="collectio">
+                        <bibl corresp="#instruct_Iunil"> <author corresp="#IUNILIUS">Iunilii</author> instructionu <term type="liber">lib.</term> II. ite de caritate di et dilectione pximi;</bibl> Ite 
+                        <bibl corresp="de_mens_annis">de msib; et annis</bibl> In <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="233"><bibl corresp="#Ferrandus"> <author corresp="#FERRANDUS">Ferrandi diaconi</author> qualis esse debeat dux religiosus in militarib; actib; <term type="volumen">volum.</term> I. </bibl></p>
+                <p n="234"><bibl type="collectio"> 
+                        <bibl type="quaestiones" corresp="#quaest_test_Eucher"><author corresp="#EUCHERIUS">Eucherii</author> question in vetus et novu testamentu</bibl> et 
+                        <bibl corresp="#diff_Isid"><author corresp="#ISIDORUS">isidori</author> lib. differentiarum</bibl> in <term type="volumen">vol.</term> I. <gloss>[in marg.: inutile.]</gloss> </bibl></p>
+                <p n="235"><bibl corresp="#prognost_Iulian" ana="1"> <author corresp="#IULIANUS">Iuliani epi</author> pgnosticor. futuri seculi. <term type="liber">libri</term> IIII. in <term type="volumen">vol.</term> II. </bibl></p>
+                <p n="236" sameAs="235"><bibl corresp="#prognost_Iulian" ana="2"> <author corresp="#IULIANUS">Iuliani epi</author> pgnosticor. futuri seculi. <term type="liber">libri</term> IIII. in <term type="volumen">vol.</term> II. </bibl></p>
+                <p n="237"><bibl type="sermo" corresp="#hom_patrum" ana="1"> Collectarii magni III homeliaru seu sermonu scoru patru p singulas festivitates in anno. </bibl></p>
+                <p n="238" sameAs="237"><bibl type="sermo" corresp="#hom_patrum" ana="2"> Collectarii magni III homeliaru seu sermonu scoru patru p singulas festivitates in anno.</bibl></p>
+                <p n="239" sameAs="237"><bibl type="sermo" corresp="#hom_patrum" ana="3"> Collectarii magni III homeliaru seu sermonu scoru patru p singulas festivitates in anno.</bibl></p>
+                <p n="240"><bibl corresp="#opusc_patrum"> Collectio eadbti de diversis opusculis scoru patru. <term type="volumen">volum.</term> I.</bibl></p>
+                <p n="241"><bibl type="collectio"> Ite 
+                        <bibl corresp="#Aug">collectio de verb. <author corresp="#AUGUSTINUS">augustini</author> <gloss>[in marg.: inutile]</gloss></bibl>. 
+                        <bibl corresp="#Hier"><author corresp="#HIERONYMUS">hieronimi</author></bibl>. 
+                        <bibl corresp="#Greg_M"><author corresp="#GREGORIUS_MAGNUS">Gregorii</author></bibl> seu 
+                        <bibl corresp="#opusc_patrum">ceterorum scorum patru</bibl>. <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="242"><bibl type="exegesis" corresp="#in_apoc_Tichonius"> Expositio <author corresp="#TICHONIUS_DONATISTAS">tichonii donatistae</author> in apocalipsim <gloss><term type="volumen">vol.</term> I vetus</gloss>. </bibl></p>
+                <p n="243"><bibl> <bibl type="exegesis" corresp="#in_apoc_Primas">Expos. <author corresp="#PRIMASIUS">primasii</author> in apocalipsim <term type="liber">libri</term> V.</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_apoc_Greg_M">glosule <author corresp="#GREGORIUS_MAGNUS">gregorii</author> in apocalipsi spitalis intelligentie</bibl> in <term type="volumen">volumine</term> I. [in marg.: corupt.]</bibl></p></div>
+            
+            <div> <head>DE LIBRIS ALCHUUNI.</head> 
+                <p n="244"><bibl type="exegesis" corresp="#in_evang_Ioh_Alcuinus"> <author corresp="#ALCUINUS">Alchuuini</author> in evangeli Johannis <term type="liber">libri</term> VII in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="245"><bibl type="collectio"> Ite 
+                        <bibl type="quaestiones" corresp="#quaest_gen_Alcuinus">eiusdem in genesim questiones</bibl> et 
+                        <bibl type="metrum" corresp="#sap_Alcuinus">metrum quorundam sapientium</bibl> in <term type="volumen">vol.</term> I. <gloss>[in marg.: R.]</gloss> </bibl></p>
+                <p n="246"><bibl corresp="#Alcuinus"> Ite de fide et spe et caritate <gloss>[in marg.: non vidi.]</gloss> </bibl></p>
+                <p n="247"><bibl> Ite 
+                        <bibl corresp="#psalm_paen_Alcuinus">septe psalmos penitentie</bibl> et 
+                        <bibl type="exegesis" corresp="#in_psalm_Alcuinus">in centesimu octovum decimu psalmi</bibl> et 
+                        <bibl type="exegesis" corresp="#in_psalm_Alcuinus">in psalmos XV graduum expos.</bibl> et 
+                        <bibl type="epistola" corresp="#epist_Alcuinus">eiusde epistolae de confessione peccatoru</bibl> in <term type="volumen">vol.</term> I.</bibl></p></div> 
+            
+            <div><head>DE REGVLIS SCORV PATRV. </head>
+                <p n="248"><bibl type="collectio" ana="1"><bibl type="regula" corresp="#reg_Benedicti"> Regule sci benedicti </bibl>cu 
+                    <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> in <term type="volumen">vol.</term> III. </bibl></p>
+                <p n="249" sameAs="248"><bibl type="collectio" ana="2"><bibl type="regula" corresp="#reg_Benedicti">Regule sci benedicti </bibl>
+                    cu <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> in <term type="volumen">vol.</term> III. </bibl></p>
+                <p n="250" sameAs="248"><bibl type="collectio" ana="3"><bibl type="regula" corresp="#reg_Benedicti">Regule sci benedicti </bibl>
+                        cu <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> in <term type="volumen">vol.</term> III. </bibl></p>
+                <p n="251"><bibl type="collectio" ana="1"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="252" sameAs="251"><bibl type="collectio" ana="2"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="253" sameAs="251"><bibl type="collectio" ana="3"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="254" sameAs="251"><bibl type="collectio" ana="4"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="255" sameAs="251"><bibl type="collectio" ana="5"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="256" sameAs="251"><bibl type="collectio" ana="6"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="257" sameAs="251"><bibl type="collectio" ana="7"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="258" sameAs="251"><bibl type="collectio" ana="8"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="259" sameAs="251"><bibl type="collectio" ana="9"> It <bibl type="regula" corresp="#reg">alie regule veteres</bibl> cu 
+                    <bibl corresp="#hymn">ymnariis</bibl> et 
+                        <bibl type="liturgia" corresp="#martyrologium">martyrologiis</bibl> <term type="volumen">volumina</term> VIIII. </bibl></p>
+                <p n="260"><bibl type="collectio">* 
+                        <bibl type="regula" corresp="#reg_patrum">Ite regulae scorum patrum. I. s. [sic Weidmann, 5 Haenel]</bibl> 
+                        <bibl type="regula" corresp="#reg_Basilii">basilii</bibl>. 
+                        <bibl type="regula" corresp="#reg_patrum">Regula coenobialis patrum</bibl>. 
+                        <bibl type="regula" corresp="#reg_Columbiani">Regula [Rugula et hic et antea Haenel] colubiani.</bibl> 
+                        <bibl type="regula" corresp="#reg_Augustini">Regula augustini</bibl> 
+                        <bibl type="regula" corresp="#reg_Pauli_Stephani">Regula pauli et Stephani</bibl>. 
+                        <bibl corresp="#op_manu_Aug">Ite <author corresp="#AUGUSTINUS">august.</author> de opere manuu</bibl>, 
+                        <bibl corresp="#prov_Evagr">proverbia <author corresp="#EVAGRIUS">sci evagrii</author></bibl>. 
+                        <bibl type="regula" corresp="#reg_Macharii">Regula macharii</bibl>. 
+                        <bibl type="regula" corresp="#reg_Pinufii">pinufii</bibl> et 
+                        <bibl type="regula" corresp="#reg_Serapionis">Serapionis</bibl> et 
+                        <bibl type="regula" corresp="#reg_Macharii_2">alterius macharii</bibl> in <term type="volumen">volu.</term> I. </bibl></p>
+                <p n="261"><bibl corresp="#reg"> It. idem novus in <term type="quatrio">quatrionib;</term> <gloss>[261 additamentum]</gloss> </bibl></p>
+                <p n="262"><bibl type="vita" corresp="#vita_canon"> Vita canonicorum <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="263"><bibl type="vita" corresp="#vita_canon" ana="1"> et veteres. II. </bibl></p>
+                <p n="264" sameAs="263"><bibl type="vita" corresp="#vita_canon" ana="2"> et veteres. II. </bibl></p>
+                <p n="265"><bibl type="liturgia" corresp="#antiphonarium" ana="1"> antiphonarii III.</bibl></p>
+                <p n="266" sameAs="265"><bibl type="liturgia" corresp="#antiphonarium" ana="2"> antiphonarii III.</bibl></p>
+                <p n="267" sameAs="265"><bibl type="liturgia" corresp="#antiphonarium" ana="3"> antiphonarii III.</bibl></p>
+                <p n="268"> 271[pag. 14] <bibl type="collationes" corresp="#coll_patrum" ana="1"> Coll. patrum <term type="volumen">volumina</term> IIII. [additam]. </bibl></p>
+                <p n="269" sameAs="268"> 271[pag. 14] <bibl type="collationes" corresp="#coll_patrum" ana="2"> Coll. patrum <term type="volumen">volumina</term> IIII. [additam]. </bibl></p>
+                <p n="270" sameAs="268"> 271[pag. 14] <bibl type="collationes" corresp="#coll_patrum" ana="3"> Coll. patrum <term type="volumen">volumina</term> IIII. [additam]. </bibl></p>
+                <p n="271" sameAs="268"> 271[pag. 14] <bibl type="collationes" corresp="#coll_patrum" ana="4"> Coll. patrum <term type="volumen">volumina</term> IIII. [additam]. </bibl></p>
+            </div> 
+            
+            <div><head>DE VITA SCORVM PATRVM.</head>
+                <p n="272"><bibl type="vita" corresp="#vita_patri_maior"> Vite patri maiores <term type="volumen">volum.</term> I.</bibl></p>
+                <p n="273"><bibl type="vita" corresp="#vita_patri_min" ana="1"> vite par minores <term type="volumen">volum.</term> II. <gloss>[in marg.: unum habet liutuuart.]</gloss> </bibl></p>
+                <p n="274" sameAs="273"><bibl type="vita" corresp="#vita_patri_min" ana="2"> vite par minores <term type="volumen">volum.</term> II. <gloss>[in marg.: unum habet liutuuart.]</gloss> </bibl></p>
+                <p n="275"><bibl> <bibl type="vita" corresp="#vita_patrum">Vita scorum patrum. id. pauli antonii et ilarionis atq. malchi</bibl> et 
+                        <bibl type="sermo" corresp="#hom_Caes_Arel">homelie <author corresp="#CAESARIUS_ARELATENSIS">cesarii</author> XII</bibl> et 
+                        <bibl corresp="#invent_basilica_s_Michaelis">de inventione basiliae [basilica Weidmann.] sci michaelis</bibl> et 
+                        <bibl corresp="#Martin">dicta <author corresp="#MARTINUS">Martini epi </author>ad polemiu epi.</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="276"><bibl type="vita" corresp="#vita_Pauli_Antonii"> Ite pauli et antonii valde <gloss>vetus vol. I.</gloss> <gloss>[in marg.: inutile]</gloss> </bibl></p>
+                <p n="277"><bibl type="sermo" corresp="#hom_Caes_Arel" ana="1"> Ite omelie <author corresp="#CAESARIUS_ARELATENSIS">cesarii epi.</author> <term type="volumen">vol.</term> II. <gloss>[parva una aliq. alt' nihil]</gloss> </bibl></p>
+                <p n="278" sameAs="277"><bibl type="sermo" corresp="#hom_Caes_Arel" ana="2"> Ite omelie <author corresp="#CAESARIUS_ARELATENSIS">cesarii epi.</author> <term type="volumen">vol.</term> II. <gloss>[parva una aliq. alt' nihil]</gloss> </bibl></p>
+                <p n="279"><bibl> Vita <bibl type="vita" corresp="#vita_Silvestri_Gregorii">sci silvestri et sci gregorii</bibl>, 
+                    <bibl type="vita" corresp="#vita_Hilarii">hilarii epi</bibl> et 
+                    <bibl type="epistola" corresp="#epist_ad_fil_Ps_Hier">eiusdem epla ad filia sua abram</bibl> et lucii confessoris atq. lonochilidis epi et goaris in <term type="volumen">vol.</term> I</bibl></p>
+                <p n="280"><bibl> Ite 
+                        <bibl type="vita" corresp="#vita_Silvestri">vita sci silvestri</bibl> et 
+                        <bibl type="vita" corresp="#passio_Viti">passio scoru viti</bibl>, 
+                        <bibl type="vita" corresp="#passio_Modesti">modesti</bibl>, 
+                        <bibl type="vita" corresp="#passio_Crescentie">crescentie</bibl> atq. 
+                        <bibl type="vita" corresp="#passio_Goaris">goaris confes</bibl> et
+                        <bibl type="vita" corresp="#passio_Marti">passio sci cpofori marti</bibl> et 
+                        <bibl corresp="#mirac_Genesii">comemoratio de miracol. sci genesii mar.</bibl> in <term type="volumen">vol.</term> I. <gloss>[mendacissima et inutilia]</gloss></bibl></p>
+                <p n="281"><bibl type="collectio" ana="1">
+                        <bibl type="vita" corresp="#vita_Columbani"> Vita scorum patrum colubani</bibl> et 
+                        <bibl type="vita" corresp="#vita_Galli">galli</bibl>, in <term type="volumen">voluminib.</term> II. [antiq. dictata.]</bibl></p>
+                <p n="282" sameAs="281"><bibl type="collectio" ana="2">
+                        <bibl type="vita" corresp="#vita_Columbani"> Vita scorum patrum colubani</bibl> et 
+                        <bibl type="vita" corresp="#vita_Galli">galli</bibl>, in <term type="volumen">voluminib.</term> II. [antiq. dictata.]</bibl></p>
+                <p n="283"><bibl type="collectio">
+                        <bibl type="vita" corresp="#vita_Galli"> Ite vita scoru galli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Martini">martini</bibl> atq; 
+                        <bibl type="vita" corresp="#vita_Otmari">otmari abbatis</bibl> in <term type="volumen">vol.</term> I</bibl></p>
+                <p n="284"><bibl type="vita" corresp="#vita_Columbe"> Vita sci columbe, in <term type="codex">codice</term> I.</bibl></p>
+                <p n="285"><bibl type="vita" corresp="#vita_Marcelli"> Vita sci marcelli valde vet'. in <term type="volumen">vol.</term> I. Nihil est. </bibl></p>
+                <p n="286"><bibl type="vita" corresp="#vita_Arredii"> Vita arredii abbatis valde vet' in <term type="codex">cod.</term> I. [legi n. pote.] [pag. ] </bibl></p>
+                <p n="287"><bibl type="collectio"> Vita scoru patru id 
+                        <bibl type="vita" corresp="#vita_Hieronymi">hieronimi</bibl>, 
+                        <bibl type="vita" corresp="#vita_Ambrosii">ambrosii</bibl> 
+                        <bibl type="vita" corresp="#vita_Bonifacii">bonifacii</bibl> 
+                        <bibl type="vita" corresp="#passio_Abdon_senes">passiones scorum abdon</bibl> et senes [Sennes Weidmann] 
+                        <bibl type="vita" corresp="#passio_Xisti">Xisti</bibl> 
+                        <bibl type="vita" corresp="#passio_Laurentii">laurentii</bibl> 
+                        <bibl type="vita" corresp="#passio_Hippoliti">ippoliti</bibl>. in <term type="codex">codice</term> </bibl></p>
+                <p n="288"><bibl type="collectio"> Ite 
+                        <bibl type="vita" corresp="#vita_Galli">vita sci galli</bibl> et 
+                        <bibl type="vita" corresp="#vita_Otmari">otmari</bibl> <gloss>nobiliter scripta</gloss>. </bibl></p>
+                <p n="289"><bibl type="vita" corresp="#vita_Silvestri"> Vita sci silvestri. <gloss>Recens et bene cscripta</gloss> </bibl></p>
+                <p n="290"><bibl type="vita" corresp="#vita_Martini"> Vita sci martini optime scripta. [ additamenta]. </bibl></p></div> 
+            
+                <div><p n="291"><bibl type="vita" corresp="#passio_apost_martyr" ana="1">DE VIRTVTIB. SEV PASSIONIB. SCOR. APOSTOLOR. VEL MARTIRU. <term type="volumen">Vol.</term> magna duo</bibl></p>
+                    <p n="292" sameAs="291"><bibl type="vita" corresp="#passio_apost_martyr" ana="2">DE VIRTVTIB. SEV PASSIONIB. SCOR. APOSTOLOR. VEL MARTIRU. <term type="volumen">Vol.</term> magna duo</bibl></p>
+                <p n="293"><bibl type="vita" corresp="#vita_apost"> Miracola seu passiones apostolorum in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="294"><bibl type="collectio"> 
+                        <bibl type="vita" corresp="#vita_apost">Ite passion. omniu apostoloru</bibl> nec non et quorunda martyru. id. 
+                        <bibl type="vita" corresp="#vita_Gervasii">Gervasii</bibl>. <bibl type="vita" corresp="#vita_Protasii">ptasii</bibl>, 
+                        <bibl type="vita" corresp="#vita_Victoris">Victoris</bibl>. <bibl type="vita" corresp="#vita_Xisti">Xisti</bibl>. 
+                        <bibl type="vita" corresp="#vita_Laurentii">laurentii</bibl>, <bibl type="vita" corresp="#vita_Hippoliti">ippoliti</bibl>. 
+                        <bibl type="vita" corresp="#vita_Alexandri">alexandri</bibl>. 
+                        <bibl type="vita" corresp="#vita_modesti">Viti modesti.</bibl> 
+                        <bibl corresp="#vita_Eusebii">eusebii</bibl>. 
+                        <bibl type="vita" corresp="#vita_pelagii">pelagii mar.</bibl> 
+                        <bibl type="vita" corresp="#vita_Benigni">benigni</bibl>. 
+                        <bibl type="vita" corresp="#vita_Probi">prbi</bibl>. 
+                        <bibl type="vita" corresp="#vita_Mauricii">mauricii et socior. ei'</bibl> et alia nnulla in <term type="volumen">vol.</term> I <gloss>[antiqssimo]</gloss>.</bibl></p>
+                <p n="295"><bibl> Ite <term type="liber">lib.</term> passion, id sci 
+                        <bibl type="vita" corresp="#passio_Sebastiani">sebastiani libri duo</bibl>, mamme, naari et celsii, saprici et nicefori, 
+                        vincentii cosme et damiani, 
+                        remodii epi. Genesii tharaci an dronici prbi. Agne virgin. Crisant et darie, 
+                        eugenie pi et acini et aliorum. Ceoclie [Ceciliae Weidmann] virg. eufemie virg. Crisogoni mar. tendote cum trib. filiis ppetue et felicitatis, pelagie. Christine vir. Dorothee, hec oma in <term type="codex">codice</term> I [antiquo] </bibl></p>
+                <p n="296"><bibl> Ite <term type="liber">lib.</term> passion crispini et crispiniani et quintini in <term type="volumen">vol.</term> I <gloss>modico et inutili</gloss>. </bibl></p>
+                <p n="297"><bibl> Ite <term type="libellus">libellus</term> passion dionisii Rustici eleutherii, et homelia de nat eorunde, in <term type="codex">cod.</term> I modico [et inutili] </bibl></p>
+                <p n="298"><bibl>* Ite passiones scari virg. et aliorum martyrum, Vincentie et margarite, domitille, scripta Nerei et achillei ad marcelli. Rescriptum marcelli de obitu petro nelle passione felicule passio nerci et achille. Eufrosine Theodore. Sulpicii ac Serviliani sponsarum ipsarum, de conversatione lustine virginis. Passio longini militis et leudegarii epi. Vita apri epi. Passio iusti martiris agathe virgi. Lucie virg. Ite lucere. haec omnia in vol. I [pittaciolu e] </bibl></p>
+                <p n="299"><bibl type="historia" corresp="#hist_Frecholfus"> Historia <author corresp="#FRECHOLFUS">frecholfi</author> in <gloss><term type="volumen">vol.</term> I grandi</gloss>. </bibl></p>
+                <p n="300"><bibl type="collectio"> 
+                        <bibl type="canones" corresp="#canon_concilia">Concilia principalia XII</bibl> et 
+                        <bibl corresp="#decret">decretales</bibl> et 
+                        <bibl type="epistola" corresp="#epist_Pontif_Rom">eple pontifice romanorum</bibl> <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="301"><bibl type="canones" corresp="#canon" ana="fragmentum"> Ite excerptu de canonib. <term type="volumen">vol.</term> I. [in marg.: ad scola] </bibl></p>
+                <p n="302"><bibl type="exegesis" corresp="in_missae_rom"> Ite expositio misse romane. </bibl></p>
+                <p n="303"><bibl type="liturgia" corresp="#ordo_bapt"> ite ordo baptizandi. </bibl></p>
+                <p n="304"><bibl corresp="#ad_viton_Alcuinus"> <author corresp="#ALCUINUS">Alchuuini</author> ad vitone com. capitula XXXV. </bibl></p>
+                <p n="305"><bibl type="collectio"> <bibl type="vita" corresp="#passio_Pantaleonis">Passio sci pantaleonis</bibl>. 
+                        <bibl type="sermo" corresp="#hom_Aug">Et homilie <author corresp="#AUGUSTUS">augus.</author></bibl> et 
+                        <bibl type="vita" corresp="#passio_Andre">passio sci andre apli</bibl> et 
+                        <bibl type="itinerarius" corresp="#transitu_Martini">de transitu sci martini epi. <gloss>[nihil e]</gloss></bibl>. 
+                        <bibl corresp="#bened_fontis">Et benedictio fontis</bibl>. hec omnia in <gloss><term type="volumen">vol.</term> uno parvo</gloss>. </bibl></p>
+                <p n="306"><bibl type="collectio"> 
+                        <bibl type="canones" corresp="#canon_Nicani"><term type="liber">liber</term> canoni ecclesiasticorum sive statutoru synodi nicene</bibl> et 
+                        <bibl corresp="#capit_Greg_M">capitula <author corresp="#GREGORIUS_MAGNUS">Gregorii pape</author> que transmisit ad augustinu epm in saxonia</bibl> et 
+                        <bibl type="sermo" corresp="#hom_Aug">homilie <author corresp="#AUGUSTINUS">sci augustini</author></bibl>. Et 
+                        <bibl corresp="#remed_peccat_Beda"><author corresp="#BEDA">bede prbi</author> de remediis peccatorum</bibl> hoc totu in <gloss><term type="volumen">vol.</term> I modico</gloss>.</bibl></p>
+                <p n="307"><bibl type="collectio"> Ite 
+                        <bibl type="liturgia" corresp="#hymn"><term type="liber">lib.</term> ymnoru</bibl> et 
+                        <bibl type="liturgia" corresp="#paenitentiale">penitential</bibl> in <gloss><term type="volumen">vol.</term> uno parvo</gloss>.</bibl></p></div> 
+            
+            <div><head>DE LEGIBVS.</head> 
+                <p n="308"><bibl> <bibl type="lex" corresp="#lex_Theodosiana">LEX theodosiana</bibl>. 
+                    <bibl type="lex" corresp="#lex_ermogeniana">LEX ermogeniana</bibl>. 
+                    <bibl type="lex" corresp="#lex_papiani">LEX Papiani</bibl>. 
+                    <bibl type="lex" corresp="#lex_franco">LEX franco</bibl>. 
+                        <bibl type="lex" corresp="#lex_Alamannica">LEX alamannorum</bibl> in volumine </bibl></p>
+                <p n="309"><bibl type="capitulares" corresp="#capit_Hludovici"> Capitula <author corresp="#LOUIS_LE_PIEUX">ludovici imperatoris</author> in <term type="codex">cod.</term> I. </bibl></p>
+                <p n="310"><bibl type="collectio"> 
+                        <bibl type="capitulares" corresp="#capit_Karoli">CAPITVLA <author corresp="#KAROLUS">CAROLI</author> Imperatoris</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_gen">glose in genes</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_exod">exodu</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_lev">leviticu</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_num">numeri</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_deut">in deuteronomi</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_Iosue">jesue</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_Iudic">iudici</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_Ruth">ruht</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_Reg">regu mediu libru</bibl>, in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="311"><bibl type="capitulares" corresp="#capit"> Item Capitula que legib. addenda sunt. <term type="volumen">volu</term>. I. </bibl></p>
+                <p n="312"><bibl corresp="#inst_imp_Rom"> Ite institutiones imperatoru romanorum <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="313"><bibl type="capitulares" corresp="#capit_Hludovici"> Capitula <author corresp="#LOUIS_LE_PIEUX">hluduvici Impera</author> de regula sci benedicti in <term type="quaternio">quaterni</term>. </bibl></p>
+                <p n="314"><bibl type="exegesis" corresp="#in_Ier_Raban"> <author corresp="#RABANUS_MAURUS">Rabani</author> in lamentationes hieremiae. </bibl></p></div>
+                
+                <div>
+                    <p n="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="316" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="317" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="318" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="319" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="320" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="321" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="322" sameAs="315"><bibl type="glossae" corresp="#glossae" ana="1"> LIBRI GLOSARIVM [glosarum Weidmann] <term type="volumen">volumina</term> VIII. </bibl></p>
+                    <p n="323"><bibl type="collectio"> Ite 
+                            <bibl type="exegesis" corresp="#in_lev_Walfredus"><author corresp="#WALFREDUS">uualfridi</author> glosa in leviticu</bibl> et 
+                            <bibl type="exegesis" corresp="#in_num_Walfredus">numeru</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                    <p n="324"><bibl> Ite <bibl type="exegesis" corresp="#in_epist_canon_Walfredus">eiusde glosa in septe eplas canonicas</bibl> et 
+                            <bibl corresp="#ad_Marcell_Hier"><author corresp="#HIERONYMUS">hieronimi</author> ad marcella de conexionib; litteraru</bibl>. 
+                            <bibl corresp="#nom_hebr_Hier">Item eiusdem ad marcella de hebraicis nominib.</bibl>
+                            <bibl type="exegesis" corresp="#in_psalt">Ite eglogae tractatorum in psalteriu</bibl> in I. <term type="volumen">Volum.</term></bibl></p>
+                    <p n="325"><bibl type="sermo" corresp="#hom_Max"> Omelie <author corresp="#MAXIMUS">Maximi epi</author> per totum annu de diversis festivitab; <term type="volumen">volum</term> vetus valde. </bibl></p>
+                    <p n="326"><bibl type="exegesis" corresp="#in_Matth_Hil"> Expositio <author corresp="#HILARIUS">ilarii</author> epi sup matheu evaglam <term type="volumen">volu.</term> I.</bibl></p>
+                    <p n="327"><bibl corresp="#trin_Mar_Victorin"> <author corresp="#MARIUS_VICTORINUS">Victorini</author> de sca trinitate <term type="volumen">vol.</term> I. </bibl></p>
+                    <p n="328"><bibl type="collectio"> 
+                            <bibl corresp="#Clem"><term type="liber">liber</term> <author corresp="#CLEMENS">sci clementis</author></bibl> et 
+                            <bibl type="epistola" corresp="#epist_Clem">eiusdem epistola ad Iacobu aplm</bibl>.</bibl></p>
+                    <p n="329"><bibl type="collectio"> 
+                            <bibl corresp="#abus_Cypr"><author corresp="#CYPRIANUS">Sci cipriani</author> de XII avusivis scli</bibl> et 
+                            <bibl corresp="#domin_orat_Cypr">de oratione dominica</bibl> 
+                            <bibl corresp="#patient_Cypr">de patientia</bibl>. et 
+                            <bibl corresp="#eleem_Cypr">de opere elemosinis</bibl>. 
+                            <bibl type="exegesis" corresp="#in_Ier_Greg_Naz">Dicta <author corresp="#GREGORIUS_NAZIANZENUS">Gregorii nazanzeni epi.</author> de hieremia ppheta</bibl> et alia nulla in <term type="volumen">vol.</term> I. </bibl></p>
+                    <p n="330"><bibl> 
+                            <bibl type="exegesis" corresp="#in_lection">Expositu sup lectiones comitis pleniter per totu anni circulu legendu</bibl>. Ite 
+                            <bibl type="exegesis" corresp="#in_lection">in lectiones homelie p singulas festivitates a nale dni usq; in ascensione dni</bibl>. <term type="volumen">vol.</term> I. </bibl></p>
+                    <p n="331"><bibl type="exegesis" corresp="#in_lection"> Ite ab ascensione di usq; in vigilia natlis dni. <term type="volumen">vol.</term> I. </bibl></p>
+                    <p n="332"><bibl type="sermo" corresp="#hom_Chrysost"> Sermones <author corresp="#IOHANNES_CHRYSOSTOMUS">Iohannis chrisostomi</author> de diversis reb. in I. <term type="volumen">vol.</term> </bibl></p>
+                    <p n="333"><bibl type="sermo" corresp="#hom_adv_pasch" ana="1"> Duo <term type="volumen">uolumina</term> nova sermoni et omeliarum ab adventu dni usq. in pascha.</bibl></p>
+                    <p n="334" sameAs="333"><bibl type="sermo" corresp="#hom_adv_pasch" ana="2"> Duo <term type="volumen">uolumina</term> nova sermoni et omeliarum ab adventu dni usq. in pascha. </bibl></p>
+                <p n="335"><bibl type="sermo" corresp="#hom_pasch_pent"> Tertium a pascha. in oct peutecost.</bibl></p>
+                <p n="336"><bibl type="sermo" corresp="#hom_pent_adv"> Quar. usq. de adventu dni <gloss>[335. 36 additamenta]</gloss>.</bibl></p>
+                <p n="337"><bibl type="liturgia" corresp="#ordo_roman"> ORDO Roman' in duob. <term type="quaternio">quaternionib</term>. </bibl></p>
+                <p n="338"><bibl type="liturgia" corresp="#ordo_roman"> Item aliud in <term type="quaternio">quationib</term>. <gloss>[338 additamentum]</gloss>. </bibl></p>
+                <p n="339"><bibl type="collectio"> 
+                        <bibl corresp="#astrol"><term type="liber">liber</term> astrologie</bibl>. Et 
+                        <bibl type="comput" corresp="#comput_Raban">copot' <author corresp="#RABANUS_MAURUS">rabani</author></bibl> et 
+                        <bibl type="comput" corresp="#comput">alius copot'</bibl> in <term type="volumen">volumine</term> I.</bibl></p>
+                <p n="340"><bibl type="collectio"> 
+                        <bibl corresp="#gramm_Caper">ORTHOgraphia <author corresp="#CAPER">capri</author></bibl> 
+                        <bibl corresp="gramm_Agroetius"><author corresp="#AGROECIUS">Acroetii</author></bibl> et 
+                        <bibl corresp="#orthogr_Beda"><author corresp="#BEDA">bede</author></bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="341"><bibl corresp="#lib_past"> <term type="liber">Libri</term> pastoris <term type="volumen">vol.</term> I. <gloss>[Relicua omnia iuniore manu addita sunt]</gloss>. </bibl></p>
+                <p n="342"><bibl type="glossae" corresp="#in_Ioh"> Glosa in ioh. evangelista.</bibl></p>
+                <p n="343"><bibl corresp="#remed_peccat"> De remediis peccatoru et alia collecticia in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="344"><bibl corresp="#orig_Isid"> Libri etimologiaru <author corresp="#ISIDORUS">isidori</author> in <gloss><term type="scheda">sceda</term> I tam boni</gloss>.</bibl></p>
+                    <p n="345"><bibl type="collectio"> 
+                            <bibl type="vita" corresp="#vita_Sylvestri">Vita sci silvestri.</bibl> et 
+                            <bibl type="sermo" corresp="#hom">sermones.</bibl> in <gloss><term type="volumen">vol.</term> valde vetusto</gloss>.</bibl></p>
+                    <p n="346"><bibl corresp="#cust_monach_canon"> De custodia monachorum et canonicorum in <gloss><term type="schedula">scedula</term> I vet.</gloss></bibl></p>
+                    <p n="347"><bibl corresp="#nativ_Mariae"> De nativitate sce marie in <term type="schedula">scedula</term>.</bibl></p>
+                    <p n="348"><bibl type="vita" corresp="#passio_Sergii_Bachi"> Passio martyru Sergii et bachi in <term type="schedula">scedula</term> I.</bibl></p>
+                    <p n="349"><bibl type="vita" corresp="#passio_Pelagii"> Passio pelagii in <gloss><term type="schedula">scedula</term> parva</gloss>.</bibl></p>
+                    <p n="350"><bibl type="vita" corresp="#passio_Desiderii"> Passio desiderii et alioru mart. in <term type="volumen">vol.</term> I.</bibl></p>
+                    <p n="351"><bibl type="vita" corresp="#vita_patrum"> Vite patru in <gloss><term type="volumen">vol.</term> vetustissimo</gloss>. </bibl></p>
+                    <p n="352"><bibl type="collectio" ana="1"> 
+                            <bibl type="epistola" corresp="#epist_Albinus">Duo <term type="libellulus">libelluli</term> epistolarum <author corresp="#ALBINUS">albini</author></bibl> et 
+                            <bibl corresp="#de_fid_virtutib">alius de [de erasum Weidmann, om. Haenel] fide et virtutib;</bibl></bibl></p>
+                    <p n="353" sameAs="352"><bibl type="collectio" ana="2"> 
+                            <bibl type="epistola" corresp="#epist_Albinus">Duo <term type="libellulus">libelluli</term> epistolarum <author corresp="#ALBINUS">albini</author></bibl> et 
+                            <bibl corresp="#de_fid_virtutib">alius de [de erasum Weidmann, om. Haenel] fide et virtutib;</bibl></bibl></p>
+                    <p n="354"><bibl type="liturgia" corresp="#psalterium" ana="1">Psalteria XVI plena et </bibl></p>
+                    <p n="355" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="2">Psalteria XVI plena et </bibl></p>
+                    <p n="356" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="3">Psalteria XVI plena et </bibl></p>
+                    <p n="357" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="4">Psalteria XVI plena et </bibl></p>
+                    <p n="358" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="5">Psalteria XVI plena et </bibl></p>
+                    <p n="359" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="6">Psalteria XVI plena et </bibl></p>
+                    <p n="360" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="7">Psalteria XVI plena et </bibl></p>
+                    <p n="361" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="8">Psalteria XVI plena et </bibl></p>
+                    <p n="362" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="9">Psalteria XVI plena et </bibl></p>
+                    <p n="363" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="10">Psalteria XVI plena et </bibl></p>
+                    <p n="364" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="11">Psalteria XVI plena et </bibl></p>
+                    <p n="365" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="12">Psalteria XVI plena et </bibl></p>
+                    <p n="366" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="13">Psalteria XVI plena et </bibl></p>
+                    <p n="367" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="14">Psalteria XVI plena et </bibl></p>
+                    <p n="368" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="15">Psalteria XVI plena et </bibl></p>
+                    <p n="369" sameAs="354"><bibl type="liturgia" corresp="#psalterium" ana="16">Psalteria XVI plena et </bibl></p>
+                    <p n="370"><bibl type="liturgia" corresp="#psalterium" ana="1"> V excerpta.</bibl></p>
+                    <p n="371" sameAs="370"><bibl type="liturgia" corresp="#psalterium" ana="2"> V excerpta.</bibl></p>
+                    <p n="372" sameAs="370"><bibl type="liturgia" corresp="#psalterium" ana="3"> V excerpta.</bibl></p>
+                    <p n="373" sameAs="370"><bibl type="liturgia" corresp="#psalterium" ana="4"> V excerpta.</bibl></p>
+                    <p n="374" sameAs="370"><bibl type="liturgia" corresp="#psalterium" ana="5"> V excerpta.</bibl></p>
+                <p n="375"><bibl corresp="#dam_Beda"> Ite bede de arte metrica. </bibl></p>
+                <p n="376"><bibl type="vita" corresp="#passio_Cyriaci"> Passio cyriaci et aliorum in <term type="libellulus">libellulo</term> I.</bibl></p>
+                <p n="377"><bibl type="exegesis" corresp="#in_Ioh"> Expos. in passione dni secd. ioh. in <term type="schedula">scedula</term> I.</bibl></p>
+                <p n="378"><bibl type="sermo" corresp="#hom_scott"> Sermones in <gloss><term type="volumen">volumine</term> scottico veteri</gloss>.</bibl></p></div>
+            
+            <div><head>DE METRIS.</head>
+                <p n="379"><bibl type="collectio" ana="1">  
+                        <bibl type="metrum" corresp="#Iuvenc"><author corresp="#IUVENCUS">Metru iuventi prbi</author></bibl> et 
+                        <bibl type="metrum" corresp="#Sedul"><author corresp="#SEDULIUS">sedulii epi</author></bibl> <term type="volumen">uolumina</term> IIII [in marg. : R. I.] I. </bibl></p>
+                <p n="380" sameAs="379"><bibl type="collectio" ana="2">  
+                        <bibl type="metrum" corresp="#Iuvenc"><author corresp="#IUVENCUS">Metru iuventi prbi</author></bibl> et 
+                        <bibl type="metrum" corresp="#Sedul"><author corresp="#SEDULIUS">sedulii epi</author></bibl> <term type="volumen">uolumina</term> IIII [in marg. : R. I.] I. </bibl></p>
+                <p n="381" sameAs="379"><bibl type="collectio" ana="3">  
+                        <bibl type="metrum" corresp="#Iuvenc"><author corresp="#IUVENCUS">Metru iuventi prbi</author></bibl> et 
+                        <bibl type="metrum" corresp="#Sedul"><author corresp="#SEDULIUS">sedulii epi</author></bibl> <term type="volumen">uolumina</term> IIII [in marg. : R. I.] I. </bibl></p>
+                <p n="382" sameAs="379"><bibl type="collectio" ana="4">  
+                        <bibl type="metrum" corresp="#Iuvenc"><author corresp="#IUVENCUS">Metru iuventi prbi</author></bibl> et 
+                        <bibl type="metrum" corresp="#Sedul"><author corresp="#SEDULIUS">sedulii epi</author></bibl> <term type="volumen">uolumina</term> IIII [in marg. : R. I.] I. </bibl></p>
+                <p n="383"><bibl type="metrum" corresp="#Prud"> Metru <author corresp="#PRUDENTIUS">aurelii prudentii</author> <term type="liber">libri</term> VII in vol. I. </bibl></p>
+                <p n="384"><bibl type="metrum" corresp="#in_act_Arator" ana="1"> Metru <author corresp="#ARATOR">aratoris</author> in act apostolor, <term type="volumen">uolumina</term> II. </bibl></p>
+                <p n="385" sameAs="384"><bibl type="metrum" corresp="#in_act_Arator" ana="2"> Metru <author corresp="#ARATOR">aratoris</author> in act apostolor, <term type="volumen">uolumina</term> II. </bibl></p>
+                <p n="386"><bibl corresp="#Alc_Avit"> Metru <author corresp="#ALCIMUS_AVITUS">alcimi aviti epi</author> <term type="liber">libri</term> VII in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="387"><bibl corresp="#epigr_Prosp" ana="1"> Epigramata <author corresp="#PROSPER">prosperi</author> <term type="volumen">vol.</term> III in <term type="quaternio">quaterniob;</term> <gloss>[in marg. R. I.]</gloss> </bibl></p>
+                <p n="388" sameAs="387"><bibl corresp="#epigr_Prosp" ana="2"> Epigramata <author corresp="#PROSPER">prosperi</author> <term type="volumen">vol.</term> III in <term type="quaternio">quaterniob;</term> <gloss>[in marg. R. I.]</gloss> </bibl></p>
+                <p n="389" sameAs="387"><bibl corresp="#epigr_Prosp" ana="3"> Epigramata <author corresp="#PROSPER">prosperi</author> <term type="volumen">vol.</term> III in <term type="quaternio">quaterniob;</term> <gloss>[in marg. R. I.]</gloss> </bibl></p>
+                <p n="390"><bibl type="vita" subtype="metrum" corresp="#vita_Galli"> Metru de vita sci Galli in quaternionib; <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="391"><bibl corresp="#de_metr_Aldhelmus"> <author corresp="#ALDHELMUS">Althelmi</author> de metris et enigmatib; ac pedu regulis <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="392"><bibl corresp="#laud_virg_Aldhelmus">* It <author corresp="#ALDHELMUS">alhelmi</author> de laude virginu <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="393"><bibl type="collectio"> Ite 
+                        <bibl corresp="#enigm_Aldhelmus"><author corresp="#ALDHELMUS">althelmi</author> de enigmatib;</bibl> et 
+                        <bibl corresp="#dam_Beda"><author corresp="#BEDA">bede</author> de metrica arte</bibl> et 
+                        <bibl type="metrum" corresp="#Symph">metrum <author corresp="#SYMPHOSIUS">simphosii</author></bibl> et alia inolla scorum opuscula in <gloss><term type="volumen">vol.</term> I parvo</gloss>.</bibl></p>
+                <p n="394"><bibl type="collectio">
+                        <bibl type="sermo" corresp="#hom_epiph"> Sermo de epiph.</bibl> et 
+                        <bibl type="sermo" corresp="#hom_Cypr">alius <author corresp="#CYPRIANUS">cyprini</author></bibl> et alia que in <gloss><term type="libellulus">libellulo</term> valde vetusto</gloss> </bibl></p>
+                <p n="395"><bibl type="collectio"> <bibl type="epistola" corresp="#epist_Aug">epa sci aug.</bibl> et 
+                       <bibl type="sermo" corresp="#hom_Aug">eiusdem sermo de die iudicii.</bibl> In <term type="volumen">vol.</term> I parvo.</bibl></p>
+                <p n="396"><bibl type="historia" corresp="#hist_Flav_Ios"> In <term type="volumen">volumine</term> I <author corresp="#FLAVIUS_IOSEPHUS">Ioseppi</author> historiarum antiquitatis iudice <term type="liber">libri</term> XII. </bibl></p>
+                <p n="397"><bibl type="historia" corresp="#bello_Iudic_Flav_Ios"> In alio <term type="volumen">volumine</term> eiusde historiographi de bello iudico <term type="liber">libri</term> VII. </bibl></p>
+                <p n="398"><bibl type="historia" corresp="#bello_Iudic_Flav_Ios"> Item in tertio <term type="liber">lib.</term> IIII </bibl></p>
+                <p n="399"><bibl type="glossae" corresp="#gloss_in_evang"> Glosa in evangelium et alia diversa in <term type="volumen">volumine</term> </bibl></p>
+                <p n="400"><bibl type="collectio"> 
+                        <bibl type="exegesis" corresp="#in_psalm" ana="fragmentum">Excerpta in psalmo.</bibl> 
+                       <bibl type="glossae" corresp="#gloss_in_Paul"> Glosa in eplas pauli</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_Iob">iob</bibl> et 
+                        <bibl type="glossae" corresp="#gloss_in_reg">regu</bibl> in <term type="codex">codice</term> </bibl></p>
+                <p n="401"><bibl type="collectio"> 
+                        <bibl corresp="#orig_Isid"><term type="liber">liber</term> phemioru <author corresp="#ISIDORUS">isidori</author></bibl> et 
+                        <bibl corresp="#ort_et_obit_Isid">ei'dem de vita l obitu scru patrum</bibl> 
+                        <bibl corresp="#test">utriusq. testamti.</bibl> 
+                        <bibl corresp="#rat_dierum_mens">de ratione dierum ac msiu</bibl> 
+                        <bibl corresp="#de_nat_rer">de natura rerum.</bibl> 
+                        <bibl corresp="#eccl_off_Isid">de officiis ecclesiasticis</bibl>. 
+                        <bibl corresp="#de_dieb_fest_ieiun">De dieb, festis et ieiuniis ordinibus ecclesiasticis</bibl> in <term type="volumen">vol.</term> I.</bibl></p></div> 
+            
+            <div><head>DE LIBRIS GRAMATICE ARTIS</head> 
+                <p n="402"><bibl type="collectio">
+                        <bibl corresp="#gramm_Prisc"> <bibl corresp="gram_Prisc">LIBRI <author corresp="#PRISCIANUS">PRISCIANI</author> DE OCTO PARTIB. XVI</bibl></bibl>
+                    ite <bibl corresp="#gramm_Prisc">eiusde de constructione partiu orationu libri II</bibl>, 
+                    ite <bibl corresp="#fig_num_gramm_Prisc">ad simachu de figuris numeroru <term type="liber">liber</term> I </bibl><gloss>hec omnia in vol. I</gloss>.</bibl></p>
+                <p n="403"><bibl type="collectio"> Item <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author> minores atq. maiores </bibl> et
+                        <bibl corresp="#de_final_litt">onorati de finalib; literis.</bibl> Et 
+                        <bibl corresp="#declin">declinationes</bibl>, et 
+                        <bibl corresp="#explan_in_Don_Serg">commarium <author corresp="#SERGIUS">sergii</author> in partes donati</bibl>, 
+                        et <bibl corresp="#Isid"><author corresp="#ISIDORUS">isidori</author> <term type="liber">liber</term></bibl>. Et 
+                        <bibl type="grammatica" corresp="#gramm_Cap"><term type="liber">liber</term> <author corresp="#CAPER">capri</author> de orthographia</bibl>. Et 
+                        <bibl corresp="#dam_Beda"><author corresp="#BEDA">Bede</author> de metrica arte</bibl>. hec oma in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="404"><bibl type="collectio"> Ite <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author> minores atque maiores</bibl> 
+                        et <bibl corresp="#dam_Beda"><author corresp="#BEDA">bede</author> de metrica arte</bibl> et 
+                        <bibl corresp="#de_octo_part_Alcuinus"><author corresp="#ALCUINUS">alchuuini</author> de octo partib.</bibl> 
+                        Item <bibl corresp="#de_octo_part_Isid"><author corresp="#ISIDORUS">isidori</author> de octo partib;</bibl> et alia nonnulla in <term type="volumen">vol</term> I.</bibl></p>
+                <p n="405"><bibl type="collectio"> Ite 
+                        <bibl type="metrum" corresp="#Iuvenc">metru <author corresp="#IUVENCUS">iuvenci</author></bibl> et 
+                        <bibl type="metrum" corresp="#Sedul"><author corresp="#SEDULIUS">sedulii</author></bibl>. 
+                        <bibl type="metrum" corresp="#Cato">Metru <author corresp="#CATO">Catonis</author> <term type="liber">libri</term> IIII</bibl>. 
+                        <bibl corresp="#Asporius">Partes <author corresp="#ASPORIUS">asporii</author>.</bibl> 
+                        <bibl corresp="#gramm_Don">Ite partes <author corresp="#DONATUS">donati</author> grammatici</bibl>. Ite 
+                        <bibl corresp="#gramm_Honoratus">ars <author corresp="#HONORATUS">honorati grammatici</author></bibl>, 
+                        <bibl type="metrum" corresp="#Diom"><author corresp="#DIOMEDES">Diomedis</author> de metro</bibl> 
+                        Ite <bibl corresp="#dam_Beda"><author corresp="#BEDA">bede prbi</author> de metrica arte</bibl> Ite 
+                        <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author> minores maioresq.</bibl> Ite 
+                        <bibl corresp="#in_Don_Pompegius">tractat <author corresp="#POMPEGIUS">pompegii</author> in donatu</bibl> et alia multa. hec omnia in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="406"><bibl type="collectio"> Ite 
+                        <bibl corresp="#Prisc_minor"><author corresp="#PRISCIANUS">priscian minor</author></bibl> 
+                        <bibl corresp="#gramm_maior_Don">Et <author corresp="#DONATUS">donati</author> pars maior</bibl> et 
+                        <bibl corresp="#declin_coniug">V declina Coniugation</bibl>. Et 
+                        <bibl corresp="#dam_Beda"><author corresp="#BEDA">bede</author> de metrica arte</bibl>. 
+                        <bibl corresp="#Isid"><author corresp="#ISIDORUS">Isidori</author> ars</bibl> et cetera <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="407"><bibl corresp="#de_octo_part_Alcuinus" ana="1"> <author corresp="#ALCUINUS">Alchuuini</author> de octo partib; orationu <term type="volumen">vol.</term> II.</bibl></p>
+                <p n="408" sameAs="407"><bibl corresp="#de_octo_part_Alcuinus" ana="2"> <author corresp="#ALCUINUS">Alchuuini</author> de octo partib; orationu <term type="volumen">vol.</term> II. </bibl></p>
+                <p n="409"><bibl type="collectio"> Ite <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author> minores maioresq.</bibl> et
+                        <bibl corresp="#declin">declination. nominu</bibl> in <term type="volumen">vol.</term> I.</bibl></p>
+                <p n="410"><bibl type="collectio"> Ite 
+                        <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author> minores maioresque</bibl> et 
+                        <bibl corresp="#in_Don_Alcuinus"><author corresp="#ALCUINUS">alchuuini</author> in octo partes Donati</bibl> in <term type="volumen">vol.</term> I. </bibl></p>
+                <p n="411"><bibl corresp="#comm_abbat"> Commemoratio abbatu qui in augia fuer I <term type="rotulus">rodulo</term>.</bibl></p>
+                <p n="412"><bibl type="collectio"> <bibl corresp="#gramm_Don">Partes donati maiores et minores</bibl> 
+                        <bibl corresp="#gramm_Albinus">grammatica <author corresp="#ALBINUS">albini</author></bibl>. 
+                        <bibl corresp="#dam_Beda"><author corresp="#BEDA">Bede</author> de arte metrica</bibl> et 
+                        <bibl corresp="#trop_schemat">tropis atq. scematib;</bibl> in <term type="codex">codice</term> uno.</bibl></p>
+                <p n="413"><bibl> <bibl type="grammatica" corresp="#gramm_Adalodus">Grammatica <author corresp="#ADALODUS">adalodi</author></bibl> [adaloldi Weidmann.] in qua 
+                        <bibl corresp="#gramm_Don">partes <author corresp="#DONATUS">donati</author></bibl> et 
+                        <bibl corresp="#in_Don_Erchanpertus">expositio <author corresp="#ERCHANPERTUS">erchanberti</author> sup ipsas</bibl>.</bibl></p>
+                <p n="314"><bibl type="liturgia" corresp="#hymn"> Ymnorum <term type="volumen">volum</term> I.</bibl></p>
+                <p n="415"><bibl type="liturgia" corresp="#hymn"> Ite in <term type="quaternio">quaternionib.</term> alius ymnar. </bibl></p>
+                <p n="416"><bibl corresp="#divers_mor"> Ite diversorum morum <gloss><term type="volumen">vol.</term> vetus I.</gloss> </bibl></p>
+                <p n="417"><bibl type="grammatica" corresp="#gramm"> Ite grammatica <gloss>sine auctore</gloss> </bibl></p>
+                <p n="418"><bibl type="collectio"> 
+                        <bibl type="metrum" corresp="#metrum">Versus undecumq. collecti</bibl> et 
+                        <bibl type="glossae" corresp="#glossae">glose in oms libros divine auctoritatis</bibl> in <term type="schedula">scedula</term> una </bibl></p>
+                <p n="419"><bibl corresp="#polihistor_Solinus"> <author corresp="#SOLINUS">Solini</author> polihistor.</bibl></p>
+                <p n="420"><bibl type="mappa" corresp="#mappa"> Mappa mundi </bibl></p>
+                <p n="421"><bibl corresp="#de_vitiis"> Descriptio octo principali vitiorum. </bibl></p>
+                <p n="422"><bibl corresp="#Alex_Maced"> <term type="volumen">volumen</term> I alexandri macedonis. </bibl></p>
+                <p n="423"><bibl type="medicina" corresp="#medic"> <term type="liber">lib.</term> medicinal artis. <gloss><term type="volumen">uolumina</term> II et I parvus</gloss> <gloss>[in marg. v. I]</gloss> </bibl></p>
+                <p n="426"><bibl type="medicina" corresp="#medic"> Ite <term type="liber">libri</term> III medicinalis artis in <term type="quaternio">quaternionibus</term>. </bibl></p>
+                <p n="427"><bibl type="exegesis" corresp="#in_Verg_Servius"> Expositio <author corresp="#SERVIUS">Servii</author> in virgiliu. <term type="volumen">Volum</term>. I <gloss>[in marg.: perditu est. R.]</gloss> </bibl></p>
+                <p n="428"><bibl type="historia" corresp="#hist_Pomp_Trog"> Excerptu iustini de pompeio hystoriographo. in <term type="volumen">vol.</term> I <term type="liber">lib.</term> XLIIII. </bibl></p></div>
+            <note><bibl type="source">G. Haenel in Serapei II p.8-22 e cod. 728 bibliothecae Sangallensis</bibl>, item 
+                <bibl type="source">Weidmann, Gesch. der Bibliothek von St. Gallen. 1841. p.364-96</bibl>. 
+                <bibl type="source">Extat apographum in cod. 267 eiusdem bibliothecae initio saec. X conscriptum, vide paragraphum 23</bibl>.</note>    
+            
+            
+        </body>
+    </text>
+</TEI>

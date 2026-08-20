@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Saint-Wandrille">Coenobium Fontanellense</settlement>
+                    </msIdentifier>
+                    <msContents><p>Gesta Gervoldi abbatis coenobii Fontanellensis.  </p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0787" notAfter="0806"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body> 
+            <p>*** Hic dedit in ecclesia beati Petri **** De libris vero </p> 
+            <div>
+            <p n="1"><bibl type="biblia" corresp="#pentatheucum">pentatheucum Moysi <term type="codex">codicem</term> unum </bibl></p>
+            <p n="2"><bibl type="biblia" corresp="#prophet_min">minorum prophetarum <term type="codex">codicem</term> unum</bibl></p> 
+            <p n="3"><bibl type="exegesis" corresp="#in_Ioh_Aug">expositio <author corresp="#AUGUSTINUS">beati Augustini</author> 
+                in evangelium Ioannis <term type="codex">codices</term> duos</bibl></p>
+            <p n="4"><bibl type="exegesis" corresp="#in_Ioh_Aug">expositio <author corresp="#AUGUSTINUS">beati Augustini</author> 
+                in evangelium Ioannis <term type="codex">codices</term> duos</bibl></p>
+            <p n="5"><bibl corresp="#enchir_Aug">librum enchiridion <author corresp="#AUGUSTINUS">sancti Augustini</author> 
+                    <term type="codex">codicem</term> unum</bibl></p>
+            <p n="6"><bibl type="sermo" corresp="#homiliarius">homiliare diversorum auctorum <term type="volumen">volumen</term> unum.</bibl></p> 
+            <p>**** Sub huius tempore bonae recordationis presbyter egregius
+            nomine Harduinus florebat, qui *** plurimos arithmeticae artis disciplina alumnos imbuit
+            ac arte scriptoria erudivit, erat enim in hac arte non mediocriter doctus. Unde plurima
+            ecclesiae nostrae proprio sudore conscripta reliquit volumina, id est</p>
+            <p n="7"><bibl type="biblia" corresp="#evang"><term type="volumen">volumen</term> quatuor evangeliorum <gloss>Romana litera scriptum</gloss>,</bibl></p>
+            <p n="8"><bibl type="epistola" corresp="#epist_Pauli">epistolarum beati Pauli apostoli <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="9"><bibl type="liturgia" corresp="#sacramentarium" ana="1">sacramentaria <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="10" sameAs="9"><bibl type="liturgia" corresp="#sacramentarium" ana="2">sacramentaria <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="11" sameAs="9"><bibl type="liturgia" corresp="#sacramentarium" ana="3">sacramentaria <term type="volumen">volumina</term> tria</bibl></p>
+            <p n="12"><bibl type="liturgia" corresp="#lectionarium">lectionarium <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="13">item <bibl type="liturgia" corresp="#evang">lectionum evangelii <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="14"><bibl type="sermo" corresp="#hom_Greg_M" ana="80">homiliarum quadraginta <author corresp="#GREGORIUS_MAGNUS">Gregorii papae</author> 
+                    <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="15"><bibl type="collectio">
+                    <bibl type="matematica" corresp="#arithm">librum de arithmetica</bibl> cum 
+                    <bibl type="epistola" corresp="#rat_pasch">epistolis de ratione paschali</bibl> <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="16"><bibl corresp="#civ_Aug" ana="fragmentum">librum <author corresp="#AUGUSTINUS">beati Augustini</author> de civitate Dei ab undecimo 
+                usque ad decimum octavum <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="17"><bibl>
+                    <bibl corresp="#nat_rerum_Beda"><term type="liber">librum</term> <author corresp="#BEDA">venerabilis Bedae</author> de naturis rerum</bibl> ac 
+                    <bibl corresp="#temp_Beda">temporibus</bibl> <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="18"><bibl type="collectio">
+                    <bibl type="liturgia" corresp="#psalterium">psalterium</bibl> cum 
+                    <bibl type="liturgia" corresp="#hymn_Ambros">canticis ac hymnis Ambrosianis</bibl> et 
+                    <bibl type="liturgia" corresp="#termin_pasch">terminis paschalibus</bibl> <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="19"><bibl type="collectio">
+                <bibl type="vita" corresp="#vita_Wandregisili">librum vitarum sanctorum Wandregisili</bibl>, 
+                <bibl type="vita" corresp="#vita_Ansberti">Ansberti</bibl> et 
+                <bibl type="vita" corresp="#vita_Wulfranni">Wulfranni</bibl> confessorum Christi <term type="volumen">volumen</term> unum</bibl></p>
+            <p n="20"><bibl type="quaestiones" corresp="#quaest_Ansbert">quaestionum <author corresp="#ANSBERTUS">sancti Ansberti</author> ad Siwinum reclausum <term type="volumen">volumen</term> unum</bibl></p>
+                <p n="21"><bibl type="liturgia" corresp="#antiphonarium">antiphonarium Romanae ecclesiae <term type="volumen">volumen</term> unum.</bibl></p></div>
+           <note><bibl type="source"> Gesta abbatum Fontanell.</bibl> in 
+               <bibl type="source">Monum. hist. Germ. script. tom. II p. 292. 11-14. 27-39.</bibl></note>
+        </body>
+    </text>
+</TEI>    

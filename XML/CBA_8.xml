@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi Bibliothecarum Antiqui</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Agnès Chigot</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement nymRef="Reichenau">Monasterium Augiense</settlement>
+                    </msIdentifier>
+                    <msContents><p>Isti libri qui subsequuntur scripti sunt in coenobio Sindleotes-Awa 
+                        postquam ERLEBALDO abbati fuit hoc monasterium commendatum. </p></msContents>
+                    <history>
+                        <origin>
+                            <date notBefore="0823" notAfter="0838"/>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="latin">
+        <body> 
+            <p>Isti libri qui subsequuntur scripti sunt in coenobio Sindleotes-Awa 
+                postquam ERLEBALDO abbati fuit hoc monasterium commendatum.</p>
+            <div><p n="1"> <bibl type="biblia" corresp="#biblia" ana="lacune">bibliotheca dimidia sub tali scriptura. . . . . . . . .</bibl></p> 
+            <p n="2"> <bibl type="liturgia" corresp="#passionalis">passionalis incipiens a nativitate Dni usque ad missam S. Petri <term type="liber">lib.</term> I.</bibl></p>
+            <p n="3"> <bibl type="liturgia" corresp="#passionalis">passionalis incipiens de mense Aprili usque ad adventum Dni</bibl>.</p>
+            <p n="4"><bibl type="collectio"><author corresp="#AUGUSTINUS">S. Augustini</author> <term type="liber">liber</term> unus, in quo continentur 
+                <bibl corresp="#nat_bon_Aug">de natura boni</bibl> et 
+                <bibl corresp="#pec_orig_Aug">unde malum</bibl> et 
+                <bibl corresp="#lib_arb_Aug">de lib. arbitrio</bibl> et caetera quae sequuntur</bibl></p>
+            <p n="5"> <bibl><author corresp="#AUGUSTINUS">S. Augustini</author> 
+                    <bibl type="exegesis" corresp="#gen_Aug">locutionum <term type="liber">lib.</term> VI in genesin</bibl> et 
+                    <bibl type="quaestiones" corresp="#quaest_Aug">eiusdem quaestionum <term type="liber">lib.</term></bibl></bibl></p> 
+                <p n="6"> <bibl corresp="#c_coll_Prosp"><author corresp="#AUGUSTINUS" ana="Prosper">S. Augustini</author> <term type="liber">liber</term> unus qui appellatur 
+                    de gratia et lib. arbitrio et caetera <term type="liber">lib.</term> I.</bibl></p>
+            <p n="7"> <bibl corresp="#c_Faust_Aug"><author corresp="#AUGUSTINUS">S. Augustini</author> contra Faustum Manichaeum <term type="liber">lib.</term> in <term type="volumen">vol.</term> uno.</bibl></p>
+            <p n="8"> <bibl corresp="#in_Rom_Aug"><author corresp="#AUGUSTINUS">S. Augustini</author> in epistolas Pauli ad Romanos in <term type="volumen">vol.</term> uno.</bibl></p>
+                <p n="9"> <bibl type="sermo" corresp="#hom_IX_Aug">sermo <author corresp="#AUGUSTINUS">S. Augustini</author> 
+                de decem chordis <term type="liber">liber</term> unus.</bibl></p>
+            <p n="10"><bibl corresp="#immort_Aug"><author corresp="#AUGUSTINUS">S. Augustini</author> de immortalitate animae.</bibl></p> 
+            <p n="11"> <bibl type="exegesis" corresp="#in_psalm_Aug" ana="fragmentum"><author corresp="#AUGUSTINUS">S. Augustini</author> 
+                a primo psalmo usque ad quinquagesimum <term type="liber">lib.</term> I.</bibl></p> 
+            <p n="12"><bibl type="exegesis" corresp="#in_psalm_Aug" ana="fragmentum"><author corresp="#AUGUSTINUS">S. Augustini</author> 
+                de quinquagesimo usque ad centesimum <term type="liber">lib.</term> unus,</bibl></p>
+            <p n="13"><bibl type="exegesis" corresp="#in_psalm_Aug" ana="fragmentum"><author corresp="#AUGUSTINUS">S. Augustini</author> 
+                de centesimo usque in finem <term type="liber">lib.</term> I.</bibl></p>
+            <p n="14"> <bibl>
+                    <bibl type="quaestiones" corresp="#quaest_in_evang_Aug"><author corresp="#AUGUSTINUS">S. Augustini</author> de quæstionibus difficilioribus in evang.</bibl> et  
+                    <bibl type="epistola" corresp="#epist_apost">ept. apostoli <term type="liber">lib.</term> I.</bibl> 
+                    <bibl corresp="#c_arrian_Vigil_Thaps"><author corresp="#ATHANASIUS">Athanasii</author> altercatio cum hæreticis</bibl> et 
+                    <bibl type="vita" corresp="#vita_Martini"> vita S. Martini</bibl> in <term type="liber">libro</term> uno.</bibl></p> 
+            <p n="15"> <bibl>
+                    <bibl type="exegesis" corresp="#in_eptat_Hier">super eptaticum de <author corresp="#HIERONYMUS">Hieronymi</author></bibl>, 
+                    <bibl type="exegesis" corresp="#in_eptat_Ambr"><author corresp="#AMBROSIUS">Ambrosii</author></bibl>, 
+                    <bibl type="exegesis" corresp="#in_eptat_Aug"><author corresp="#AUGUSTINUS">Augustini</author></bibl>, 
+                    <bibl type="exegesis" corresp="#in_eptat_Isid"><author corresp="#ISIDORUS">Isidori</author></bibl> 
+                    <bibl corresp="#Beda">dictis <author corresp="#BEDA">Beda</author> conficiente composuit [sic]</bibl> <term type="volumen">vol.</term> I.</bibl></p>
+            <p n="16"><bibl type="exegesis" corresp="#in_lection_Zmaragdus">expositio <author corresp="#ZMARAGDUS">Zmaragdi</author> super lection. <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="17"><bibl type="sermo" corresp="#in_Matth_Chrysost">homel. <author corresp="#IOHANNES_CHRYSOSTOMUS">S. Ioa. Chrysostomi</author> super Math. evangel. <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="18"><bibl><bibl type="sermo" corresp="#in_gen_Orig"><author corresp="#ORIGENIS">Origenis</author></bibl> et  
+                <bibl type="sermo" corresp="#in_gen_Hier"><author corresp="#HIERONYMUS">Hieronymi</author> super genesin sermones</bibl> <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="19"> <bibl type="exegesis" corresp="#in_Rom_Orig"><author corresp="#ORIGENIS">Origenis</author></bibl> et 
+                <bibl type="exegesis" corresp="#in_Rom_Ruffin"><author corresp="#RUFINUS">Rufini</author> super epistolas Pauli ad Romanos in <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="20"> <bibl type="itinerarius" corresp="#intin_Petri"><author corresp="#CLEMENS">S. Clementis</author> <term type="liber">libri</term> qui appellantur itinerarium S. Petri <term type="volumen">vol.</term> I.</bibl></p>
+            <p n="21"> <bibl type="exegesis" corresp="#in_Is_Hier"><author corresp="#HIERONYMUS">S. Hieronymi</author> 
+                in Esaiam novissima pars <term type="volumen">vol.</term> I.</bibl></p>
+            <p n="22"> <bibl type="epistola" corresp="#epist_Hier"><author corresp="#HIERONYMUS">S. Hieronymi</author> epistola diverse in <term type="volumen">vol.</term> uno. 
+                <gloss>In quo imprimis de Seraphin incipit</gloss>.</bibl></p>
+            <p n="23"> <bibl type="epistola" corresp="#epist_Hier"><author corresp="#HIERONYMUS">S. Hieronymi</author> epl. qui fuit Theootpaldi <term type="liber">lib.</term> I.</bibl></p> 
+            <p n="24"><bibl type="exegesis" corresp="#in_Ezech_Hier">
+                <author corresp="#HIERONYMUS">S. Hieronymi</author> in Ezechielem posterior pars <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="25"><bibl type="etymologia" corresp="#orig_Isid"><author corresp="#ISIDORUS">S. Isidori</author> 
+                <term type="liber">libri</term> XX etymologiarum in <term>vol.</term> I.</bibl></p>
+            <p n="26"> item <bibl type="collectio">
+                <bibl type="exegesis" corresp="#in_heptat_Isid"><author corresp="#ISIDORUS">S. Isidori</author> super eptaticum exegesis, 
+                    <gloss>quem Drutheri scribi fecit</gloss></bibl>, et 
+                <bibl corresp="#in_apoc_Primas"><author corresp="#PRIMASIUS">Primasium</author> super apocalypsin, <gloss>quem similiter scribi fecit</gloss></bibl>.</bibl></p> 
+            <p n="27"> <bibl type="grammatica" corresp="#gramm_Prisc"><author corresp="#PRISCIANUS">Prisciani</author> 
+                de arte grammatica <term type="liber">lib.</term> I <gloss>quem Uragrat presbyter dedit</gloss>.</bibl></p>
+            <p n="28"><bibl><bibl type="exegesis" corresp="#in_Tit_Alcuinus"><author corresp="#ALCUINUS">Alchuini</author> super epistolas Pauli ad Titum</bibl> et 
+                    <bibl type="exegesis" corresp="#in_Phil_Alcuinus">Philemonem</bibl> et 
+                    <bibl type="exegesis" corresp="#in_Hebr_Alcuinus">ad Hebr.</bibl> <term type="liber">lib.</term> I.</bibl></p>
+            <p n="29"><bibl><bibl type="quaestiones" corresp="#quaest_in_gen_Alcuinus"><author corresp="#ALCUINUS">Alchuini magistri</author> quæstiones super genesin</bibl> et 
+                    <bibl type="metrum" corresp="#Alc_Avit">metrum <author corresp="#ALCIMUS_AVITUS">Alcimi Aviti episcopi</author></bibl> <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="30">item <bibl corresp="#quaest_in_gen_Alcuinus"><author corresp="#ALCUINUS">Alchuini magistri</author> quæstiones in genesin <term type="libellus">libell.</term> I.</bibl></p> 
+            <p n="31"> <bibl corresp="#c_Eutych_Vigil_Thaps"><author corresp="#VIGILIUS_THAPSENSIS">S. Vigilii papa</author> 
+                libri contra Euticeten hæreticum <term type="volumen">vol.</term></bibl></p> 
+            <p n="32"> <bibl corresp="#prognost">libri prognosticorum futuri saeculi <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="33"><bibl type="comput" corresp="#comput">computum et cyclum in uno <term type="libellus">libello</term>.</bibl></p> 
+            <p n="34"> <bibl type="exegesis" corresp="#in_Ezech_Hier">in Exechielem <author corresp="#HIERONYMUS">Hieronymi</author> posterior pars praestita est ad Dyonis.</bibl></p> 
+            <p n="35"> <bibl type="exegesis" corresp="#in_eccles_Hier"><author corresp="#HIERONYMUS">Hieronymi</author> in ecclesiasten exegesis.</bibl></p>
+            <p n="36"><bibl corresp="#in_psalm_Hier"><author corresp="#HIERONYMUS">Hieronymi</author> in psalmos quosdam <term type="liber">lib.</term> I.</bibl></p> 
+            <p n="37"> <bibl>
+                    <bibl type="exegesis" corresp="#in_Tit_Alcuinus"><author corresp="#ALCUINUS">Alchuini</author> <term type="liber">lib.</term> super epistolas Pauli ad Titum</bibl> 
+                    <bibl type="exegesis" corresp="#in_Phil_Alcuinus">ad Philemonem</bibl> et 
+                    <bibl type="exegesis" corresp="#in_Hebr_Alcuinus">ad Hebræos</bibl>.</bibl> </p>
+            <p n="38"> <bibl type="historia" corresp="#hist_Flav_Ios">istoria <author corresp="#FLAVIUS_IOSEPHUS">Iosephi</author> XIV <term type="liber">libri</term> in <term type="codex">codice</term> uno</bibl></p>
+            <p n="39"> <bibl><term type="liber">liber</term> 
+                    <bibl type="lex" corresp="#lex_Alamannica">lex Alemannica</bibl>, et 
+                    <bibl type="liturgia" corresp="#paenitentiale">penitential</bibl>, et 
+                    <bibl type="mappa" corresp="#cartul">cartul.</bibl> in <term type="codicillus">codicello</term> I.</bibl></p></div>
+            
+            <div>
+                <head>De libris abbatis ERLEBALDI.</head> 
+            <p n="40"><bibl type="liturgia" corresp="#sacramentarium_Greg_M"><term type="liber">liber</term> sacramentorum <author corresp="#GREGORIUS_MAGNUS">Gregorii</author>, unum vol.</bibl></p> 
+            <p n="41"><bibl type="biblia" corresp="#evang"><term type="liber">liber</term> sancti evangelii ad legendum unum.</bibl></p>
+            <p n="42"><bibl type="liturgia" corresp="#lectionarium">lectionarium unum similiter ad legendum.</bibl></p> 
+            <p n="43"><bibl type="liturgia" corresp="#antiphonarium">antiphonarium I.</bibl> </p>
+            <p n="44"><bibl type="liturgia" corresp="#paenitentiale">pænitentiale I de canone scapsatum.</bibl></p> 
+            <p n="45"><bibl type="liturgia" corresp="#missale_Greg_M">missale unum <author corresp="#GREGORIUS_MAGNUS">Gregorii</author> in quo publica missa canitur.</bibl></p> 
+            <p n="46"><bibl type="liturgia" corresp="#antiphonarium">antiphonarium unum plenarium.</bibl></p>
+            </div> 
+            
+            <div><head>De libris C.</head> 
+                <p n="47"> <bibl type="biblia" corresp="#biblia" ana="lacune">In Bibliotheca dimidia in qua lib........</bibl> </p>
+                <p n="48"> <bibl type="quaestiones" corresp="#quaest_test_Aug" ana="lacune"><gloss>Boldman presb. attulit</gloss> <term type="liber">lib.</term> quæstionum <author corresp="#AUGUSTINUS">S. Augustini</author> veteris ac novi testamenti continentem capita . .</bibl></p> 
+                <p n="49"> <bibl corresp="#psalt_Hier"><gloss>M... presb. dedit nobis</gloss> psalte. <author corresp="#HIERONYMUS">Hieronymi</author> et</bibl></p> 
+                <p n="50"> <bibl type="liturgia" corresp="#psalterium" ana="1">duo psalteria.</bibl></p>
+                <p n="51" sameAs="50"> <bibl type="liturgia" corresp="#psalterium" ana="2">duo psalteria.</bibl></p> 
+                <p n="52"><bibl type="liturgia" corresp="#lectionarium"><gloss>Machelm presb. dedit....</gloss> et lectionarium.</bibl></p> 
+                <p n="53"><bibl type="sermo" corresp="#homiliarius"><gloss>.... presb. attulit</gloss> <term type="liber">libros</term> ... XL homil. <author corresp="#GREGORIUS_MAGNUS">Gregor</author>.</bibl></p> 
+                <p n="54"><bibl type="liturgia" corresp="#psalterium">et psalte.</bibl></p> 
+                <p n="55"><bibl type="vita" corresp="#vita_patrum">vitas patrum,</bibl></p> 
+                <p n="56"><bibl type="sententia" corresp="#sententiae"><term type="liber">librum</term> sententiarum</bibl></p> 
+                <p n="57"> et <bibl type="sermo" corresp="#homiliarius"><term type="liber">librum</term> homeliarum per circulum anni</bibl></p> 
+                <p n="58"> et <bibl corresp="#Eucher"><term type="liber">librum</term> <author corresp="#EUCHERIUS">Eucherii</author></bibl></p> 
+            <p n="59"> et <bibl type="liturgia" corresp="#psalterium">psalterium unum.</bibl> </p>
+            <p n="60"><bibl type="liturgia" corresp="#missale"><gloss>Engilpreth presb. attulit</gloss> unum missale</bibl></p> 
+            <p n="61"> et <bibl type="sermo" corresp="#hom_Greg_M"><term type="liber">lib.</term> XL homeliarum <author corresp="#GREGORIUS_MAGNUS">Gregorii</author></bibl></p> 
+            <p n="62"> et <bibl corresp="#past_Greg_M"><term type="liber">librum</term> pastoralem.</bibl></p> 
+            <p n="63"><bibl type="liturgia" corresp="#missale"><gloss>Salomon presb. dedit</gloss> missale</bibl></p> 
+            <p n="64"> et <bibl type="liturgia" corresp="#lectionarium">lectionarium </bibl></p>
+            <p n="65"> et <bibl type="liturgia" corresp="#antiphonarium">antiphonarium.</bibl></p>
+            <p n="66"><bibl type="liturgia" corresp="#missale"><gloss>Scrutolf presb.</gloss> unum missale</bibl></p> 
+            <p n="67"> et <bibl type="liturgia" corresp="#psalterium">psalterium <gloss>attulit</gloss>.</bibl></p> 
+            <p n="68"><bibl type="liturgia" corresp="#missale"><gloss>Perigher presb. attulit</gloss> missale.</bibl></p> 
+            <p n="69"> <bibl type="liturgia" corresp="#missale"><gloss>Heimo presb. attulit</gloss> missale</bibl></p> 
+            <p n="70"> <bibl type="liturgia" corresp="#lectionarium">et lectionar.</bibl></p> 
+            <p n="71"> <bibl type="liturgia" corresp="#missale"><gloss>Windheri presb. attulit</gloss> missale</bibl></p> 
+            <p n="72"><bibl type="liturgia" corresp="#lectionarium">et lectionar.</bibl></p> 
+            <p n="73"> <bibl><gloss>Engilpreth presb.</gloss> 
+                    <bibl type="liturgia" corresp="#missale">missale</bibl> cum 
+                    <bibl type="liturgia" corresp="#lectionarium">lect</bibl>. 
+                    <bibl type="liturgia" corresp="#psalterium">psalterio</bibl> et 
+                    <bibl type="liturgia" corresp="#antiphonarium">antiph</bibl>. <gloss>attulit</gloss>.</bibl></p> 
+            <p n="74"> <bibl type="liturgia" corresp="#missale"><gloss>Eberhart dedit</gloss> missale</bibl></p> 
+            <p n="75"> <bibl type="liturgia" corresp="#psalterium">et psalterium.</bibl></p> 
+            <p n="76"> <bibl type="liturgia" corresp="#missale"><gloss>Witpreth habet</gloss> missale I.</bibl></p> 
+            <p n="77"> <bibl type="liturgia" corresp="#psalterium">et <gloss>attulit</gloss> psalterium I.</bibl></p> 
+            <p n="78"> <bibl ana="lacune">Hartman. .................</bibl> </p>
+            <p n="79"> <bibl type="liturgia" corresp="#missale"><gloss>Wolfman presb. dimisit</gloss> missale</bibl></p>
+            <p n="80"> <bibl type="liturgia" corresp="#antiphonarium">antiphonarium.</bibl></p>
+            <p n="81"> <bibl type="regula" corresp="#reg_Alemannorum">regulam</bibl></p> 
+                <p n="82"> <bibl type="lex" corresp="#lex_Alamannica">et legem Alemannorum.</bibl></p> 
+            <p n="83"> <bibl><gloss>Otpreth presb. dimisit </gloss>
+                    <bibl type="liturgia" corresp="#missale">missale unum</bibl> cum 
+                    <bibl type="liturgia" corresp="#lectionarium">lection</bibl>, et 
+                    <bibl type="regula" corresp="#reg_patrum">regulam</bibl> et 
+                    <bibl type="vita" corresp="#vita_patrum">vitas patrum</bibl> in uno <term type="codex">codice</term>.</bibl></p> 
+            <p n="84"> <bibl type="liturgia" corresp="#psalterium"><gloss>Keidolf presb.</gloss> psalterium.</bibl></p>
+            <p n="85"> <bibl type="liturgia" corresp="#missale">missale I <gloss>supervenit quem Ratpold habet</gloss>.</bibl></p> 
+            <p n="86"> <bibl type="liturgia" corresp="#missale">missale I <gloss>advenit quem Ratfrid tenet</gloss>.</bibl></p> 
+            <p n="87"> <bibl type="liturgia" corresp="#missale">missale I <gloss>advenit qui adhuc cum libris</gloss>.</bibl></p> 
+                <p n="88"> <bibl type="liturgia" corresp="#missale">item <gloss>Perather presb.</gloss> missale.</bibl></p> 
+                <p n="89"> <bibl type="liturgia" corresp="#missale"><gloss>Adalgir presb.</gloss> missale <gloss>sibi</gloss></bibl></p> 
+                <p n="90"> <bibl type="liturgia" corresp="#missale"><gloss>Woldfregi diacon.</gloss> missale sibi.</bibl></p> 
+                <p n="91"> <bibl type="liturgia" corresp="#missale"><gloss>Otfrid presb.</gloss> missale <gloss>sibi scribi fecit</gloss>.</bibl></p> 
+                <p n="92"><bibl type="liturgia" corresp="#psalterium" ana="1"><gloss>Noterim</gloss> duo psalteria <gloss>sibi scribi fecit</gloss>.</bibl> </p>
+                <p n="93" sameAs="92"><bibl type="liturgia" corresp="#psalterium" ana="2"><gloss>Noterim</gloss> duo psalteria <gloss>sibi scribi fecit</gloss>.</bibl> </p>
+                <p n="94"> <bibl type="liturgia" corresp="#psalterium" ana="1"><gloss>Eto</gloss> psalteria duo <gloss>sibi adquisivit</gloss>.</bibl></p>
+                <p n="95" sameAs="94"> <bibl type="liturgia" corresp="#psalterium" ana="1"><gloss>Eto</gloss> psalteria duo <gloss>sibi adquisivit</gloss>.</bibl></p> 
+                <p n="96"><bibl type="liturgia" corresp="#psalterium"><gloss>Ratpold presb.</gloss> psalterium I <gloss>adquisivit</gloss>.</bibl></p> 
+                <p n="97"><bibl type="liturgia" corresp="#missale"><gloss>Ruadhelm presb.</gloss> missale <gloss>sibi conscripsit</gloss>.</bibl></p> 
+                <p n="98"><bibl type="liturgia" corresp="#missale"><gloss>Wito presb.</gloss> missale <gloss>semiscriptum dimisit; quem Ruadhelm perscripsit et donavit</gloss>.</bibl></p> 
+            <p n="99"> <bibl ana="lacune"><gloss>Eremfrid presb. attulit</gloss> <term type="liber">libros</term> ........</bibl></p> 
+                <p n="100"> <bibl type="liturgia" corresp="#psalterium">et I. psalt. </bibl></p>
+                <p n="101"> <bibl type="liturgia" corresp="#antiphonarium">et I. antiph.</bibl></p> 
+            <p n="102"> <bibl type="liturgia" corresp="#antiphonarium"><gloss>Hunzo presb. dedit</gloss> <term type="liber">lib.</term> I similiter</bibl></p> 
+            <p n="103"> <bibl type="liturgia" corresp="#lectionarium">et I lectionar.</bibl></p>
+            <p n="104"> <bibl type="historia" corresp="#hist_Flav_Ios">et <term type="liber">lib.</term> istoriae <author corresp="#FLAVIUS_IOSEPHUS">Iosephi</author> et caetera in <term type="volumen">vol.</term> I.</bibl></p> 
+            <p n="105"> <bibl type="collectio">
+                    <bibl type="historia" corresp="#Franc_Greg_Tur">chronica <author corresp="#GREGORIUS_TURONENSIS">Gregorii episcopi de Turonis</author></bibl> 
+                    <bibl corresp="#Lib_pontif">gesta pontificum</bibl> et 
+                    <bibl corresp="#chron_Beda">chronica <author corresp="#BEDA">Bedani presb.</author></bibl> in <term type="volumen">volumine</term> uno.</bibl></p>
+            <p n="106"> <bibl corresp="#lib_prophet">lib. prophetarum <gloss>quem Hiltiger de Italia adduxit</gloss>.</bibl></p> 
+            <p n="107"> <bibl type="collectio">
+                    <bibl corresp="#c_arrian_Vigil_Thaps"><author corresp="#ATHANASIUS">S. Athanasii</author> altercatio cum hæreticis</bibl> et 
+                <bibl type="vita" corresp="#vita_Martini">vita S. Martini in <term type="volumen">vol.</term> uno.</bibl></bibl></p> 
+            <p n="108"> <bibl>item 
+                    <bibl corresp="#c_arrian_Vigil_Thaps">altercatio <author corresp="#ATHANASIUS" ana="VIGILIUS_THAPSENSIS">Athanasii</author> cum Arrio</bibl> et 
+                    <bibl corresp="#c_Lucif_Hier"><author corresp="#HIERONYMUS">Hieronymi</author> adversus Luciferum</bibl> <term type="volumen">vol</term>. I.</bibl></p>
+                <p n="109"> <bibl type="liturgia" corresp="#missale"><gloss>Kernentit presb. vendidit</gloss> missale unum</bibl></p> 
+            <p n="110"> <bibl type="liturgia" corresp="#psalterium">et psalt. unum.</bibl></p> 
+                <p n="111"> <bibl type="liturgia" corresp="#psalterium"><gloss>Ericho vendidit</gloss> psalt. I <gloss>qui fuit mone. . .</gloss></bibl></p> 
+                <p n="112"> <bibl type="liturgia" corresp="#antiphonarium"><gloss>Tuato</gloss> antiphonarium <gloss>valde bonum quem dedit Drudman presb</gloss>.</bibl></p> </div>
+            <note><bibl type="source">Neugart. Episcopatus Constantiensis. I 1 p. 544-46</bibl> cf. <bibl type="source">E. G. Vogel in Serapei III 7</bibl>.</note> 
+        </body>
+    </text>
+</TEI>

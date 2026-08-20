@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="master">
+    <xi:include href="CBA_1.xml"/>
+    <xi:include href="CBA_4.xml"/>
+    <xi:include href="CBA_6.xml"/>
+    <xi:include href="CBA_7.xml"/>
+    <xi:include href="CBA_8.xml"/>
+    <xi:include href="CBA_9.xml"/>
+    <xi:include href="CBA_10.xml"/>
+    <xi:include href="CBA_11.xml"/>
+    <xi:include href="CBA_13.xml"/>
+    <xi:include href="CBA_14.xml"/>
+    <xi:include href="CBA_15.xml"/>   
+    <xi:include href="CBA_19.xml"/>  
+    <xi:include href="CBA_22.xml"/>
+    <xi:include href="CBA_32.xml"/>
+</master>

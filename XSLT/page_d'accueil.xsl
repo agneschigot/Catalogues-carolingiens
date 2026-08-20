@@ -25,7 +25,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/accueil.css</xsl:text>
+                            <xsl:text>css/accueil.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -40,6 +40,7 @@
                                 <xsl:element name="li">
                                     <xsl:element name="a">
                                         <xsl:attribute name="href">
+                                            <xsl:text>HTML/</xsl:text>
                                             <xsl:value-of select="current-grouping-key()"/>
                                             <xsl:text>.html</xsl:text>
 
@@ -55,7 +56,7 @@
                         <xsl:element name="li">
                             <xsl:element name="a">
                                 <xsl:attribute name="href">
-                                    <xsl:text>Auteurs.html</xsl:text>
+                                    <xsl:text>HTML/Auteurs.html</xsl:text>
                                 </xsl:attribute>
                                 <xsl:text>Liste des auteurs</xsl:text>
                             </xsl:element>
@@ -66,7 +67,7 @@
                         <xsl:element name="li">
                             <xsl:element name="a">
                                 <xsl:attribute name="href">
-                                    <xsl:text>Thèmes.html</xsl:text>
+                                    <xsl:text>HTML/Thèmes.html</xsl:text>
                                 </xsl:attribute>
                                 <xsl:text>Liste des Thèmes</xsl:text>
                             </xsl:element>
@@ -77,14 +78,14 @@
                         <xsl:element name="li">
                             <xsl:element name="a">
                                 <xsl:attribute name="href">
-                                    <xsl:text>Epithete_auteurs.html</xsl:text>
+                                    <xsl:text>HTML/Epithete_auteurs.html</xsl:text>
                                 </xsl:attribute>
                                 <xsl:text>Epithète des auteurs</xsl:text>
                             </xsl:element>
                             <xsl:element name="li">
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
-                                        <xsl:text>Rubriques.html</xsl:text>
+                                        <xsl:text>HTML/Rubriques.html</xsl:text>
                                     </xsl:attribute>
                                     <xsl:text>Titre des Rubriques</xsl:text>
                                 </xsl:element>
@@ -92,7 +93,7 @@
                             <xsl:element name="li">
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
-                                        <xsl:text>Codex.html</xsl:text>
+                                        <xsl:text>HTML/Codex.html</xsl:text>
                                     </xsl:attribute>
                                     <xsl:text>Codex, volumen, liber...</xsl:text>
                                 </xsl:element>
@@ -100,7 +101,7 @@
                             <xsl:element name="li">
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
-                                        <xsl:text>Spécification.html</xsl:text>
+                                        <xsl:text>HTML/Spécification.html</xsl:text>
                                     </xsl:attribute>
                                     <xsl:text>Spécifications et gloses</xsl:text>
                                 </xsl:element>
@@ -112,7 +113,7 @@
                         <xsl:element name="li">
                             <xsl:element name="a">
                                 <xsl:attribute name="href">
-                                    <xsl:text>Livres.html</xsl:text>
+                                    <xsl:text>HTML/Livres.html</xsl:text>
                                 </xsl:attribute>
                                 <xsl:text>Liste des livres</xsl:text>
                             </xsl:element>
@@ -151,7 +152,7 @@
                                 <xsl:text>stylesheet</xsl:text>
                             </xsl:attribute>
                             <xsl:attribute name="href">
-                                <xsl:text>../css/abbayes.css</xsl:text>
+                                <xsl:text>css/abbayes.css</xsl:text>
                             </xsl:attribute>
                         </xsl:element>
                     </xsl:element>

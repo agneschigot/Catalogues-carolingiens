@@ -151,7 +151,7 @@
                                 <xsl:text>stylesheet</xsl:text>
                             </xsl:attribute>
                             <xsl:attribute name="href">
-                                <xsl:text>css/abbayes.css</xsl:text>
+                                <xsl:text>CSS/abbayes.css</xsl:text>
                             </xsl:attribute>
                         </xsl:element>
                     </xsl:element>
@@ -278,7 +278,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/liste_auteurs.css</xsl:text>
+                            <xsl:text>CSS/liste_auteurs.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -327,7 +327,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/liste_thèmes.css</xsl:text>
+                            <xsl:text>CSS/liste_thèmes.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -378,7 +378,7 @@
                                 <xsl:text>stylesheet</xsl:text>
                             </xsl:attribute>
                             <xsl:attribute name="href">
-                                <xsl:text>../css/liste_auteurs.css</xsl:text>
+                                <xsl:text>CSS/liste_auteurs.css</xsl:text>
                             </xsl:attribute>
                         </xsl:element>
                     </xsl:element>
@@ -427,7 +427,7 @@
                                 <xsl:text>stylesheet</xsl:text>
                             </xsl:attribute>
                             <xsl:attribute name="href">
-                                <xsl:text>../css/liste_auteurs.css</xsl:text>
+                                <xsl:text>CSS/liste_auteurs.css</xsl:text>
                             </xsl:attribute>
                         </xsl:element>
                     </xsl:element>
@@ -475,7 +475,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/rubriques.css</xsl:text>
+                            <xsl:text>CSS/rubriques.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -526,7 +526,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/liste_auteurs.css</xsl:text>
+                            <xsl:text>CSS/liste_auteurs.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -577,7 +577,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/liste_auteurs.css</xsl:text>
+                            <xsl:text>CSS/liste_auteurs.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -598,7 +598,7 @@
                                 <xsl:value-of select="count(current-group())"/>
                             </xsl:element>
                         </xsl:for-each-group>
-                        <img class="graphique" src="image/Proportion_des_termes.jpg"/>
+                        <img class="graphique" src="../image/Proportion_des_termes.jpg"/>
                     </xsl:element>
                 </xsl:element>
             </xsl:element>
@@ -624,7 +624,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/rubriques.css</xsl:text>
+                            <xsl:text>CSS/rubriques.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>
@@ -674,7 +674,7 @@
                             <xsl:text>stylesheet</xsl:text>
                         </xsl:attribute>
                         <xsl:attribute name="href">
-                            <xsl:text>../css/liste_auteurs.css</xsl:text>
+                            <xsl:text>CSS/liste_auteurs.css</xsl:text>
                         </xsl:attribute>
                     </xsl:element>
                 </xsl:element>

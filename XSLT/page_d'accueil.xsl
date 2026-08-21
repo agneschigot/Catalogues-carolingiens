@@ -598,7 +598,7 @@
                                 <xsl:value-of select="count(current-group())"/>
                             </xsl:element>
                         </xsl:for-each-group>
-                        <img class="graphique" src="../image/Proportion_des_termes.jpg"/>
+                        <img class="graphique" src="image/Proportion_des_termes.jpg"/>
                     </xsl:element>
                 </xsl:element>
             </xsl:element>
